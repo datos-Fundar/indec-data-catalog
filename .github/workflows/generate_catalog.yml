@@ -1,0 +1,47 @@
+name: Generar Catálogo INDEC
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Domingo 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # necesario para commit
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+
+      - name: Instalar dependencias
+        run: uv sync
+
+      - name: Ejecutar tests
+        run: uv run --group dev pytest
+
+      - name: Generar catálogo
+        run: uv run python -m indec_catalog.cli --no-progress
+
+      - name: Commit catálogo si hubo cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git status --porcelain | grep data/; then
+            git add data/
+            git commit -m "Actualiza índice de datos INDEC"
+            git push
+          else
+            echo "No hay cambios en el catálogo"
+          fi
