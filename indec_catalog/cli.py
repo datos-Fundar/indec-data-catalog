@@ -56,6 +56,7 @@ def main():
                 show_progress=not args.no_progress,
             )
             
+            Path("data").mkdir(parents=True, exist_ok=True)
             output_path = Path(args.output)
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(catalog, f, indent=2, ensure_ascii=False)
