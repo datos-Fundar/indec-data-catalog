@@ -5,7 +5,8 @@ import json
 import sys
 from pathlib import Path
 from indec_catalog.catalog import generate_catalog, generate_catalog_with_errors
-
+from indec_catalog.models import Catalog
+from typing import List
 
 def main():
     """Función principal del CLI."""
@@ -35,13 +36,13 @@ def main():
     
     try:
         if args.errors:
-            catalog, errors = generate_catalog_with_errors(
+            catalog : List[Catalog], errors : List[dict[str, str]] = generate_catalog_with_errors(
                 show_progress=not args.no_progress,
             )
             
             output_path = Path(args.output)
             with open(output_path, "w", encoding="utf-8") as f:
-                json.dump(catalog, f, indent=2, ensure_ascii=False)
+                json.dump([x.model_dump() for x in catalog], f, indent=2, ensure_ascii=False)
             print(f"Catálogo guardado en: {output_path}")
             
             if errors:
@@ -51,14 +52,14 @@ def main():
                 print(f"Errores guardados en: {errors_path}")
                 print(f"Total de errores: {len(errors)}")
         else:
-            catalog = generate_catalog(
+            catalog : List[Catalog] = generate_catalog(
                 show_progress=not args.no_progress,
             )
             
             Path("data").mkdir(parents=True, exist_ok=True)
             output_path = Path(args.output)
             with open(output_path, "w", encoding="utf-8") as f:
-                json.dump(catalog, f, indent=2, ensure_ascii=False)
+                json.dump([x.model_dump() for x in catalog], f, indent=2, ensure_ascii=False)
             print(f"Catálogo guardado en: {output_path}")
         
         print(f"Total de registros: {len(catalog)}")
