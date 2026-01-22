@@ -23,6 +23,7 @@ def build_url(data_view: str, base_url: str) -> str:
     url = f"{base_url}/{data_view}"
     return url
 
+
 def extract_sitemap_urls(
     sitemap_url: str = SITEMAP_URL, regex_pattern: str = DEFAULT_SITEMAP_REGEX
 ) -> List[str]:
@@ -54,6 +55,4 @@ def extract_sitemap_urls(
                 urls.append(data_view_str)
     
     return urls
-
-
 

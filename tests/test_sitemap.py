@@ -1,6 +1,5 @@
 """Tests para el módulo sitemap."""
 
-import xml.etree.ElementTree as ET
 import pytest
 from unittest.mock import patch, Mock
 import requests
@@ -13,42 +12,66 @@ class TestExtractSitemapUrls:
     """Tests para extract_sitemap_urls."""
     
     def test_extract_urls_with_matching_pattern(self):
-        """Extrae URLs que coinciden con el patrón."""
-        xml_content = """<?xml version="1.0" encoding="UTF-8"?>
-        <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-            <url>
-                <loc>https://www.indec.gob.ar/Nivel4/Tema-123</loc>
-            </url>
-            <url>
-                <loc>https://www.indec.gob.ar/Nivel4/Tema-456</loc>
-            </url>
-            <url>
-                <loc>https://www.indec.gob.ar/otra-pagina</loc>
-            </url>
-        </urlset>"""
+        """Extrae valores de data-view que coinciden con el patrón."""
+        html_content = """
+        <html>
+            <body>
+                <ul>
+                    <li data-view="Nivel4/Tema/2/41/170">Censo 1970</li>
+                    <li data-view="Nivel4/Tema/2/41/164">Censo 1980</li>
+                    <li data-view="Otro/Tema/1/2/3">Otra página</li>
+                </ul>
+            </body>
+        </html>
+        """
         
         mock_response = Mock()
-        mock_response.content = xml_content.encode()
+        mock_response.content = html_content.encode()
         mock_response.raise_for_status = Mock()
         
         with patch("indec_catalog.sitemap.requests.get", return_value=mock_response):
             urls = extract_sitemap_urls(regex_pattern="Nivel4")
             
         assert len(urls) == 2
-        assert "https://www.indec.gob.ar/Nivel4/Tema-123" in urls
-        assert "https://www.indec.gob.ar/Nivel4/Tema-456" in urls
+        assert "Nivel4/Tema/2/41/170" in urls
+        assert "Nivel4/Tema/2/41/164" in urls
     
     def test_extract_urls_no_matches(self):
         """Retorna lista vacía si no hay coincidencias."""
-        xml_content = """<?xml version="1.0" encoding="UTF-8"?>
-        <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-            <url>
-                <loc>https://www.indec.gob.ar/otra-pagina</loc>
-            </url>
-        </urlset>"""
+        html_content = """
+        <html>
+            <body>
+                <ul>
+                    <li data-view="Otro/Tema/1/2/3">Otra página</li>
+                </ul>
+            </body>
+        </html>
+        """
         
         mock_response = Mock()
-        mock_response.content = xml_content.encode()
+        mock_response.content = html_content.encode()
+        mock_response.raise_for_status = Mock()
+        
+        with patch("indec_catalog.sitemap.requests.get", return_value=mock_response):
+            urls = extract_sitemap_urls(regex_pattern="Nivel4")
+            
+        assert len(urls) == 0
+    
+    def test_extract_urls_no_li_with_data_view(self):
+        """Retorna lista vacía si no hay elementos li con data-view."""
+        html_content = """
+        <html>
+            <body>
+                <ul>
+                    <li>Sin data-view</li>
+                    <li class="test">Otro sin data-view</li>
+                </ul>
+            </body>
+        </html>
+        """
+        
+        mock_response = Mock()
+        mock_response.content = html_content.encode()
         mock_response.raise_for_status = Mock()
         
         with patch("indec_catalog.sitemap.requests.get", return_value=mock_response):
@@ -66,19 +89,19 @@ class TestExtractSitemapUrls:
 class TestBuildUrl:
     """Tests para build_url."""
     
-    def test_build_url_from_sitemap_link(self):
-        """Construye correctamente la URL del tema."""
-        link = "https://www.indec.gob.ar/Nivel4-Tema-123-Subtema-456"
-        expected = f"{BASE_URL}/Nivel4/Tema/123/Subtema/456"
+    def test_build_url_from_data_view(self):
+        """Construye correctamente la URL del tema desde data-view."""
+        data_view = "Nivel4/Tema/2/41/170"
+        expected = f"{BASE_URL}/Nivel4/Tema/2/41/170"
         
-        result = build_url(link, BASE_URL)
+        result = build_url(data_view, BASE_URL)
         assert result == expected
     
     def test_build_url_simple(self):
-        """Construye URL simple sin guiones."""
-        link = "https://www.indec.gob.ar/Nivel4-Tema-123"
-        expected = f"{BASE_URL}/Nivel4/Tema/123"
+        """Construye URL simple desde data-view."""
+        data_view = "Nivel4/Tema/1/2/3"
+        expected = f"{BASE_URL}/Nivel4/Tema/1/2/3"
         
-        result = build_url(link, BASE_URL)
+        result = build_url(data_view, BASE_URL)
         assert result == expected
 
