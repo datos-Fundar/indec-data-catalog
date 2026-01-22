@@ -5,5 +5,7 @@ class Archivo(BaseModel):
     url: str
 
 class Catalog(BaseModel):
-    # ...
+    tema: str
+    subtema: str
+    agrupamiento: str
     archivos: list[Archivo]

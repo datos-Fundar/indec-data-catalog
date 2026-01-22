@@ -1,12 +1,11 @@
 """Módulo principal para generar el catálogo de datos del INDEC."""
 
-from typing import Any, List, Dict
-from tqdm import tqdm
-
 from indec_catalog.config import BASE_URL
 from indec_catalog.sitemap import extract_sitemap_urls, build_url
 from indec_catalog.scraper import fetch_tema_data
 from indec_catalog.models import Catalog
+from typing import Any, List, Dict
+from tqdm import tqdm
 
 
 def generate_catalog_with_errors(

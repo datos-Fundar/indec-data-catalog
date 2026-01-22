@@ -4,7 +4,6 @@ import argparse
 import json
 import sys
 from pathlib import Path
-
 from indec_catalog.catalog import generate_catalog, generate_catalog_with_errors
 
 
