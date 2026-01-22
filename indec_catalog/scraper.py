@@ -33,6 +33,6 @@ def fetch_tema_data(url: str) -> Dict | None:
         return None
     
     archivos = extract_data_links(soup, BASE_URL)
-    tema_info["archivos"] = archivos
+    tema_info["archivos"]  = archivos
     return tema_info
 
