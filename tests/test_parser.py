@@ -61,7 +61,8 @@ class TestExtractDataLinks:
             <body>
                 <a href="/datos.csv">Absoluta</a>
                 <a href="datos.xlsx">Relativa</a>
-                <a href="/../../datos.txt">Con ../..</a>
+                <a href="/../../datos.txt">Con /../..</a>
+                <a href="../../datos.txt">Con ../..</a>
             </body>
         </html>
         """
@@ -72,6 +73,7 @@ class TestExtractDataLinks:
         links_dict = {link["nombre_archivo"]: link["url"] for link in links}
         assert links_dict["Absoluta"] == f"{BASE_URL}/datos.csv"
         assert links_dict["Relativa"] == f"{BASE_URL}/datos.xlsx"
+        assert links_dict["Con /../.."] == f"{BASE_URL}/datos.txt"
         assert links_dict["Con ../.."] == f"{BASE_URL}/datos.txt"
 
 

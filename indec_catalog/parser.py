@@ -56,6 +56,8 @@ def _normalize_url(href: str, base_url: str) -> str:
         return href
     elif href.startswith("/../../"):
         return f"{base_url}{re.sub('/../../', '/', href)}"
+    elif href.startswith("../../"):
+        return f"{base_url}{re.sub('../../', '/', href)}"
     elif href.startswith("/"):
         return f"{base_url}{href}"
     else:
