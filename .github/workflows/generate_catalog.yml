@@ -3,6 +3,9 @@ name: Generar Catálogo INDEC
 on:
   schedule:
     - cron: '0 0 * * 0'  # Domingo 00:00 UTC
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
