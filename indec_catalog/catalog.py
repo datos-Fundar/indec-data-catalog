@@ -6,38 +6,7 @@ from tqdm import tqdm
 from indec_catalog.config import BASE_URL
 from indec_catalog.sitemap import extract_sitemap_urls, build_url
 from indec_catalog.scraper import fetch_tema_data
-
-
-def generate_catalog(
-    show_progress: bool = True,
-) -> List[Dict]:
-    """
-    Genera un catálogo con todas las fuentes de datos del INDEC.
-    
-    Args:
-        show_progress: Si mostrar barra de progreso (default: True).
-        
-    Returns:
-        Lista de diccionarios con las claves: tema, subtema, agrupamiento, archivos.
-        Cada archivo es un diccionario con 'nombre_archivo' y 'url'.
-        
-    Raises:
-        requests.RequestException: Si falla la conexión con el sitemap.
-    """
-    links = extract_sitemap_urls()
-    result: List[Dict] = []
-    
-    iterable = tqdm(links, desc="Procesando links") if show_progress else links
-    
-    for link in iterable:
-        url = build_url(link, BASE_URL)
-        tema_data = fetch_tema_data(url)
-        if tema_data is not None:
-            result.append(tema_data)
-    
-    result = [x for x in result if x['archivos'] != []]
-    
-    return result
+from indec_catalog.models import Catalog
 
 
 def generate_catalog_with_errors(
@@ -72,3 +41,26 @@ def generate_catalog_with_errors(
     
     return result, errors
 
+
+def generate_catalog(
+    show_progress: bool = True,
+) -> List[Catalog]:
+    """
+    Genera un catálogo con todas las fuentes de datos del INDEC.
+    
+    Args:
+        show_progress: Si mostrar barra de progreso (default: True).
+        
+    Returns:
+        Lista de diccionarios con las claves: tema, subtema, agrupamiento, archivos.
+        Cada archivo es un diccionario con 'nombre_archivo' y 'url'.
+        
+    Raises:
+        requests.RequestException: Si falla la conexión con el sitemap.
+    """
+    result, _ = generate_catalog_with_errors(show_progress)
+
+    return [
+        Catalog.model_validate(x) 
+        for x in result if x['archivos'] != []
+    ]
