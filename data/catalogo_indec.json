@@ -133,231 +133,231 @@
     "archivos": [
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_totalpais91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_totalpais91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_totalpais91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_totalpais91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_capital91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_capital91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_capital91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_capital91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_capitalygba91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_capitalygba91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_catamarca91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_catamarca91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_catamarca91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_catamarca91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_chaco91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_chaco91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_chaco91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_chaco91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_chubut91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_chubut91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_chubut91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_chubut91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_cordoba91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_cordoba91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_cordoba91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_cordoba91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_corrientes91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_corrientes91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_corrientes91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_corrientes91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_entrerios91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_entrerios91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_entrerios91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_entrerios91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_formosa91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_formosa91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_formosa91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_formosa91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_gba91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_gba91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_gba91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_gba91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_jujuy91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_jujuy91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_jujuy91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_jujuy91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_lapampa91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_lapampa91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_lapampa91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_lapampa91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_larioja91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_larioja91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_larioja91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_larioja91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_mendoza91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_mendoza91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_mendoza91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_mendoza91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_misiones91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_misiones91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_misiones91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_misiones91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_neuquen91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_neuquen91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_neuquen91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_neuquen91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_restoBA91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_restoBA91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_restoBA91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_restoBA91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_rionegro91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_rionegro91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_rionegro91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_rionegro91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_salta91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_salta91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_salta91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_salta91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_sanjuan91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_sanjuan91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_sanjuan91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_sanjuan91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_sanluis91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_sanluis91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_sanluis91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_sanluis91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_santacruz91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_santacruz91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_santacruz91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_santacruz91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_santafe91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_santafe91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_santafe91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_santafe91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_santiago91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_santiago91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_santiago91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_santiago91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_tierradelfuego91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_tierradelfuego91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_tierradelfuego91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_tierradelfuego91.zip"
       },
       {
         "nombre_archivo": "Población",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/poblacion_tucuman91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/poblacion_tucuman91.zip"
       },
       {
         "nombre_archivo": "Vivienda",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/vivienda_tucuman91.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/vivienda_tucuman91.zip"
       },
       {
         "nombre_archivo": "Base de datos de personas del cuestionario básico del Censo 1991",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/base_censo_1991_personas_b.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/base_censo_1991_personas_b.zip"
       },
       {
         "nombre_archivo": "Base de datos de hogares del cuestionario básico del Censo 1991",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/base_censo_1991_hogares_b.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/base_censo_1991_hogares_b.zip"
       },
       {
         "nombre_archivo": "Base de datos de viviendas del cuestionario básico del Censo 1991",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/base_censo_1991_viviendas_b.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/base_censo_1991_viviendas_b.zip"
       },
       {
         "nombre_archivo": "Diccionario de códigos de provincias del Censo 1991",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/censo_1991_codigos_provincias.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/censo_1991_codigos_provincias.xlsx"
       }
     ]
   },
@@ -368,7 +368,7 @@
     "archivos": [
       {
         "nombre_archivo": "Censo Nacional de Población, Hogares y Viviendas 2010. Censo del Bicentenario. Pueblos Originarios",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/pueblos_originarios_regiones.rar"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pueblos_originarios_regiones.rar"
       }
     ]
   },
@@ -529,11 +529,11 @@
     "archivos": [
       {
         "nombre_archivo": "Resultados de la EANNA Urbana (actualización septiembre de 2019)",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/3_eanna_urbana.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/3_eanna_urbana.zip"
       },
       {
         "nombre_archivo": "Resultados de la EANNA Rural (actualización septiembre de 2019)",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/4_eanna_rural.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/4_eanna_rural.zip"
       },
       {
         "nombre_archivo": "Comparación internacional",
@@ -595,23 +595,23 @@
     "archivos": [
       {
         "nombre_archivo": "Capítulo 6. Prevalencia y estructura por sexo y edad de la población con dificultad",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/discapacidad_2018_cap6.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/discapacidad_2018_cap6.xls"
       },
       {
         "nombre_archivo": "Capítulo 7. Cantidad y tipo de dificultad",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/discapacidad_2018_cap7.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/discapacidad_2018_cap7.xls"
       },
       {
         "nombre_archivo": "Capítulo 8. Origen y causa de la primera dificultad",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/discapacidad_2018_cap8.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/discapacidad_2018_cap8.xls"
       },
       {
         "nombre_archivo": "Capítulo 9. Certificado de discapacidad",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/discapacidad_2018_cap9.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/discapacidad_2018_cap9.xls"
       },
       {
         "nombre_archivo": "Capítulo 10. Cobertura de salud y previsión social",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/discapacidad_2018_cap10.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/discapacidad_2018_cap10.xls"
       },
       {
         "nombre_archivo": "Capítulo 11. Educación",
@@ -619,11 +619,11 @@
       },
       {
         "nombre_archivo": "Capíulo 12. Trabajo",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/discapacidad_2018_cap12.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/discapacidad_2018_cap12.xls"
       },
       {
         "nombre_archivo": "Capítulo 13. Convivencia en pareja",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/discapacidad_2018_cap13.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/discapacidad_2018_cap13.xls"
       },
       {
         "nombre_archivo": "Capítulo 14. Hogares con personas con dificultad",
@@ -631,7 +631,7 @@
       },
       {
         "nombre_archivo": "Perfil de la población con dificultad de 14 a 29 años. Localidades de 5.000 habitantes y más. Año 2018",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/cuadros_enpd_2018_jovenes.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/cuadros_enpd_2018_jovenes.xls"
       }
     ]
   },
@@ -982,27 +982,27 @@
       },
       {
         "nombre_archivo": "Años 2020-2022, en formato xlsx. Período COVID-19",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/tabla_mortalidad_2020_2022_base_xls.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/tabla_mortalidad_2020_2022_base_xls.xlsx"
       },
       {
         "nombre_archivo": "Años 2020-2022, en formato csv. Período COVID-19",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/tabla_mortalidad_2020_2022_base_csv.csv"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/tabla_mortalidad_2020_2022_base_csv.csv"
       },
       {
         "nombre_archivo": "Años 2008-2010",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/tablas_mortalidad_2008_2010.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/tablas_mortalidad_2008_2010.zip"
       },
       {
         "nombre_archivo": "Años 2000-2001",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/tablas_mortalidad_2000_2001.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/tablas_mortalidad_2000_2001.xls"
       },
       {
         "nombre_archivo": "Años 1990-1992 (actualizadas al 02/12/19)",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/tablas_mortalidad_1990_1992.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/tablas_mortalidad_1990_1992.xls"
       },
       {
         "nombre_archivo": "Años 1980-1981 (actualizadas al 02/12/19)",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/poblacion/tablas_mortalidad_1980_1981.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/tablas_mortalidad_1980_1981.xls"
       }
     ]
   },
@@ -1058,7 +1058,7 @@
     "archivos": [
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/complejos_exportadores_anexo_cuadros_27_08_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complejos_exportadores_anexo_cuadros_27_08_25.xls"
       },
       {
         "nombre_archivo": "Exportaciones por complejos exportadores. Revisión 2018. Años 2021-2024",
@@ -1209,11 +1209,11 @@
     "archivos": [
       {
         "nombre_archivo": "Ver cuadros del informe técnico",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/ica_cuadros_20_01_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_cuadros_20_01_26.xls"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/ica_anexo_cuadros_20_01_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_anexo_cuadros_20_01_26.xls"
       },
       {
         "nombre_archivo": "Balanza comercial argentina por zonas económicas y principales países. Años 2020-2024",
@@ -1285,7 +1285,7 @@
       },
       {
         "nombre_archivo": "Composición de las Zonas Económicas",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/comp_zonas_economicas.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/comp_zonas_economicas.xls"
       }
     ]
   },
@@ -1296,23 +1296,23 @@
     "archivos": [
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/opex_anexo_cuadros_03_09_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/opex_anexo_cuadros_03_09_25.xls"
       },
       {
         "nombre_archivo": "Origen provincial de las exportaciones de bienes, por provincia y principales Grandes rubros, en millones de dólares. Años 1993-2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_opex_principales_grubros_1993_2024.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_principales_grubros_1993_2024.xls"
       },
       {
         "nombre_archivo": "Origen provincial de las exportaciones de bienes por regiones económicas y otros, según Grandes rubros, en millones de dólares. Años 1993-2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_opex_regiones_economicas_grubros_1993_2024.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_regiones_economicas_grubros_1993_2024.xls"
       },
       {
         "nombre_archivo": "Origen provincial de las exportaciones de bienes por regiones económicas y otros, en millones de dólares y variaciones porcentuales. Años 1993-2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_opex_regiones_economicas_provincias_1993_2024.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_regiones_economicas_provincias_1993_2024.xls"
       },
       {
         "nombre_archivo": "Origen provincial de las exportaciones de bienes según complejos exportadores y principales zonas económicas, en millones de dólares. Años 2021-2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_opex_2021_2024.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_2021_2024.xls"
       }
     ]
   },
@@ -1432,15 +1432,15 @@
       },
       {
         "nombre_archivo": "Estimaciones anuales y trimestrales de la balanza de pagos. Años 1994-2016",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/series_bdp_I_2016.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_bdp_I_2016.xls"
       },
       {
         "nombre_archivo": "Bienes, servicios y transferencias corrientes. Primer trimestre 1994-cuarto trimestre 2016",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_balanza_bienesyservicios_4_trim_2016.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_balanza_bienesyservicios_4_trim_2016.xls"
       },
       {
         "nombre_archivo": "Estimaciones de la balanza de pagos y deuda externa. Años 1994-2016",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/series_bdp_de_1994_2016.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_bdp_de_1994_2016.xls"
       },
       {
         "nombre_archivo": "Años 2006-2019, por trimestre",
@@ -1480,31 +1480,31 @@
       },
       {
         "nombre_archivo": "Base de datos de la estimación de las transferencias personales de la balanza de pagos por",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/base_transferencias_personales.csv"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_transferencias_personales.csv"
       },
       {
         "nombre_archivo": "país interlocutor, en formato .csv. Años 2015-2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/base_transferencias_personales.csv"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_transferencias_personales.csv"
       },
       {
         "nombre_archivo": "Base de datos de la estimación de transferencias personales de la balanza de pagos por país interlocutor, en formto SDMX-ML. Años 2015-2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/Base_transferencias_SDMX.xml"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/Base_transferencias_SDMX.xml"
       },
       {
         "nombre_archivo": "Base de datos de la estimación trimestral de servicios internacionales, en formato SDMX-ML",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/base_trimestral_servicios_SDMX.xml"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_trimestral_servicios_SDMX.xml"
       },
       {
         "nombre_archivo": "Base de datos de la estimación trimestral de servicios internacionales por rubro de Balanza de Pagos y país interlocutor, en formato csv",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/Base_servicios_internacionales_trim_pais.csv"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/Base_servicios_internacionales_trim_pais.csv"
       },
       {
         "nombre_archivo": "Base de datos de la estimación de servicios internacionales por la Clasificación Ampliada de Balance de Pagos de Servicios 2010 (CABPS) y país interlocutor para los años 2015-2024, en formato csv",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/Base_servicios_internacionales_pais_CABPS.csv"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/Base_servicios_internacionales_pais_CABPS.csv"
       },
       {
         "nombre_archivo": "Base de datos de la estimación de servicios internacionales por la Clasificación Ampliada de Balance de Pagos de Servicios 2010 (CABPS) y país interlocutor para los años 2015-2024, en formato SDMX-ML",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/Base_servicios_SDMX.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/Base_servicios_SDMX.zip"
       },
       {
         "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato .xlsx. Base de datos. Primer trimestre de 2016 a tercer trimestre de 2025",
@@ -1527,15 +1527,15 @@
     "archivos": [
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/series_PII_I_2017.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_PII_I_2017.xls"
       },
       {
         "nombre_archivo": "Estimación de la Posición de Inversión Internacional. Años 2006-2017",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/series_PII_I_2017.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_PII_I_2017.xls"
       },
       {
         "nombre_archivo": "Estimación de la Posición de Inversión Internacional. Años 1991-2015",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/series_PII_2015.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_PII_2015.xls"
       }
     ]
   },
@@ -1569,27 +1569,27 @@
     "archivos": [
       {
         "nombre_archivo": "Ver cuadro de oferta y utilización 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_cou_2022_06_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_cou_2022_06_25.xls"
       },
       {
         "nombre_archivo": "Ver cuadro de oferta y utilización 2021",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_cou_2021_06_24.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_cou_2021_06_24.xls"
       },
       {
         "nombre_archivo": "Ver Cuadro de oferta y utilización 2020",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_cou_2020_06_23.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_cou_2020_06_23.xls"
       },
       {
         "nombre_archivo": "Ver Cuadro de oferta y utilización 2019",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_cou_2019_06_22.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_cou_2019_06_22.xls"
       },
       {
         "nombre_archivo": "Ver Cuadro de oferta y utilización 2018",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_cou_08_21.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_cou_08_21.xls"
       },
       {
         "nombre_archivo": "Cuadros de oferta y utilización: matriz de oferta a precios básicos y matriz de utilización a precios de comprador. Año 2004",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_cou_06_16.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_cou_06_16.xls"
       }
     ]
   },
@@ -1600,11 +1600,11 @@
     "archivos": [
       {
         "nombre_archivo": "Estimador mensual de actividad económica, base 2004. Números índice (base 2004=100) y variaciones porcentuales. Años 2004-2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_emae_mensual_base2004.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_emae_mensual_base2004.xls"
       },
       {
         "nombre_archivo": "Estimador mensual de actividad económica por sector de actividad. Números índice, base 2004=100 y variaciones porcentuales. Años 2004-2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_emae_actividad_base2004.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_emae_actividad_base2004.xls"
       }
     ]
   },
@@ -1623,23 +1623,23 @@
       },
       {
         "nombre_archivo": "Puestos de trabajo de asalariados registrados, costo salarial, remuneración total y neta en el sector privado por sector de activdad económica",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_erl_1_2016.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_erl_1_2016.xls"
       },
       {
         "nombre_archivo": "Puestos de trabajo de asalariados registrados, costo salarial, remuneración total y neta en el sector privado por provincia",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_erl_2_2016.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_erl_2_2016.xls"
       },
       {
         "nombre_archivo": "Puestos de trabajo de asalariados registrados, costo salarial, remuneración total y neta en el sector privado por estrato de tamaño de la empresa",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_erl_3_2016.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_erl_3_2016.xls"
       },
       {
         "nombre_archivo": "Puestos de trabajo de asalariados registrados, costo salarial, remuneración total y neta por tipo de empresa en el sector privado",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_erl_4_2016.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_erl_4_2016.xls"
       },
       {
         "nombre_archivo": "Puestos de trabajo asalariado registrados. Números índice, base 2004=100, y variaciones porcentuales. Serie original y serie desestacionalizada",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_erl_5_2016.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_erl_5_2016.xls"
       }
     ]
   },
@@ -1650,7 +1650,7 @@
     "archivos": [
       {
         "nombre_archivo": "Producto interno bruto por provincia. Año 2004: valor bruto de producción, consumo intermedio y valor agregado bruto, impuestos netos de subsidios y PIB provincial.",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/PIB_provincial_06_17.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/PIB_provincial_06_17.xls"
       }
     ]
   },
@@ -1830,47 +1830,47 @@
       },
       {
         "nombre_archivo": "Extracción de petróleo y gas natural. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/050501_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050501_2023.xlsx"
       },
       {
         "nombre_archivo": "Reservas comprobadas de petróleo por cuencas. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/050502_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050502_2023.xlsx"
       },
       {
         "nombre_archivo": "Reservas comprobadas de gas natural por cuencas. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/050503_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050503_2023.xlsx"
       },
       {
         "nombre_archivo": "Producción de los principales productos de la refinación del petróleo. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/050504_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050504_2023.xlsx"
       },
       {
         "nombre_archivo": "Venta al mercado interno de los principales productos derivados de la refinación del petróleo. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/050505_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050505_2023.xlsx"
       },
       {
         "nombre_archivo": "Gas natural entregado a la red por tipo de usuario. Total del país. Años 1993-2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/050509_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050509_2023.xlsx"
       },
       {
         "nombre_archivo": "Gas entregado a grandes industrias por rama de actividad. Total del país. Años 1995-2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/050510_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050510_2023.xlsx"
       },
       {
         "nombre_archivo": "Potencia nominal instalada de energía eléctrica por tipo, según sistemas interconectados. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/050506_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050506_2023.xlsx"
       },
       {
         "nombre_archivo": "Generación de energía eléctrica por tipo, según sistemas interconectados. Total del país. Años 2007-2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/050507_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050507_2023.xlsx"
       },
       {
         "nombre_archivo": "Facturación de energía eléctrica por tipo de usuario final. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/050508_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050508_2023.xlsx"
       },
       {
         "nombre_archivo": "",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/s050509_2020.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/s050509_2020.xls"
       }
     ]
   },
@@ -1925,83 +1925,83 @@
     "archivos": [
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Diciembre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_12_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_12_25.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Septiembre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_09_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_09_25.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Junio de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_06_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_06_25.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Marzo de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_03_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_03_25.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Diciembre de 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_12_24.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_12_24.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Septiembre de 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_09_24.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_09_24.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Junio de 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_06_24.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_06_24.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Marzo de 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_03_24.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_03_24.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Diciembre de 2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_12_23.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_12_23.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Septiembre de 2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_09_23.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_09_23.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Junio de 2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_06_23.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_06_23.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Marzo de 2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_03_23.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_03_23.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Diciembre de 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_12_22.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_12_22.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Septiembre de 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_09_22.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_09_22.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Junio de 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_06_22.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_06_22.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Marzo de 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_03_22.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_03_22.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Diciembre de 2021",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_12_21.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_12_21.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Septiembre de 2021",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_09_21.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_09_21.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Junio de 2021",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_06_21.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_06_21.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Marzo de 2021",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_epi_03_21.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_03_21.xls"
       },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Diciembre de 2020",
@@ -2016,7 +2016,7 @@
     "archivos": [
       {
         "nombre_archivo": "Ver cuadros estadísticos",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cenam17_07_18.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cenam17_07_18.xls"
       }
     ]
   },
@@ -2248,7 +2248,7 @@
       },
       {
         "nombre_archivo": "Estructura de ponderaciones regionales del IPC. Diciembre de 2016. En porcentaje",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/ponderadores_ipc.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ponderadores_ipc.xls"
       }
     ]
   },
@@ -2381,15 +2381,15 @@
     "archivos": [
       {
         "nombre_archivo": "Ver cuadros estadísticos del CNA 2018. Resultados definitivos",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/CNA2018_resultados_definitivos.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/CNA2018_resultados_definitivos.xls"
       },
       {
         "nombre_archivo": "Cuadros estadísticos. Rodeo de tambo y razas bovinas",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/CNA2018_dosier_ganaderia.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/CNA2018_dosier_ganaderia.xls"
       },
       {
         "nombre_archivo": "Cuadros estadísticos. Mujeres agropecuarias argentinas",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_dosier_mujeres_agropecuarias_2022.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_dosier_mujeres_agropecuarias_2022.xls"
       },
       {
         "nombre_archivo": "Cuadro 2.1. Explotaciones agropecuarias, terrenos y superficie por tipo de delimitación, en unidades y hectáreas.Total del país según provincia y total provincial según partido o departamento. Al 31 de diciembre de 2017",
@@ -3137,27 +3137,27 @@
       },
       {
         "nombre_archivo": "Resultados preliminares del CNA 2018",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/CNA2018_resultados_preliminares.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/CNA2018_resultados_preliminares.xls"
       },
       {
         "nombre_archivo": "Censo Nacional Agropecuario 2008. Cuadros estadísticos por provincia y partido o departamento",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_CNA2008.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_CNA2008.zip"
       },
       {
         "nombre_archivo": "Censo Nacional Agropecuario 2002.Cuadros estadísticos para el total del país y por provincia",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_CNA2002.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_CNA2002.zip"
       },
       {
         "nombre_archivo": "Censo Nacional Agropecuario 1988. Resultados básicos",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/a060101.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/a060101.xls"
       },
       {
         "nombre_archivo": "",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/a060101.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/a060101.xls"
       },
       {
         "nombre_archivo": "Censo Nacional Agropecuario 1988. Cuadros estadísticos para el total del país, provincia, partido y departamento",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cna1988_cuadros.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cna1988_cuadros.zip"
       }
     ]
   },
@@ -3326,11 +3326,11 @@
     "archivos": [
       {
         "nombre_archivo": "cuadro 2 y 3",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/serie_dotacion_apn_cuadro_2_3.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn_cuadro_2_3.xlsx"
       },
       {
         "nombre_archivo": "serie de datos. Julio 2022-noviembre 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/serie_dotacion_apn.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn.xlsx"
       },
       {
         "nombre_archivo": "Cargos presupuestarios del sector público nacional, por tipo de organismo y función. Años 2007-2023",
@@ -3466,7 +3466,7 @@
     "archivos": [
       {
         "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - octubre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/sh_issp_2025.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_issp_2025.xls"
       }
     ]
   },
@@ -3540,23 +3540,23 @@
     "archivos": [
       {
         "nombre_archivo": "Ver anexo de cuadros 2018",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/EOH_cuadros_dic2018.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/EOH_cuadros_dic2018.zip"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros 2019",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/EOH_cuadros_dic2019.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/EOH_cuadros_dic2019.zip"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros 2020",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/EOH_cuadros_dic20.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/EOH_cuadros_dic20.zip"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros 2021",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/EOH_cuadros_dic21.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/EOH_cuadros_dic21.zip"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/EOH_cuadros_dic22.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/EOH_cuadros_dic22.zip"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros 2023",
@@ -3564,15 +3564,15 @@
       },
       {
         "nombre_archivo": "Ver anexo de cuadros 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/EOH_cuadros_dic24.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/EOH_cuadros_dic24.zip"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/EOH_cuadros_dic25.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/EOH_cuadros_dic25.zip"
       },
       {
         "nombre_archivo": "Ver serie de pernoctaciones por condición de residencia de los viajeros",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/serie_eoh_pernoctaciones.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_eoh_pernoctaciones.xlsx"
       },
       {
         "nombre_archivo": "Año 2017",
@@ -6220,11 +6220,11 @@
       },
       {
         "nombre_archivo": "Cuadros de la Encuesta de Sostenibilidad Ambiental en establecimientos hoteleros y parahoteleros 2017-2018. Segundo informe de resultados",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_esa_12_24.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_esa_12_24.xlsx"
       },
       {
         "nombre_archivo": "Cuadros de la Encuesta de Sostenibilidad Ambiental en establecimientos hoteleros y parahoteleros 2017-2018",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/cuadros_esa.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_esa.xlsx"
       }
     ]
   },
@@ -6235,23 +6235,23 @@
     "archivos": [
       {
         "nombre_archivo": "Turismo receptivo y emisivo. Turismo internacional receptivo, emisivo y saldo. Total del país. Años 2016-2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/serie_turismo_receptivo_emisivo.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_emisivo.xlsx"
       },
       {
         "nombre_archivo": "Turismo emisivo. Visitantes, turistas, excursionistas, y viajes, por vías de acceso. Años 2022-2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/serie_turismo_emisivo_total_vias.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_emisivo_total_vias.xlsx"
       },
       {
         "nombre_archivo": "Turismo receptivo. Visitantes, turistas, excursionistas, y viajes, por vías de acceso. Años 2022-2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
         "nombre_archivo": "Turismo internacional receptivo y emisivo. Llegada y salida de turistas, pernoctaciones, estadía promedio, gasto total y gasto diario promedio por persona, según país de residencia habitual y país de destino. Total de pasos ETI. Año 2025, por mes",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/eti25_serie_gastos_mensual.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eti25_serie_gastos_mensual.xlsx"
       },
       {
         "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-noviembre 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/economia/series_eti_via_aerea.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
         "nombre_archivo": "Turismo receptivo y emisivo: llegada y salida de turistas según motivo del viaje, tipo de alojamiento, estadía promedio, gasto, destino de mayor permanencia o país de residencia habitual. Año 2025",
@@ -7957,11 +7957,11 @@
     "archivos": [
       {
         "nombre_archivo": "Indicadores de condiciones de vida. Hogares y personas. Total 31 aglomerados urbanos. Segundo semestre de 2016-primer semestre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/eph_indicadores_hogares_1_sem_2025.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_indicadores_hogares_1_sem_2025.xls"
       },
       {
         "nombre_archivo": "Indicadores de condiciones de vida. Hogares y población. Coeficiente de variación e intervalos de confianza al 90%. Total 31 aglomerados urbanos. Segundo semestre de 2016-primer semestre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/eph_coeficientes_hogares_1_sem_2025.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_coeficientes_hogares_1_sem_2025.xls"
       }
     ]
   },
@@ -8108,23 +8108,23 @@
     "archivos": [
       {
         "nombre_archivo": "cuadros de la ENGHo 2017-2018. Uso hogareño de la energìa.",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_engho_2017_2018_uso_energia.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_engho_2017_2018_uso_energia.xlsx"
       },
       {
         "nombre_archivo": "cuadros de la ENGHO 2017-2018. Informe de ingresos",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_engho_2017_2018_informe_ingresos.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_engho_2017_2018_informe_ingresos.xls"
       },
       {
         "nombre_archivo": "cuadros de la ENGHO 2017-2018. Informe de gastos",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_engho_2017_2018_informe_gastos.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_engho_2017_2018_informe_gastos.xls"
       },
       {
         "nombre_archivo": "cuadros de las estructuras de gastos a nivel división por región y provincia",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_engho_2017_2018_gastos_regionales_provinciales.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_engho_2017_2018_gastos_regionales_provinciales.xls"
       },
       {
         "nombre_archivo": "cuadros de la Encuesta Nacional de Gastos de los Hogares 2017-2018. Resultados preliminares",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_engho_2017_2018_resultados_preliminares.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_engho_2017_2018_resultados_preliminares.xls"
       },
       {
         "nombre_archivo": "Total del país",
@@ -8417,7 +8417,7 @@
     "archivos": [
       {
         "nombre_archivo": "Ver los cuadros estadísticos en xlsx",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_encoprac_2022.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_encoprac_2022.xlsx"
       },
       {
         "nombre_archivo": "Prevalencia de vida, del último año y del último mes de consumo de sustancias psicoactivas sociales por sexo, grupo de edad, nivel de instrucción y región",
@@ -8598,11 +8598,11 @@
     "archivos": [
       {
         "nombre_archivo": "",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/env_2017_cuadros_cv.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/env_2017_cuadros_cv.xls"
       },
       {
         "nombre_archivo": "Encuesta Nacional de Victimización 2017: cuadros estadísticos del informe, coeficientes de variación e intervalos de confianza.",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/env_2017_cuadros_cv.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/env_2017_cuadros_cv.xls"
       }
     ]
   },
@@ -8624,7 +8624,7 @@
     "archivos": [
       {
         "nombre_archivo": "Cuadros del Módulo de Acceso y uso de Tecnologías de la Información y Comunicación. Cuarto trimestre de 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_tic_05_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tic_05_25.xls"
       },
       {
         "nombre_archivo": "Cuadros del Módulo de Acceso y uso de Tecnologías de la Información y Comunicación. Cuarto trimestre de 2023",
@@ -8632,27 +8632,27 @@
       },
       {
         "nombre_archivo": "Cuadros del Módulo de Acceso y uso de Tecnologías de la Información y Comunicación. Cuarto trimestre de 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_tic_05_23.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tic_05_23.xls"
       },
       {
         "nombre_archivo": "Cuadros del Módulo de Acceso y uso de Tecnologías de la Información y Comunicación. Cuarto trimestre de 2021",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_tic_05_22.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tic_05_22.xls"
       },
       {
         "nombre_archivo": "Cuadros del Módulo de Acceso y uso de Tecnologías de la Información y Comunicación. Cuarto trimestre de 2020",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_tic_05_21.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tic_05_21.xls"
       },
       {
         "nombre_archivo": "Cuadros del Módulo de Acceso y uso de Tecnologías de la Información y Comunicación. Cuarto trimestre de 2019",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_tic_05_20.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tic_05_20.xls"
       },
       {
         "nombre_archivo": "Cuadros del Módulo de Acceso y uso de Tecnologías de la Información y Comunicación. Cuarto trimestre de 2018",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_tic_05_19.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tic_05_19.xls"
       },
       {
         "nombre_archivo": "Cuadros del Módulo de Acceso y uso de Tecnologías de la Información y Comunicación. Cuarto trimestre de 2017",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_tic_05_18.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tic_05_18.xls"
       }
     ]
   },
@@ -8663,7 +8663,7 @@
     "archivos": [
       {
         "nombre_archivo": "Resultados de la EANNA para el total del país",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/2_EANNA_total_del_pais.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/2_EANNA_total_del_pais.zip"
       },
       {
         "nombre_archivo": "Resultados de la EANNA Urbana (actualización septiembre de 2019)",
@@ -8671,11 +8671,11 @@
       },
       {
         "nombre_archivo": "Resultados de la EANNA Rural (actualización septiembre de 2019)",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/4_eanna_rural.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/4_eanna_rural.zip"
       },
       {
         "nombre_archivo": "Comparación internacional",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/5_eanna_comparacion_internacional.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/5_eanna_comparacion_internacional.zip"
       }
     ]
   },
@@ -8686,99 +8686,99 @@
     "archivos": [
       {
         "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2024.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2024.xls"
       },
       {
         "nombre_archivo": "Estimaciones de los principales indicadores de la distibución del ingreso y de sus respectivos coeficientes de variación e intervalos de confianza al 90%. Total nacional urbano. Tercer trimestre de 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/coeficientes_variacion_ingresos_tnu_3t_2024.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_ingresos_tnu_3t_2024.xls"
       },
       {
         "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2023.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2023.xls"
       },
       {
         "nombre_archivo": "Estimaciones de los principales indicadores de la distibución del ingreso y de sus respectivos coeficientes de variación e intervalos de confianza al 90%. Total nacional urbano. Tercer trimestre de 2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/coeficientes_variacion_ingresos_tnu_3t_2023.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_ingresos_tnu_3t_2023.xls"
       },
       {
         "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2022.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2022.xls"
       },
       {
         "nombre_archivo": "Estimaciones de los principales indicadores de la distibución del ingreso y de sus respectivos coeficientes de variación e intervalos de confianza al 90%. Total nacional urbano. Tercer trimestre de 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/coeficientes_variacion_ingresos_tnu_3t_2022.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_ingresos_tnu_3t_2022.xls"
       },
       {
         "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2021",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2021.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2021.xls"
       },
       {
         "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2020",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2020.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2020.xls"
       },
       {
         "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2019",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2019.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2019.xls"
       },
       {
         "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2018",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2018.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2018.xls"
       },
       {
         "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2017",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2017.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2017.xls"
       },
       {
         "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2016",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2016.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2016.xls"
       },
       {
         "nombre_archivo": "Población total según escala de ingreso individual. Total de aglomerados urbanos. Segundo trimestre de 2016 al tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/pob_ingreso_individual_3t25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_individual_3t25.xls"
       },
       {
         "nombre_archivo": "Población ocupada según escala de ingreso de la ocupación principal. Total de aglomerados urbanos. Segundo trimestre de 2016 al tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/pob_ingreso_ocupacion_ppal_3t25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_ocupacion_ppal_3t25.xls"
       },
       {
         "nombre_archivo": "Hogares según escala de ingreso total familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/hog_ingreso_total_fliar_3t25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_total_fliar_3t25.xls"
       },
       {
         "nombre_archivo": "Hogares según escala de ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/hog_ingreso_pc_fliar_3t25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_pc_fliar_3t25.xls"
       },
       {
         "nombre_archivo": "Población total según ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/pob_ingreso_pc_fliar_3t25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_pc_fliar_3t25.xls"
       },
       {
         "nombre_archivo": "Coeficiente de Gini del ingreso per cápita familiar de las personas.Total de aglomerados urbanos. Años 1996-2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/serie_coeficiente_gini.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_coeficiente_gini.xlsx"
       },
       {
         "nombre_archivo": "Tercer trimestre de 2017",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/eph_ingresos_aglo_3t17.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_ingresos_aglo_3t17.zip"
       },
       {
         "nombre_archivo": "Segundo trimestre de 2017",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/eph_ingresos_aglo_2t17.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_ingresos_aglo_2t17.zip"
       },
       {
         "nombre_archivo": "Primer trimestre de 2017",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/eph_ingresos_aglo_1t17.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_ingresos_aglo_1t17.zip"
       },
       {
         "nombre_archivo": "Cuarto trimestre de 2016",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/eph_ingresos_aglo_4t16.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_ingresos_aglo_4t16.zip"
       },
       {
         "nombre_archivo": "Tercer trimestre de 2016",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/eph_ingresos_aglo_3t16.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_ingresos_aglo_3t16.zip"
       },
       {
         "nombre_archivo": "Segundo trimestre de 2016",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/eph_ingresos_aglo_2t16.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_ingresos_aglo_2t16.zip"
       }
     ]
   },
@@ -8789,35 +8789,35 @@
     "archivos": [
       {
         "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbano. Tercer trimestre 2016",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_16.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_16.xls"
       },
       {
         "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbano. Tercer trimestre 2017",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_17.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_17.xls"
       },
       {
         "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbano.Tercer trimestre 2018",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_18.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_18.xls"
       },
       {
         "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbano.Tercer trimestre 2019",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_19.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_19.xls"
       },
       {
         "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbanoTercer trimestre 2020-2021",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_2021.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_2021.xls"
       },
       {
         "nombre_archivo": "Mercado de trabajo. Principaes indicadores (EPH), total urbano. Tercer trimestre 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_2022.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_2022.xls"
       },
       {
         "nombre_archivo": "Estimaciones de los principales indicadores de mercado de trabajo y de sus respectivos coeficientes de variación e intervalos de confianza al 90%. Total nacional urbano. Tercer trimestre de 2022",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/coeficientes_variacion_mdt_tnu_3t_2022.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_tnu_3t_2022.xls"
       },
       {
         "nombre_archivo": "Mercado de trabajo. Principales indicadores (EPH), total urbano. Tercer trimestre 2023",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_2023.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_2023.xls"
       },
       {
         "nombre_archivo": "Estimaciones de los principales indicadores de mercado de trabajo y de sus respectivos coeficientes de variación e intervalos de confianza al 90%. Total nacional urbano. Tercer trimestre de 2023",
@@ -8825,35 +8825,35 @@
       },
       {
         "nombre_archivo": "Mercado de trabajo. Principales indicadores (EPH), total urbano. Tercer trimestre 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_2024.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_2024.xls"
       },
       {
         "nombre_archivo": "Estimaciones de los principales indicadores de mercado de trabajo y de sus respectivos coeficientes de variación e intervalos de confianza al 90%. Total nacional urbano. Tercer trimestre de 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/coeficientes_variacion_mdt_tnu_3t_2024.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_tnu_3t_2024.xls"
       },
       {
         "nombre_archivo": "Mercado de trabajo. Tasas e indicadores socioeconómicos (EPH). Primer trimestre 2017 a tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_tasas_indicadores_eph_12_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tasas_indicadores_eph_12_25.xls"
       },
       {
         "nombre_archivo": "Mercado de trabajo. Principales tasas del mercado laboral (EPH). Segundo trimestre 2016 a tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_eph_informe_12_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_eph_informe_12_25.xls"
       },
       {
         "nombre_archivo": "Estimaciones de los principales indicadores de mercado de trabajo y de sus repectivos coeficientes de variación e intervalos de confianza al 90%. Total 31 aglomerados urbanos. Tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/coeficientes_variacion_mdt_12_25.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_12_25.xlsx"
       },
       {
         "nombre_archivo": "Mercado de trabajo. Indicadores socioeconómicos (EPH). Primer trimestre de 2020",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_indicadores_eph_06_20.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_indicadores_eph_06_20.xls"
       },
       {
         "nombre_archivo": "Indicadores de informalidad laboral. Cuarto trimestre de 2023 a cuarto trimestre de 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_informalidad_laboral_eph_04_25.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informalidad_laboral_eph_04_25.xlsx"
       },
       {
         "nombre_archivo": "Estimaciones y coeficientes de variación de los indicadores de informalidad laboral. Cuarto trimestre de 2024",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/coeficientes_variacion_informalidad_04_25.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_informalidad_04_25.xlsx"
       }
     ]
   },
@@ -8990,15 +8990,15 @@
     "archivos": [
       {
         "nombre_archivo": "Ver cuadros estadísticos de la ENUT 2021. Resultados definitivos",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/resultados_definitivos_enut_2021.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/resultados_definitivos_enut_2021.xls"
       },
       {
         "nombre_archivo": "Ver cuadros estadísticos de la ENUT 2021. Resultados preliminares",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/cuadros_enut_2021.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_enut_2021.xls"
       },
       {
         "nombre_archivo": "Cuadros de la Encuesta sobre Trabajo No Remunerado y Uso del Tiempo. Tercer trimestre 2013",
-        "url": "https://www.indec.gob.ar/../../ftp/cuadros/sociedad/tnr_2013.zip"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/tnr_2013.zip"
       }
     ]
   }
