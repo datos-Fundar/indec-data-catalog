@@ -3,14 +3,14 @@
 from indec_catalog.config import BASE_URL
 from indec_catalog.sitemap import extract_sitemap_urls, build_url
 from indec_catalog.scraper import fetch_tema_data
-from indec_catalog.models import Catalog
-from typing import Any, List, Dict
+from indec_catalog.models import Catalog    
+from typing import List, Dict
 from tqdm import tqdm
 
 
 def generate_catalog_with_errors(
     show_progress: bool = True,
-) -> tuple[List[Dict], List[str]]:
+):
     """
     Genera el catálogo y retorna también las URLs que fallaron.
     
@@ -18,7 +18,7 @@ def generate_catalog_with_errors(
         show_progress: Si mostrar barra de progreso (default: True).
         
     Returns:
-        Tupla con (lista de diccionarios del catálogo, lista de URLs con errores).
+        Tupla con (lista de objetos Catalog, lista de URLs con errores).
     """
     links = extract_sitemap_urls()
     result: List[Dict] = []
