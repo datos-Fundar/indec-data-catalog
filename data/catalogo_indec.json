@@ -12521,15 +12521,15 @@
     "agrupamiento": "Salarios",
     "archivos": [
       {
-        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-octubre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_12_25.xls"
+        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-noviembre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_01_26.xls"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-octubre de 2025",
+        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-noviembre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indice_salarios.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-octubre de 2025",
+        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-noviembre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variacion_indice_salarios.csv"
       },
       {
@@ -12658,7 +12658,7 @@
     "agrupamiento": "Autoservicios mayoristas",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- octubre 2025",
+        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- noviembre 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_autoservicios_mayoristas.xlsx"
       },
       {
@@ -12673,8 +12673,8 @@
     "agrupamiento": "Centros de compras",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta nacional de centros de compras. Ventas, locales activos, área bruta locativa, salas cinematográficas, índice de ventas. Enero 2017- octubre 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_12_25.xls"
+        "nombre_archivo": "Encuesta nacional de centros de compras. Ventas, locales activos, área bruta locativa, salas cinematográficas, índice de ventas. Enero 2017- noviembre 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_01_26.xls"
       },
       {
         "nombre_archivo": "Centros de compras. Ventas totales a precios corrientes y a precios constantes, por rubro y jurisdicción. Enero 2015 - agosto 2019",
@@ -12703,7 +12703,7 @@
     "agrupamiento": "Supermercados",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017-octubre de 2025",
+        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017-noviembre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_supermercados.xlsx"
       },
       {
@@ -15276,7 +15276,7 @@
     "agrupamiento": "Industria manufacturera",
     "archivos": [
       {
-        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-noviembre de 2025",
+        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-diciembre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_etn_im.xlsx"
       }
     ]
