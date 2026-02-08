@@ -11307,6 +11307,21 @@
   {
     "tema": "Población",
     "subtema": "Proyecciones y estimaciones",
+    "agrupamiento": "Estimaciones por departamento",
+    "archivos": [
+      {
+        "nombre_archivo": "Población estimada al 1.°  de julio de cada año calendario por sexo, departamento y año calendario para cada una de las jurisdicciones del país. Años 2022-2035",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/estimaciones_departamentos_2022_2035.xlsx"
+      },
+      {
+        "nombre_archivo": "Población estimada al 1 .° de julio de cada año calendario por sexo, departamento y año calendario para cada una de las jurisdicciones del país. Años 2022-2035. En formato csv",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/base_estimaciones_pob_deptos_2022_2035.csv"
+      }
+    ]
+  },
+  {
+    "tema": "Población",
+    "subtema": "Proyecciones y estimaciones",
     "agrupamiento": "Proyecciones nacionales",
     "archivos": [
       {
