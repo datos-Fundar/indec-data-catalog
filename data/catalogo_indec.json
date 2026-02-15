@@ -11502,7 +11502,7 @@
     "agrupamiento": "Canasta básica",
     "archivos": [
       {
-        "nombre_archivo": "Canasta básica alimentaria y canasta básica total. Resultados mensuales expresados en pesos por adulto equivalente y variaciones porcentuales. Abril de 2016 a diciembre de 2025",
+        "nombre_archivo": "Canasta básica alimentaria y canasta básica total. Resultados mensuales expresados en pesos por adulto equivalente y variaciones porcentuales. Abril de 2016 a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_cba_cbt.xls"
       }
     ]
@@ -11513,7 +11513,7 @@
     "agrupamiento": "Canasta de crianza",
     "archivos": [
       {
-        "nombre_archivo": "Canasta de crianza, por tramo de edad. Enero 2020-diciembre 2025",
+        "nombre_archivo": "Canasta de crianza, por tramo de edad. Enero 2020-enero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_canasta_crianza.xlsx"
       }
     ]
@@ -12536,15 +12536,15 @@
     "agrupamiento": "Salarios",
     "archivos": [
       {
-        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-noviembre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_01_26.xls"
+        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-diciembre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_02_26.xls"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-noviembre de 2025",
+        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-diciembre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indice_salarios.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-noviembre de 2025",
+        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-diciembre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variacion_indice_salarios.csv"
       },
       {
@@ -13724,7 +13724,7 @@
     "archivos": [
       {
         "nombre_archivo": "Utilización de la capacidad instalada en la industria, nivel general y bloques sectoriales. Años 2016-2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_capacidad_01_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_capacidad_02_26.xls"
       }
     ]
   },
@@ -13964,23 +13964,23 @@
     "agrupamiento": "Precios al consumidor (IPC)",
     "archivos": [
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, clasificación de grupos. Diciembre de 2016-diciembre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_01_26.xls"
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, clasificación de grupos. Diciembre de 2016-enero de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_02_26.xls"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, y clasificación de grupos. Diciembre de 2016-diciembre de 2025",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, y clasificación de grupos. Diciembre de 2016-enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_divisiones.csv"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-diciembre de 2025",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_aperturas.xls"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-diciembre de 2025",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_aperturas.csv"
       },
       {
-        "nombre_archivo": "Índice de precios al consumidor. Precios promedio de un conjunto de elementos de la canasta del IPC, según regiones (Junio de 2017-diciembre de 2025) y para el GBA (Abril de 2016-diciembre de 2025)",
+        "nombre_archivo": "Índice de precios al consumidor. Precios promedio de un conjunto de elementos de la canasta del IPC, según regiones (Junio de 2017-enero de 2026) y para el GBA (Abril de 2016-enero de 2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_precios_promedio.xls"
       },
       {
@@ -15217,7 +15217,7 @@
     "agrupamiento": "Servicios públicos",
     "archivos": [
       {
-        "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - octubre de 2025",
+        "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - noviembre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_issp_2025.xls"
       }
     ]
