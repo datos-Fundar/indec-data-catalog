@@ -12339,6 +12339,14 @@
     "agrupamiento": "Distribución del ingreso",
     "archivos": [
       {
+        "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2025.xls"
+      },
+      {
+        "nombre_archivo": "Estimaciones de los principales indicadores de la distibución del ingreso y de sus respectivos coeficientes de variación e intervalos de confianza al 90%. Total nacional urbano. Tercer trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_ingresos_tnu_3t_2025.xls"
+      },
+      {
         "nombre_archivo": "Distribución del ingreso. Principales indicadores (EPH), total nacional urbano. Tercer trimestre 2024",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2024.xls"
       },
@@ -12893,11 +12901,11 @@
     "archivos": [
       {
         "nombre_archivo": "Ver cuadros del informe técnico",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_cuadros_20_01_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_cuadros_19_02_26.xls"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_anexo_cuadros_20_01_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_anexo_cuadros_19_02_26.xls"
       },
       {
         "nombre_archivo": "Balanza comercial argentina por zonas económicas y principales países. Años 2020-2024",
@@ -12912,32 +12920,32 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_mercosur_20_24.xls"
       },
       {
-        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por continentes y países. Enero-diciembre 2025 y enero-diciembre 2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_continentes_paises_2024_2025.xls"
+        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por continentes y países. Enero 2026 y enero 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_continentes_paises_2025_2026.xls"
       },
       {
-        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por secciones y capítulos de la Nomenclatura Común del Mercosur. Enero-diciembre 2025 y enero-diciembre 2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_secciones_capitulos_ncm_2024_2025.xls"
+        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por secciones y capítulos de la Nomenclatura Común del Mercosur. Enero 2026 y enero 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_secciones_capitulos_ncm_2025_2026.xls"
       },
       {
         "nombre_archivo": "Exportación por grandes rubros. Años 1980-2024",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_gr_80_24.xls"
       },
       {
-        "nombre_archivo": "Exportaciones mensuales, serie desestacionalizada. Enero 1996-diciembre 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_desestacionalizada_1996_2025.xls"
+        "nombre_archivo": "Exportaciones mensuales, serie desestacionalizada. Enero 1996-enero 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_desestacionalizada_1996_2026.xls"
       },
       {
         "nombre_archivo": "Exportación por principales capítulos de la Nomenclatura Común del Mercosur. Años 2020-2024",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_ncm_20_24.xls"
       },
       {
-        "nombre_archivo": "Exportación mensual por grandes rubros. Año 2025 y año 2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_grandes_rubros_2024_2025.xls"
+        "nombre_archivo": "Exportación mensual por grandes rubros. Enero de 2026 y año 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_grandes_rubros_2025_2026.xls"
       },
       {
-        "nombre_archivo": "Exportaciones mensuales, tendencia-ciclo. Enero 1996-diciembre 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_tendencia_ciclo_1996_2025.xls"
+        "nombre_archivo": "Exportaciones mensuales, tendencia-ciclo. Enero 1996-enero 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_tendencia_ciclo_1996_2026.xls"
       },
       {
         "nombre_archivo": "Importación por uso económico. Años 1980-2024",
@@ -12948,16 +12956,16 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/imp_ncm_20_24.xls"
       },
       {
-        "nombre_archivo": "Importaciones mensuales, serie desestacionalizada. Enero 1996-diciembre 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_desestacionalizada_1996_2025.xls"
+        "nombre_archivo": "Importaciones mensuales, serie desestacionalizada. Enero 1996-enero 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_desestacionalizada_1996_2026.xls"
       },
       {
-        "nombre_archivo": "Importaciones mensuales, tendencia-ciclo. Enero 1996-diciembre 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_tendencia_ciclo_1996_2025.xls"
+        "nombre_archivo": "Importaciones mensuales, tendencia-ciclo. Enero 1996-enero 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_tendencia_ciclo_1996_2026.xls"
       },
       {
-        "nombre_archivo": "Importación mensual por uso económico. Enero-diciembre de 2025 y año 2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_uso_economico_2024_2025.xls"
+        "nombre_archivo": "Importación mensual por uso económico. Enero de 2026 y año 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_uso_economico_2025_2026.xls"
       },
       {
         "nombre_archivo": "Balanza comercial argentina, total y variaciones porcentuales, desde enero 1990 en adelante",
@@ -13878,27 +13886,27 @@
     "agrupamiento": "Costo de la construcción (ICC)",
     "archivos": [
       {
-        "nombre_archivo": "Índices y variaciones del nivel general y capítulos, noviembre de 2015 a diciembre de 2025",
+        "nombre_archivo": "Índices y variaciones del nivel general y capítulos, noviembre de 2015 a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/icc_variaciones_indices_2016.xls"
       },
       {
-        "nombre_archivo": "Serie de las variaciones del ICC, nivel general y capítulos, noviembre de 2015 a diciembre de 2025",
+        "nombre_archivo": "Serie de las variaciones del ICC, nivel general y capítulos, noviembre de 2015 a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_icc_variacion_general_capitulos.csv"
       },
       {
-        "nombre_archivo": "Serie del Índice del ICC, nivel general y capítulos, enero de 2022 a diciembre de 2025",
+        "nombre_archivo": "Serie del Índice del ICC, nivel general y capítulos, enero de 2022 a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_icc_general_capitulos.csv"
       },
       {
-        "nombre_archivo": "Índices y variaciones del índice por ítem de obra, noviembre de 2015 a diciembre de 2025",
+        "nombre_archivo": "Índices y variaciones del índice por ítem de obra, noviembre de 2015 a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/icc_variaciones_indices_item_2016.xls"
       },
       {
-        "nombre_archivo": "Serie de las variaciones del ICC, por ítem de obra, noviembre de 2015 a diciembre de 2025",
+        "nombre_archivo": "Serie de las variaciones del ICC, por ítem de obra, noviembre de 2015 a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_icc_variacion_item_obra.csv"
       },
       {
-        "nombre_archivo": "Serie del Índice del ICC, por ítem de obra, enero de 2022 a diciembre de 2025",
+        "nombre_archivo": "Serie del Índice del ICC, por ítem de obra, enero de 2022 a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_icc_item_obra.csv"
       },
       {
@@ -13906,7 +13914,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/metadatos_series_icc.txt"
       },
       {
-        "nombre_archivo": "Información para cada inciso del artículo 15 del Anexo Metodológico (ICC e IPIB), índices de los capítulos materiales, mano de obra, gastos generales, equipos y servicios para la construcción, a diciembre de 2025",
+        "nombre_archivo": "Información para cada inciso del artículo 15 del Anexo Metodológico (ICC e IPIB), índices de los capítulos materiales, mano de obra, gastos generales, equipos y servicios para la construcción, a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/op_icc_sipm_2016.xls"
       }
     ]
@@ -13921,12 +13929,12 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/op_icc_sipm_2016.xls"
       },
       {
-        "nombre_archivo": "Índice de precios internos básicos al por mayor (IPIB), mayor desagregación disponible. Diciembre 2015 - diciembre 2025",
+        "nombre_archivo": "Índice de precios internos básicos al por mayor (IPIB), mayor desagregación disponible. Diciembre 2015 - enero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/op_sipm_dec634_2016.xls"
       },
       {
-        "nombre_archivo": "Datos adicionales para la redeterminación de precios. Actualizado a diciembre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/datos_adicionales_sipm_01_26.xls"
+        "nombre_archivo": "Datos adicionales para la redeterminación de precios. Actualizado a enero de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/datos_adicionales_sipm_02_26.xls"
       },
       {
         "nombre_archivo": "Índice del capítulo mano de obra",
@@ -14007,19 +14015,19 @@
     "agrupamiento": "Precios mayoristas (SIPM)",
     "archivos": [
       {
-        "nombre_archivo": "Índice de precios internos al por mayor, índice de precios internos básicos al por mayor e índice de precios básicos del productor. Diciembre de 2015-diciembre de 2025",
+        "nombre_archivo": "Índice de precios internos al por mayor, índice de precios internos básicos al por mayor e índice de precios básicos del productor. Diciembre de 2015-enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_sipm_dic2015.xls"
       },
       {
-        "nombre_archivo": "Series del Índice de precios internos al por mayor. Diciembre de 2015 a diciembre de 2025",
+        "nombre_archivo": "Series del Índice de precios internos al por mayor. Diciembre de 2015 a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_ipim.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de precios internos básicos al por mayor. Diciembre de 2015 a diciembre de 2025",
+        "nombre_archivo": "Series del Índice de precios internos básicos al por mayor. Diciembre de 2015 a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_ipib.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de precios básicos del productor. Diciembre de 2015 a diciembre de 2025",
+        "nombre_archivo": "Series del Índice de precios básicos del productor. Diciembre de 2015 a enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_ipp.csv"
       },
       {
@@ -20070,7 +20078,7 @@
   },
   {
     "tema": "Bases de datos",
-    "subtema": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2025.",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
     "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2025.",
     "archivos": [
       {
@@ -20080,7 +20088,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2025_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2025.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2025_txt.zip"
@@ -20088,7 +20103,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2025_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Primer trimestre 2025.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2025_txt.zip"
@@ -20096,7 +20118,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2025_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Bases individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Cuarto trimestre 2024.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2024_txt.zip"
@@ -20104,7 +20133,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2024_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2024.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2024_txt.zip"
@@ -20112,7 +20148,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2024_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2024.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2024_txt.zip"
@@ -20120,7 +20163,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2024_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Primer trimestre 2024.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2024_txt.zip"
@@ -20128,7 +20178,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2024_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Cuarto trimestre 2023.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2023_txt.zip"
@@ -20136,7 +20193,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2023_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2023.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2023_txt.zip"
@@ -20144,7 +20208,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2023_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2023.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2023_txt.zip"
@@ -20152,7 +20223,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2023_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Primer trimestre 2023.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2023_txt.zip"
@@ -20160,7 +20238,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2023_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Cuarto trimestre 2022.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2022_txt.zip"
@@ -20168,7 +20253,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2022_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2022.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2022_txt.zip"
@@ -20176,7 +20268,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2022_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2022.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2022_txt.zip"
@@ -20184,7 +20283,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2022_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Primer trimestre 2022.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2022_txt.zip"
@@ -20192,7 +20298,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2022_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Cuarto trimestre 2021.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt (actualizado al 23/05/2022)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2021_txt.zip"
@@ -20200,7 +20313,14 @@
       {
         "nombre_archivo": "Formato xls (actualizado al 23/05/2022)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2021_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2021.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2021_txt.zip"
@@ -20208,7 +20328,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2021_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2021.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2021_txt.zip"
@@ -20216,7 +20343,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2021_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Primer trimestre 2021.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2021_txt.zip"
@@ -20224,7 +20358,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2021_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Cuarto trimestre 2020.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt (fecha de actualización 17/05/2021)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2020_txt.zip"
@@ -20232,7 +20373,14 @@
       {
         "nombre_archivo": "Formato xls (fecha de actualización 17/05/2021)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2020_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2020.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2020_txt.zip"
@@ -20240,7 +20388,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2020_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2020.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2020_txt.zip"
@@ -20248,7 +20403,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2020_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Primer trimestre 2020.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2020_txt.zip"
@@ -20256,7 +20418,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2020_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Cuarto trimestre 2019.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2019_txt.zip"
@@ -20264,7 +20433,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2019_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2019.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2019_txt.zip"
@@ -20272,7 +20448,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2019_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2019.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2019_txt.zip"
@@ -20280,7 +20463,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2019_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Primer trimestre 2019.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2019_txt.zip"
@@ -20288,7 +20478,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2019_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Cuarto trimestre 2018.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2018_txt.zip"
@@ -20296,7 +20493,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2018_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2018.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2018_txt.zip"
@@ -20304,7 +20508,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2018_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2018.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2018_txt.zip"
@@ -20312,7 +20523,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2018_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Primer trimestre 2018.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2018_txt.zip"
@@ -20320,7 +20538,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2018_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Cuarto trimestre 2017.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2017_txt.zip"
@@ -20328,7 +20553,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2017_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2017.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2017_txt.zip"
@@ -20336,7 +20568,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2017_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2017.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2017_txt.zip"
@@ -20344,7 +20583,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2017_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Primer trimestre 2017.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1er_Trim_2017_txt.zip"
@@ -20352,7 +20598,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1er_Trim_2017_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Cuarto trimestre 2016.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4toTrim_2016_txt.zip"
@@ -20360,7 +20613,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4toTrim_2016_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2016.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3erTrim_2016_txt.zip"
@@ -20368,7 +20628,14 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3erTrim_2016_xls.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2016.",
+    "archivos": [
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2doTrim_2016_txt.zip"
@@ -20996,7 +21263,14 @@
       {
         "nombre_archivo": "Formato DBF",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t303_dbf.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta de Actividades de Niños, niñas y adolescentes 2016-2017",
+    "agrupamiento": "Documentos metodológicos | Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2016.",
+    "archivos": [
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/eanna_urbana_manual_bases.xls"
@@ -21008,7 +21282,14 @@
       {
         "nombre_archivo": "Cuestionarios de la EANNA",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/cuestionarios_eanna.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta de Actividades de Niños, niñas y adolescentes 2016-2017",
+    "agrupamiento": "Bases de microdatos de la EANNA urbana | Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2016.",
+    "archivos": [
       {
         "nombre_archivo": "Formato spss (.sav)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/C1_EANNA_URBANA.sav.zip"
@@ -21036,7 +21317,14 @@
       {
         "nombre_archivo": "Formato csv",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_replicas_eanna_urbana.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta de Actividades de Niños, niñas y adolescentes 2016-2017",
+    "agrupamiento": "Bases de microdatos de la EANNA rural | Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2016.",
+    "archivos": [
       {
         "nombre_archivo": "Formato spss (.sav)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_C1_eanna_rural.sav.zip"
@@ -21068,63 +21356,140 @@
       {
         "nombre_archivo": "Formato csv",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_replicas_eanna_rural.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases de microdatos de la EANNA rural | Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2016.",
+    "archivos": [
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases_2024.xls"
-      },
-      {
-        "nombre_archivo": "Formato TXT",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2024.zip"
       },
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases_2023.xls"
       },
       {
-        "nombre_archivo": "Formato TXT",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2023.zip"
-      },
-      {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases_2022.xls"
-      },
-      {
-        "nombre_archivo": "Formato TXT",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2022.zip"
       },
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases_2020_2021.xls"
       },
       {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases.xls"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2024",
+    "archivos": [
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2024.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2023",
+    "archivos": [
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2023.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2022",
+    "archivos": [
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2022.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2021",
+    "archivos": [
+      {
         "nombre_archivo": "Formato TXT",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2021.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2020",
+    "archivos": [
       {
         "nombre_archivo": "Formato TXT",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2020.zip"
-      },
-      {
-        "nombre_archivo": "Formato xls",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases.xls"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2019",
+    "archivos": [
       {
         "nombre_archivo": "Formato TXT",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2019.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2018",
+    "archivos": [
       {
         "nombre_archivo": "Formato TXT",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2018.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2017",
+    "archivos": [
       {
         "nombre_archivo": "Formato TXT",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2017.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2016",
+    "archivos": [
       {
         "nombre_archivo": "Formato TXT",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2016.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2014",
+    "archivos": [
       {
         "nombre_archivo": "Formato SPSS",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU2014_sav.rar"
@@ -21136,7 +21501,14 @@
       {
         "nombre_archivo": "Formato DBF",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU2014_dbf.rar"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2013",
+    "archivos": [
       {
         "nombre_archivo": "Formato SPSS",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU2013_sav.zip"
@@ -21148,7 +21520,14 @@
       {
         "nombre_archivo": "Formato DBF",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU2013_dbf.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2012",
+    "archivos": [
       {
         "nombre_archivo": "Formato SPSS",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2012_sav.zip"
@@ -21156,7 +21535,14 @@
       {
         "nombre_archivo": "Formato Stata",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2012_dta.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2011",
+    "archivos": [
       {
         "nombre_archivo": "Formato SPSS",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2011_sav.zip"
@@ -21164,7 +21550,14 @@
       {
         "nombre_archivo": "Formato Stata",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2011_dta.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2010",
+    "archivos": [
       {
         "nombre_archivo": "Formato SPSS",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2010_sav.zip"
@@ -21178,39 +21571,26 @@
   {
     "tema": "Bases de datos",
     "subtema": "Encuestas de salud",
-    "agrupamiento": "Encuestas de salud",
+    "agrupamiento": "Documentos metodológicos",
     "archivos": [
       {
         "nombre_archivo": "Diseño de registro de la base de datos",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/encoprac/diccionario_base_encoprac.xlsx"
       },
       {
+        "nombre_archivo": "Instructivo para abrir base de datos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/emta/LEAME.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuestas de salud",
+    "agrupamiento": "Base de datos",
+    "archivos": [
+      {
         "nombre_archivo": "Base de datos usuario, en formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/encoprac/base_usuario_encoprac2022.zip"
-      },
-      {
-        "nombre_archivo": "4° Encuesta Nacional de Factores de Riesgo. Diccionario de registros.  (formato xls)",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/diccionario_registros_enfr2018.xls"
-      },
-      {
-        "nombre_archivo": "Base de datos usuario ENFR 2018",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2018_baseusuario.zip"
-      },
-      {
-        "nombre_archivo": "Base réplicas ENFR 2018",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/base_replicas_enfr2018.zip"
-      },
-      {
-        "nombre_archivo": "2013",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2013_baseusuario.rar"
-      },
-      {
-        "nombre_archivo": "2009",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2009_baseusuario.rar"
-      },
-      {
-        "nombre_archivo": "2005",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2005_Baseusuario.rar"
       },
       {
         "nombre_archivo": "Formato SPSS – Base usuario mujeres",
@@ -21229,18 +21609,6 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enssyr/ENSSyR_Varones_BaseUsuario_txt.rar"
       },
       {
-        "nombre_archivo": "2011",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enprecosp/bases_enprecosp2011.rar"
-      },
-      {
-        "nombre_archivo": "2008",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enprecosp/ENPreCoSP2008_Baseusuario.rar"
-      },
-      {
-        "nombre_archivo": "Instructivo para abrir base de datos",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/emta/LEAME.zip"
-      },
-      {
         "nombre_archivo": "Formato SPSS",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/emta/EMTA2012_Argentina_BaseUsuario_sav.zip"
       },
@@ -21252,8 +21620,82 @@
   },
   {
     "tema": "Bases de datos",
+    "subtema": "Encuestas de salud",
+    "agrupamiento": "2018",
+    "archivos": [
+      {
+        "nombre_archivo": "4° Encuesta Nacional de Factores de Riesgo. Diccionario de registros.  (formato xls)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/diccionario_registros_enfr2018.xls"
+      },
+      {
+        "nombre_archivo": "Base de datos usuario ENFR 2018",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2018_baseusuario.zip"
+      },
+      {
+        "nombre_archivo": "Base réplicas ENFR 2018",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/base_replicas_enfr2018.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuestas de salud",
+    "agrupamiento": "2013",
+    "archivos": [
+      {
+        "nombre_archivo": "2013",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2013_baseusuario.rar"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuestas de salud",
+    "agrupamiento": "2009",
+    "archivos": [
+      {
+        "nombre_archivo": "2009",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2009_baseusuario.rar"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuestas de salud",
+    "agrupamiento": "2005",
+    "archivos": [
+      {
+        "nombre_archivo": "2005",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2005_Baseusuario.rar"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuestas de salud",
+    "agrupamiento": "2011",
+    "archivos": [
+      {
+        "nombre_archivo": "2011",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enprecosp/bases_enprecosp2011.rar"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuestas de salud",
+    "agrupamiento": "2008",
+    "archivos": [
+      {
+        "nombre_archivo": "2008",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enprecosp/ENPreCoSP2008_Baseusuario.rar"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
     "subtema": "Módulo de Acceso y Uso de Tecnologías de la Información y la Comunicación (Encuesta Permanente de Hogares)",
-    "agrupamiento": "Módulo de Acceso y Uso de Tecnologías de la Información y la Comunicación (Encuesta Permanente de Hogares)",
+    "agrupamiento": "Bases de datos",
     "archivos": [
       {
         "nombre_archivo": "Cuarto trimestre 2024 (formato TXT)",
@@ -21296,12 +21738,19 @@
   {
     "tema": "Bases de datos",
     "subtema": "Encuesta Nacional de Gastos de los Hogares 2017 / 2018",
-    "agrupamiento": "Encuesta Nacional de Gastos de los Hogares 2017 / 2018",
+    "agrupamiento": "Documentos metodológicos",
     "archivos": [
       {
         "nombre_archivo": "Diccionario de registros(actualizado al 11/12/2020, con el agregado de las variables de equipamiento y hábitos de consumo de los hogares)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGHo_2017_2018_diccionario_registros.xlsx"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 2017 / 2018",
+    "agrupamiento": "Códigos",
+    "archivos": [
       {
         "nombre_archivo": "Códigos de equipamiento de los hogares",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_articulos_equipamiento.zip"
@@ -21317,7 +21766,14 @@
       {
         "nombre_archivo": "Comparación de códigos ENGHo 2017-2018, 2012-2013 y 2004-2005",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGHo_2017_2018_codigos_2018_2012_2004.xlsx"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 2017 / 2018",
+    "agrupamiento": "Bases de datos",
+    "archivos": [
       {
         "nombre_archivo": "Base de gastos de consumo de los hogares",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_gastos.zip"
@@ -21341,19 +21797,47 @@
       {
         "nombre_archivo": "Base de réplicas",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_replicas.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 2012 / 2013",
+    "agrupamiento": "Códigos",
+    "archivos": [
       {
         "nombre_archivo": "Listados de códigos",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/codigos_engho2012.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 2012 / 2013",
+    "agrupamiento": "Bases de microdatos",
+    "archivos": [
       {
         "nombre_archivo": "Bases de datos",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/bases_datos_engho2012.rar"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 2012 / 2013",
+    "agrupamiento": "Cuestionarios",
+    "archivos": [
       {
         "nombre_archivo": "Cuestionarios",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/cuestionarios_engho2012.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 2004 - 2005",
+    "agrupamiento": "Códigos",
+    "archivos": [
       {
         "nombre_archivo": "Listado de provincias",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_provincia.rar"
@@ -21373,7 +21857,14 @@
       {
         "nombre_archivo": "Listado de códigos de equipamiento del hogar",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_codigos_equipamiento.rar"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 2004 - 2005",
+    "agrupamiento": "Bases de datos",
+    "archivos": [
       {
         "nombre_archivo": "Base de datos de equipamiento del hogar",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_equipamiento.rar"
@@ -21397,15 +21888,36 @@
       {
         "nombre_archivo": "Base de datos de personas",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_personas.rar"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 1996 – 1997",
+    "agrupamiento": "Documentos metodológicos",
+    "archivos": [
       {
         "nombre_archivo": "Diseño de registro y estructura de los archivos de datos",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_diseño_registro.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 1996 – 1997",
+    "agrupamiento": "Códigos",
+    "archivos": [
       {
         "nombre_archivo": "Listado de códigos",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_codigos.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 1996 – 1997",
+    "agrupamiento": "Bases de microdatos",
+    "archivos": [
       {
         "nombre_archivo": "Región Metropolitana",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_metropolitana_GBA.zip"
@@ -21429,7 +21941,14 @@
       {
         "nombre_archivo": "Región Patagónica",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_patagonica.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta de Gastos e Ingresos de los Hogares 1985 -1986",
+    "agrupamiento": "Bases de microdatos",
+    "archivos": [
       {
         "nombre_archivo": "Bases de datos",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/bases_datos_egh1985.rar"
@@ -21438,8 +21957,8 @@
   },
   {
     "tema": "Bases de datos",
-    "subtema": "Bases REDATAM 2001, 2010 y 2022",
-    "agrupamiento": "Bases REDATAM 2001, 2010 y 2022",
+    "subtema": "Bases de datos",
+    "agrupamiento": "Censo 2022 | Bases REDATAM 2001, 2010 y 2022",
     "archivos": [
       {
         "nombre_archivo": "Descargar bases para RedatamX",
@@ -21448,7 +21967,14 @@
       {
         "nombre_archivo": "Descargar metadatos de las bases Redatam del Censo 2022",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/metadatos_censo2022_redatam.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Bases de datos",
+    "agrupamiento": "Censo 1980 | Muestras de microdatos de los censos de población de 1970 y 1980",
+    "archivos": [
       {
         "nombre_archivo": "Descargar muestra de microdatos del Censo Nacional de Población y Vivienda 1980",
         "url": "https://www.indec.gob.ar/ftp/documentos/IPUMS_1980.csv"
@@ -21460,7 +21986,14 @@
       {
         "nombre_archivo": "Descargar códigos de las variables de los microdatos del Censo Nacional de Población y Vivienda 1980",
         "url": "https://www.indec.gob.ar/ftp/documentos/ipums_var_cod.txt"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Bases de datos",
+    "agrupamiento": "Censo 1970 | Muestras de microdatos de los censos de población de 1970 y 1980",
+    "archivos": [
       {
         "nombre_archivo": "Descargar muestra de microdatos del Censo Nacional de Población, Familias y Viviendas 1970",
         "url": "https://www.indec.gob.ar/ftp/documentos/IPUMS_1970.csv"
@@ -21478,7 +22011,7 @@
   {
     "tema": "Bases de datos",
     "subtema": "Uso del tiempo",
-    "agrupamiento": "Uso del tiempo",
+    "agrupamiento": "Documentos metodológicos",
     "archivos": [
       {
         "nombre_archivo": "Diccionario de registros",
@@ -21487,7 +22020,14 @@
       {
         "nombre_archivo": "Códigos y descripción de actividades",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enut/enut2021_cautal.xlsx"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Uso del tiempo",
+    "agrupamiento": "Bases de datos (actualizadas al 2/12/2022)",
+    "archivos": [
       {
         "nombre_archivo": "Base ENUT (base principal de la encuesta a nivel persona seleccionada)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enut/enut2021_base.zip"
@@ -21503,7 +22043,14 @@
       {
         "nombre_archivo": "Base de réplicas bootstrap para el cálculo de indicadores de calidad de las estimaciones",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enut/enut2021_replicas.zip"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Uso del tiempo",
+    "agrupamiento": "Bases de datos",
+    "archivos": [
       {
         "nombre_archivo": "Formato SPSS",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/tnr/formato_spss.rar"
@@ -21517,7 +22064,7 @@
   {
     "tema": "Bases de datos",
     "subtema": "Temas Especiales",
-    "agrupamiento": "Temas Especiales",
+    "agrupamiento": "Bases de datos",
     "archivos": [
       {
         "nombre_archivo": "Formato SPSS",
@@ -21526,11 +22073,25 @@
       {
         "nombre_archivo": "Formato txt",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/env/ENV2017_Baseusuario_txt.rar"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Temas Especiales",
+    "agrupamiento": "Base de Datos y Documentos Metodológicos",
+    "archivos": [
       {
         "nombre_archivo": "Base Usuario ENCaViAM 2012",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/encaviam/ENCaViAM2012_Base_usuario.txt"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Temas Especiales",
+    "agrupamiento": "Base de datos",
+    "archivos": [
       {
         "nombre_archivo": "Formato SPSS",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/tnr/Formato_SPSS.rar"
@@ -21546,7 +22107,14 @@
       {
         "nombre_archivo": "Formato Stata",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/mannya/MANNyA_microdatos_dta.rar"
-      },
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Temas Especiales",
+    "agrupamiento": "Bases de datos del tercer trimestre 2011",
+    "archivos": [
       {
         "nombre_archivo": "Formato SPSS",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/base_entic_SPSS.rar"
@@ -21560,7 +22128,7 @@
   {
     "tema": "Bases de datos",
     "subtema": "Estudio Nacional sobre el Perfil de las Personas con Discapacidad 2018",
-    "agrupamiento": "Estudio Nacional sobre el Perfil de las Personas con Discapacidad 2018",
+    "agrupamiento": "Bases de datos",
     "archivos": [
       {
         "nombre_archivo": "Base de datos (formato .csv)",
