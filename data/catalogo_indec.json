@@ -12505,6 +12505,14 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_tnu_3t_2024.xls"
       },
       {
+        "nombre_archivo": "Mercado de trabajo. Principales indicadores (EPH), total urbano. Tercer trimestre 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_2025.xls"
+      },
+      {
+        "nombre_archivo": "Estimaciones de los principales indicadores de mercado de trabajo y de sus respectivos coeficientes de variación e intervalos de confianza al 90%. Total nacional urbano. Tercer trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_tnu_3t_2025.xls"
+      },
+      {
         "nombre_archivo": "Mercado de trabajo. Tasas e indicadores socioeconómicos (EPH). Primer trimestre 2017 a tercer trimestre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tasas_indicadores_eph_12_25.xls"
       },
@@ -20057,6 +20065,1510 @@
       {
         "nombre_archivo": "Tabla de conversión de radios censales 2001-2010",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/Tablas_conversion_radios_2001_2010.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2025.",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Tercer trimestre 2025.",
+    "archivos": [
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2025_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2025_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2025_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2025_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2025_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2025_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2024_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2024_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2024_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2024_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2024_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2024_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2024_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2024_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2023_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2023_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2023_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2023_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2023_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2023_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2023_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2023_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2022_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2022_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2022_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2022_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2022_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2022_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2022_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2022_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt (actualizado al 23/05/2022)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2021_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls (actualizado al 23/05/2022)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2021_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2021_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2021_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2021_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2021_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2021_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2021_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt (fecha de actualización 17/05/2021)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2020_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls (fecha de actualización 17/05/2021)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2020_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2020_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2020_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2020_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2020_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2020_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2020_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2019_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2019_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2019_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2019_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2019_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2019_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2019_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2019_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2018_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2018_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2018_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2018_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2018_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2018_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2018_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2018_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2017_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2017_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2017_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3_Trim_2017_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2017_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2017_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1er_Trim_2017_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1er_Trim_2017_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4toTrim_2016_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4toTrim_2016_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3erTrim_2016_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_3erTrim_2016_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2doTrim_2016_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2doTrim_2016_xls.zip"
+      },
+      {
+        "nombre_archivo": "Formato shape",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/radios_eph.zip"
+      },
+      {
+        "nombre_archivo": "Formato geojson",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/radios_eph_json.zip"
+      },
+      {
+        "nombre_archivo": "Formato kml",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/radios_eph_kml.zip"
+      },
+      {
+        "nombre_archivo": "Formato shape",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/aglomerados_eph.zip"
+      },
+      {
+        "nombre_archivo": "Formato geojson",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/aglomerados_eph_json.zip"
+      },
+      {
+        "nombre_archivo": "Formato kml",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/aglomerados_eph_kml.zip"
+      },
+      {
+        "nombre_archivo": "Formato shape",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/entidades_eph.zip"
+      },
+      {
+        "nombre_archivo": "Formato geojson",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/entidades_eph_json.zip"
+      },
+      {
+        "nombre_archivo": "Formato kml",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/entidades_eph_kml.zip"
+      },
+      {
+        "nombre_archivo": "Nómina de localidades que componen cada uno de los aglomerados EPH",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/localidades_aglomerados_eph.xls"
+      },
+      {
+        "nombre_archivo": "Estructura de la capa de información de radios EPH",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/estructura_radios_eph.xls"
+      },
+      {
+        "nombre_archivo": "Tabla de correspondencia Clasificador Nacional de Ocupaciones 2001 (CNO 2001) y Clasificación Internacional Uniforme de Ocupaciones 2008 (CIUO-08)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/CONVERSION_CNO-01_CIUO-08.xls"
+      },
+      {
+        "nombre_archivo": "Clasificación de ocupaciones CIUO-08",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_CIUO_215.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t215_sav.rar"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t215_dta.rar"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t215_dbf.rar"
+      },
+      {
+        "nombre_archivo": "Clasificación de ocupaciones CIUO-08",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_CIUO_115.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t115_sav.rar"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t115_dta.rar"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t115_dbf.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t414_sav.rar"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t414_dta.rar"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t414_dbf.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t314_sav.rar"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t314_dta.rar"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t314_dbf.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t214_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t214_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t214_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t114_sav.rar"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t114_dta.rar"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t114_dbf.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t413_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t413_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t413_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t313_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t313_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t313_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t213_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t213_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t213_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t113_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t113_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t113_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t412_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t412_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t412_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t312_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t312_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t312_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t212_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t212_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t212_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t112_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t112_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t112_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t411_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t411_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t411_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t311_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t311_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t311_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t211_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t211_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t211_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t111_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t111_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t111_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t410_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t410_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t410_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t310_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t310_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t310_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t210_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t210_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t210_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t110_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t110_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t110_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t409_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t409_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t409_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t309_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t309_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t309_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t209_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t209_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t209_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t109_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t109_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t109_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t408_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t408_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t408_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t308_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t308_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t308_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t208_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t208_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t208_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t108_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t108_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t108_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t407_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t407_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t407_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t207_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t207_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t207_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t107_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t107_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t107_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t406_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t406_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t406_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t306_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t306_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t306_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t206_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t206_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t206_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t106_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t106_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t106_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t405_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t405_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t405_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t305_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t305_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t305_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t205_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t205_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t205_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t105_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t105_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t105_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t404_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t404_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t404_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t304_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t304_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t304_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t204_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t204_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t204_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t104_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t104_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t104_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t403_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t403_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t403_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t303_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t303_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/t303_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/eanna_urbana_manual_bases.xls"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/eanna_rural_manual_bases.xls"
+      },
+      {
+        "nombre_archivo": "Cuestionarios de la EANNA",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/cuestionarios_eanna.zip"
+      },
+      {
+        "nombre_archivo": "Formato spss (.sav)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/C1_EANNA_URBANA.sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato csv",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/C1_EANNA_URBANA.zip"
+      },
+      {
+        "nombre_archivo": "Formato spss (.sav)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/C2_EANNA_URBANA.sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato csv",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/C2_EANNA_URBANA.zip"
+      },
+      {
+        "nombre_archivo": "Formato spss (.sav)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/C3_EANNA_URBANA.sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato csv",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/C3_EANNA_URBANA.zip"
+      },
+      {
+        "nombre_archivo": "Formato csv",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_replicas_eanna_urbana.zip"
+      },
+      {
+        "nombre_archivo": "Formato spss (.sav)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_C1_eanna_rural.sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato csv",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_C1_eanna_rural.zip"
+      },
+      {
+        "nombre_archivo": "Formato spss (.sav)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_C2_eanna_rural.sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato csv",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_C2_eanna_rural.zip"
+      },
+      {
+        "nombre_archivo": "Formato spss (.sav)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_C3_eanna_rural.sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato csv",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_C3_eanna_rural.zip"
+      },
+      {
+        "nombre_archivo": "Formato spss (.sav)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_replicas_eanna_rural.sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato csv",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eanna/Base_replicas_eanna_rural.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases_2024.xls"
+      },
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2024.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases_2023.xls"
+      },
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2023.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases_2022.xls"
+      },
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2022.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases_2020_2021.xls"
+      },
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2021.zip"
+      },
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2020.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases.xls"
+      },
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2019.zip"
+      },
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2018.zip"
+      },
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2017.zip"
+      },
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2016.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU2014_sav.rar"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU2014_dta.rar"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU2014_dbf.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU2013_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU2013_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato DBF",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU2013_dbf.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2012_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2012_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2011_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2011_dta.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2010_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EAHU_2010_dta.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuestas de salud",
+    "agrupamiento": "Encuestas de salud",
+    "archivos": [
+      {
+        "nombre_archivo": "Diseño de registro de la base de datos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/encoprac/diccionario_base_encoprac.xlsx"
+      },
+      {
+        "nombre_archivo": "Base de datos usuario, en formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/encoprac/base_usuario_encoprac2022.zip"
+      },
+      {
+        "nombre_archivo": "4° Encuesta Nacional de Factores de Riesgo. Diccionario de registros.  (formato xls)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/diccionario_registros_enfr2018.xls"
+      },
+      {
+        "nombre_archivo": "Base de datos usuario ENFR 2018",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2018_baseusuario.zip"
+      },
+      {
+        "nombre_archivo": "Base réplicas ENFR 2018",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/base_replicas_enfr2018.zip"
+      },
+      {
+        "nombre_archivo": "2013",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2013_baseusuario.rar"
+      },
+      {
+        "nombre_archivo": "2009",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2009_baseusuario.rar"
+      },
+      {
+        "nombre_archivo": "2005",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enfr/ENFR2005_Baseusuario.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS – Base usuario mujeres",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enssyr/ENSSyR_Mujeres_BaseUsuario.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS – Base usuario varones",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enssyr/ENSSyR_Varones_BaseUsuario.rar"
+      },
+      {
+        "nombre_archivo": "Formato TXT – Base usuario mujeres",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enssyr/ENSSyR_Mujeres_BaseUsuario_txt.rar"
+      },
+      {
+        "nombre_archivo": "Formato TXT – Base usuario varones",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enssyr/ENSSyR_Varones_BaseUsuario_txt.rar"
+      },
+      {
+        "nombre_archivo": "2011",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enprecosp/bases_enprecosp2011.rar"
+      },
+      {
+        "nombre_archivo": "2008",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enprecosp/ENPreCoSP2008_Baseusuario.rar"
+      },
+      {
+        "nombre_archivo": "Instructivo para abrir base de datos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/emta/LEAME.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/emta/EMTA2012_Argentina_BaseUsuario_sav.zip"
+      },
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/emta/EMTA2012_Argentina_BaseUsuario.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Módulo de Acceso y Uso de Tecnologías de la Información y la Comunicación (Encuesta Permanente de Hogares)",
+    "agrupamiento": "Módulo de Acceso y Uso de Tecnologías de la Información y la Comunicación (Encuesta Permanente de Hogares)",
+    "archivos": [
+      {
+        "nombre_archivo": "Cuarto trimestre 2024 (formato TXT)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/EPH_Base_Usu_Tic_T424.zip"
+      },
+      {
+        "nombre_archivo": "Cuarto trimestre 2023 (formato TXT)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/EPH_Base_Usu_Tic_T423.zip"
+      },
+      {
+        "nombre_archivo": "Cuarto trimestre 2022 (formato TXT)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/EPH_Base_Usu_Tic_T422.zip"
+      },
+      {
+        "nombre_archivo": "Cuarto trimestre 2021 (formato TXT)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/EPH_Base_Usu_Tic_T421.zip"
+      },
+      {
+        "nombre_archivo": "Cuarto trimestre 2020 (formato TXT)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/EPH_Base_Usu_Tic_T420.zip"
+      },
+      {
+        "nombre_archivo": "Cuarto trimestre 2019 (formato TXT)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/EPH_Base_Usu_Tic_T419.zip"
+      },
+      {
+        "nombre_archivo": "Cuarto trimestre 2018 (formato TXT)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/EPH_Base_Usu_Tic_T418.zip"
+      },
+      {
+        "nombre_archivo": "Cuarto trimestre 2017 (Formato TXT)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/EPH_usu_Tic_4to_Trim_2017.zip"
+      },
+      {
+        "nombre_archivo": "Cuarto trimestre 2016 (Formato TXT)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/EPH_usu_Tic_4to_Trim_2016.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Nacional de Gastos de los Hogares 2017 / 2018",
+    "agrupamiento": "Encuesta Nacional de Gastos de los Hogares 2017 / 2018",
+    "archivos": [
+      {
+        "nombre_archivo": "Diccionario de registros(actualizado al 11/12/2020, con el agregado de las variables de equipamiento y hábitos de consumo de los hogares)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGHo_2017_2018_diccionario_registros.xlsx"
+      },
+      {
+        "nombre_archivo": "Códigos de equipamiento de los hogares",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_articulos_equipamiento.zip"
+      },
+      {
+        "nombre_archivo": "Códigos de artículos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_articulos.zip"
+      },
+      {
+        "nombre_archivo": "Comparación de códigos a 12 y 9 divisiones",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGHo_2017_2018_codigos_12_9_divisiones.xlsx"
+      },
+      {
+        "nombre_archivo": "Comparación de códigos ENGHo 2017-2018, 2012-2013 y 2004-2005",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGHo_2017_2018_codigos_2018_2012_2004.xlsx"
+      },
+      {
+        "nombre_archivo": "Base de gastos de consumo de los hogares",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_gastos.zip"
+      },
+      {
+        "nombre_archivo": "Base de personas(actualizada al 20/07/2020, con el agregado de variables relativas a los ingresos de los perceptores, principalmente al monto de ingreso por fuente)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_personas.zip"
+      },
+      {
+        "nombre_archivo": "Base de hogares(actualizada al 20/07/2020, con el agregado de variables relativas al ingreso total del hogar, ingreso per cápita del hogar, quintiles y deciles de ingreso)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_hogares.zip"
+      },
+      {
+        "nombre_archivo": "Base de equipamiento de los hogares",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_equipamiento.zip"
+      },
+      {
+        "nombre_archivo": "Base de hábitos de compra",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_habitos.zip"
+      },
+      {
+        "nombre_archivo": "Base de réplicas",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_replicas.zip"
+      },
+      {
+        "nombre_archivo": "Listados de códigos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/codigos_engho2012.zip"
+      },
+      {
+        "nombre_archivo": "Bases de datos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/bases_datos_engho2012.rar"
+      },
+      {
+        "nombre_archivo": "Cuestionarios",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/cuestionarios_engho2012.zip"
+      },
+      {
+        "nombre_archivo": "Listado de provincias",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_provincia.rar"
+      },
+      {
+        "nombre_archivo": "Listado de regiones",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_region.rar"
+      },
+      {
+        "nombre_archivo": "Listado de subregiones",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_subregion.rar"
+      },
+      {
+        "nombre_archivo": "Listado de códigos de bienes y servicios",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_codigos_bienes_servicios.rar"
+      },
+      {
+        "nombre_archivo": "Listado de códigos de equipamiento del hogar",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_codigos_equipamiento.rar"
+      },
+      {
+        "nombre_archivo": "Base de datos de equipamiento del hogar",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_equipamiento.rar"
+      },
+      {
+        "nombre_archivo": "Base de datos de gastos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_gastos.rar"
+      },
+      {
+        "nombre_archivo": "Base de datos de gastos por forma de pago, tipo de negocio y lugar de compra",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_gastos_fptnlc.rar"
+      },
+      {
+        "nombre_archivo": "Base de datos de los hogares",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_hogar.rar"
+      },
+      {
+        "nombre_archivo": "Base de datos de ingresos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_ingresos.rar"
+      },
+      {
+        "nombre_archivo": "Base de datos de personas",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/ENGH0405_personas.rar"
+      },
+      {
+        "nombre_archivo": "Diseño de registro y estructura de los archivos de datos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_diseño_registro.zip"
+      },
+      {
+        "nombre_archivo": "Listado de códigos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_codigos.zip"
+      },
+      {
+        "nombre_archivo": "Región Metropolitana",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_metropolitana_GBA.zip"
+      },
+      {
+        "nombre_archivo": "Región Pampeana",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_pampeana.zip"
+      },
+      {
+        "nombre_archivo": "Región Noroeste",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_noroeste.zip"
+      },
+      {
+        "nombre_archivo": "Región Noreste",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_noreste.zip"
+      },
+      {
+        "nombre_archivo": "Región Cuyo",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_cuyo.zip"
+      },
+      {
+        "nombre_archivo": "Región Patagónica",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engh9697_patagonica.zip"
+      },
+      {
+        "nombre_archivo": "Bases de datos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/bases_datos_egh1985.rar"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Bases REDATAM 2001, 2010 y 2022",
+    "agrupamiento": "Bases REDATAM 2001, 2010 y 2022",
+    "archivos": [
+      {
+        "nombre_archivo": "Descargar bases para RedatamX",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/bases_censo2022_RedatamX.zip"
+      },
+      {
+        "nombre_archivo": "Descargar metadatos de las bases Redatam del Censo 2022",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/metadatos_censo2022_redatam.zip"
+      },
+      {
+        "nombre_archivo": "Descargar muestra de microdatos del Censo Nacional de Población y Vivienda 1980",
+        "url": "https://www.indec.gob.ar/ftp/documentos/IPUMS_1980.csv"
+      },
+      {
+        "nombre_archivo": "Descargar diseño de registros del Censo Nacional de Población y Vivienda 1980",
+        "url": "https://www.indec.gob.ar/ftp/documentos/DR_IPUMS_1980.xlsx"
+      },
+      {
+        "nombre_archivo": "Descargar códigos de las variables de los microdatos del Censo Nacional de Población y Vivienda 1980",
+        "url": "https://www.indec.gob.ar/ftp/documentos/ipums_var_cod.txt"
+      },
+      {
+        "nombre_archivo": "Descargar muestra de microdatos del Censo Nacional de Población, Familias y Viviendas 1970",
+        "url": "https://www.indec.gob.ar/ftp/documentos/IPUMS_1970.csv"
+      },
+      {
+        "nombre_archivo": "Descargar diseño de registros del Censo Nacional de Población, Familias y Viviendas 1970",
+        "url": "https://www.indec.gob.ar/ftp/documentos/DR_IPUMS_1970.xlsx"
+      },
+      {
+        "nombre_archivo": "Descargar códigos de las variables de los microdatos del Censo Nacional de Población, Familias y Viviendas 1970",
+        "url": "https://www.indec.gob.ar/ftp/documentos/ipums_var_cod.txt"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Uso del tiempo",
+    "agrupamiento": "Uso del tiempo",
+    "archivos": [
+      {
+        "nombre_archivo": "Diccionario de registros",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enut/enut2021_diccionario_registros.xlsx"
+      },
+      {
+        "nombre_archivo": "Códigos y descripción de actividades",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enut/enut2021_cautal.xlsx"
+      },
+      {
+        "nombre_archivo": "Base ENUT (base principal de la encuesta a nivel persona seleccionada)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enut/enut2021_base.zip"
+      },
+      {
+        "nombre_archivo": "Base miembros (base de miembros del hogar de la persona seleccionada)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enut/enut2021_miembros.zip"
+      },
+      {
+        "nombre_archivo": "Base diario (base del diario de actividades de la persona seleccionada)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enut/enut2021_diario.zip"
+      },
+      {
+        "nombre_archivo": "Base de réplicas bootstrap para el cálculo de indicadores de calidad de las estimaciones",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enut/enut2021_replicas.zip"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/tnr/formato_spss.rar"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/tnr/formato_stata.rar"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Temas Especiales",
+    "agrupamiento": "Temas Especiales",
+    "archivos": [
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/env/ENV2017_Baseusuario.rar"
+      },
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/env/ENV2017_Baseusuario_txt.rar"
+      },
+      {
+        "nombre_archivo": "Base Usuario ENCaViAM 2012",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/encaviam/ENCaViAM2012_Base_usuario.txt"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/tnr/Formato_SPSS.rar"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/tnr/Formato_STATA.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/mannya/MANNyA_microdatos_sav.rar"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/mannya/MANNyA_microdatos_dta.rar"
+      },
+      {
+        "nombre_archivo": "Formato SPSS",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/base_entic_SPSS.rar"
+      },
+      {
+        "nombre_archivo": "Formato Stata",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/entic/base_entic_stata.rar"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Estudio Nacional sobre el Perfil de las Personas con Discapacidad 2018",
+    "agrupamiento": "Estudio Nacional sobre el Perfil de las Personas con Discapacidad 2018",
+    "archivos": [
+      {
+        "nombre_archivo": "Base de datos (formato .csv)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enpd/base_estudio_discapacidad_2018.zip"
+      },
+      {
+        "nombre_archivo": "Base de pesos replicados",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/enpd/base_replicas_estudio_discapacidad_2018.zip"
       }
     ]
   }
