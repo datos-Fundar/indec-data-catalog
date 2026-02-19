@@ -2,6 +2,7 @@
 
 BASE_URL = "https://www.indec.gob.ar"
 SITEMAP_URL = "https://www.indec.gob.ar/Institucional/Indec/MapaSitio"
+BASES_DATOS_URL = "https://www.indec.gob.ar/Institucional/Indec/BasesDeDatos"
 DEFAULT_SITEMAP_REGEX = "Nivel4"
 HTTP_TIMEOUT = 30  # Timeout en segundos para peticiones HTTP
 

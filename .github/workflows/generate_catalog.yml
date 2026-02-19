@@ -34,7 +34,7 @@ jobs:
         run: uv run --group dev pytest
 
       - name: Generar catálogo
-        run: uv run python -m indec_catalog.cli --no-progress
+        run: uv run python -m indec_catalog.cli --no-progress --incluir-bases-datos
 
       - name: Commit catálogo si hubo cambios
         run: |

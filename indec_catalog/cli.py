@@ -4,7 +4,11 @@ import argparse
 import json
 import sys
 from pathlib import Path
-from indec_catalog.catalog import generate_catalog, generate_catalog_with_errors
+from indec_catalog.catalog import (
+    generate_catalog,
+    generate_catalog_with_errors,
+    generate_catalog_bases_datos,
+)
 from indec_catalog.models import Catalog
 from typing import List
 import typing
@@ -32,20 +36,29 @@ def main():
         action="store_true",
         help="No mostrar barra de progreso",
     )
-    
+    parser.add_argument(
+        "--incluir-bases-datos",
+        action="store_true",
+        help="Incluir también la página Institucional Bases de datos en el catálogo",
+    )
+
     args = parser.parse_args()
     
     try:
         if args.errors:
-            catalog, errors  = generate_catalog_with_errors(
+            catalog_raw, errors = generate_catalog_with_errors(
                 show_progress=not args.no_progress,
             )
-            
+            catalog = [Catalog.model_validate(x) for x in catalog_raw]
+            if args.incluir_bases_datos:
+                catalog = catalog + generate_catalog_bases_datos()
+
             output_path = Path(args.output)
+            Path(output_path.parent).mkdir(parents=True, exist_ok=True)
             with open(output_path, "w", encoding="utf-8") as f:
-                json.dump([Catalog.model_validate(x).model_dump() for x in catalog], f, indent=2, ensure_ascii=False)
+                json.dump([x.model_dump() for x in catalog], f, indent=2, ensure_ascii=False)
             print(f"Catálogo guardado en: {output_path}")
-            
+
             if errors:
                 errors_path = output_path.with_suffix(".errors.txt")
                 with open(errors_path, "w", encoding="utf-8") as f:
@@ -53,16 +66,18 @@ def main():
                 print(f"Errores guardados en: {errors_path}")
                 print(f"Total de errores: {len(errors)}")
         else:
-            catalog = typing.cast(list[Catalog], generate_catalog(
+            catalog = typing.cast(List[Catalog], generate_catalog(
                 show_progress=not args.no_progress,
             ))
-            
+            if args.incluir_bases_datos:
+                catalog = catalog + generate_catalog_bases_datos()
+
             Path("data").mkdir(parents=True, exist_ok=True)
             output_path = Path(args.output)
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump([x.model_dump() for x in catalog], f, indent=2, ensure_ascii=False)
             print(f"Catálogo guardado en: {output_path}")
-        
+
         print(f"Total de registros: {len(catalog)}")
         
     except KeyboardInterrupt:

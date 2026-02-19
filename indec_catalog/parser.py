@@ -83,6 +83,7 @@ def parse_tema_info(soup: BeautifulSoup) -> Dict[str, str] | None:
     nivel_name = re.sub(r" >|>", ", ", nivel_name)
     
     parts = [part.strip() for part in nivel_name.split(", ")]
+    
     if len(parts) < 3:
         return None
     

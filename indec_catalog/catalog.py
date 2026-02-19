@@ -3,7 +3,8 @@
 from indec_catalog.config import BASE_URL
 from indec_catalog.sitemap import extract_sitemap_urls, build_url
 from indec_catalog.scraper import fetch_tema_data
-from indec_catalog.models import Catalog    
+from indec_catalog.bases_datos import scrape_bases_datos
+from indec_catalog.models import Catalog
 from typing import List, Dict
 from tqdm import tqdm
 
@@ -60,6 +61,19 @@ def generate_catalog(
     result, _ = generate_catalog_with_errors(show_progress)
 
     return [
-        Catalog.model_validate(x) 
-        for x in result if x['archivos'] != []
+        Catalog.model_validate(x)
+        for x in result if x["archivos"] != []
     ]
+
+
+def generate_catalog_bases_datos() -> List[Catalog]:
+    """
+    Genera el catálogo a partir de la página Institucional Bases de datos.
+
+    Returns:
+        Lista de Catalog con tema "Bases de datos" y secciones por bloque.
+
+    Raises:
+        requests.RequestException: Si falla la petición HTTP.
+    """
+    return scrape_bases_datos()
