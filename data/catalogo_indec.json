@@ -21366,7 +21366,11 @@
     "archivos": [
       {
         "nombre_archivo": "Formato xls",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases_2024.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_total_urbano_estructura_bases.xlsx"
       },
       {
         "nombre_archivo": "Formato xls",
@@ -21383,6 +21387,17 @@
       {
         "nombre_archivo": "Formato xls",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_tot_urbano_estructura_bases.xls"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta permanente de hogares (EPH) total urbano",
+    "agrupamiento": "Bases del tercer trimestre 2025",
+    "archivos": [
+      {
+        "nombre_archivo": "Formato TXT",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eahu/EPH_Tot_Urbano_3T_2025.zip"
       }
     ]
   },
