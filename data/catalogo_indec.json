@@ -12689,7 +12689,7 @@
     "agrupamiento": "Autoservicios mayoristas",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- noviembre 2025",
+        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- diciembre 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_autoservicios_mayoristas.xlsx"
       },
       {
@@ -12704,8 +12704,8 @@
     "agrupamiento": "Centros de compras",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta nacional de centros de compras. Ventas, locales activos, área bruta locativa, salas cinematográficas, índice de ventas. Enero 2017- noviembre 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_01_26.xls"
+        "nombre_archivo": "Encuesta nacional de centros de compras. Ventas, locales activos, área bruta locativa, salas cinematográficas, índice de ventas. Enero 2017- diciembre 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_02_26.xls"
       },
       {
         "nombre_archivo": "Centros de compras. Ventas totales a precios corrientes y a precios constantes, por rubro y jurisdicción. Enero 2015 - agosto 2019",
@@ -12719,8 +12719,8 @@
     "agrupamiento": "Electrodomésticos y artículos para el hogar",
     "archivos": [
       {
-        "nombre_archivo": "Comercios de electrodomésticos y artículos para el hogar. Ventas totales a precios corrientes por jurisdicción y grupo de artículos. Enero 2020-septiembre 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_electro_11_25.xls"
+        "nombre_archivo": "Comercios de electrodomésticos y artículos para el hogar. Ventas totales a precios corrientes por jurisdicción y grupo de artículos. Enero 2020-diciembre 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_electro_02_26.xls"
       },
       {
         "nombre_archivo": "Comercios de electrodomésticos y artículos para el hogar. Ventas totales a precios corrientes por jurisdicción y grupo de artículos. Enero 2015-junio 2023",
@@ -12734,7 +12734,7 @@
     "agrupamiento": "Supermercados",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017-noviembre de 2025",
+        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017-diciembre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_supermercados.xlsx"
       },
       {
@@ -15086,7 +15086,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn_cuadro_2_3.xlsx"
       },
       {
-        "nombre_archivo": "serie de datos. Julio 2022-diciembre 2025",
+        "nombre_archivo": "serie de datos. Julio 2022-enero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn.xlsx"
       },
       {
@@ -15307,7 +15307,7 @@
     "agrupamiento": "Industria manufacturera",
     "archivos": [
       {
-        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-diciembre de 2025",
+        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_etn_im.xlsx"
       }
     ]
@@ -18024,24 +18024,24 @@
     "agrupamiento": "Turismo internacional",
     "archivos": [
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Turismo internacional receptivo, emisivo y saldo. Total del país. Años 2016-2025",
+        "nombre_archivo": "Turismo receptivo y emisivo. Turismo internacional receptivo, emisivo y saldo. Total del país. Años 2016-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_emisivo.xlsx"
       },
       {
-        "nombre_archivo": "Turismo emisivo. Visitantes, turistas, excursionistas, y viajes, por vías de acceso. Años 2022-2025",
+        "nombre_archivo": "Turismo emisivo. Visitantes, turistas y excursionistas,, por vías de acceso. Años 2022-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_emisivo_total_vias.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo. Visitantes, turistas, excursionistas, y viajes, por vías de acceso. Años 2022-2025",
+        "nombre_archivo": "Turismo receptivo. Visitantes, turistas y excursionistas,, por vías de acceso. Años 2022-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
-        "nombre_archivo": "Turismo internacional receptivo y emisivo. Llegada y salida de turistas, pernoctaciones, estadía promedio, gasto total y gasto diario promedio por persona, según país de residencia habitual y país de destino. Total de pasos ETI. Año 2025, por mes",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eti25_serie_gastos_mensual.xlsx"
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016- enero 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-diciembre 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
+        "nombre_archivo": "Turismo receptivo y emisivo. Arrivos y salidas de turistas, pernoctaciones y estadía promedio por destino principal y motivo del viaje, tipo de alojamiemto más utilizado y residencia habitual. Año 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_mensual_aeroparque_ezeiza_2026.xlsx"
       },
       {
         "nombre_archivo": "Turismo receptivo y emisivo: llegada y salida de turistas según motivo del viaje, tipo de alojamiento, estadía promedio, gasto, destino de mayor permanencia o país de residencia habitual. Año 2025",
@@ -19620,7 +19620,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eti06_puerto_3-6.xls"
       },
       {
-        "nombre_archivo": "Turismo internacional receptivo, emisivo y saldo. Total del país. Años 2016-2025",
+        "nombre_archivo": "Turismo internacional receptivo, emisivo y saldo. Total del país. Años 2016-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_emisivo.xlsx"
       },
       {
@@ -19628,7 +19628,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eti25_serie_gastos_mensual.xlsx"
       },
       {
-        "nombre_archivo": "Visitantes, turistas, excursionistas, y viajes, por vías de acceso. Años 2022-2025",
+        "nombre_archivo": "Visitantes, turistas y excursionistas, por vías de acceso. Años 2022-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_emisivo_total_vias.xlsx"
       },
       {
@@ -19640,7 +19640,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_tur_totalpasos_emisivo_2.xls"
       },
       {
-        "nombre_archivo": "Visitantes, turistas, excursionistas, y viajes, por vías de acceso. Años 2022-2025",
+        "nombre_archivo": "Visitantes, turistas y excursionistas, por vías de acceso. Años 2022-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
@@ -19652,12 +19652,12 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_tur_totalpasos_receptivo_2.xls"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-diciembre 2025",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-enero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
         "nombre_archivo": "Salida y llegada de turistas por aeropuerto, país o región de residencia.",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/totalviaaerea25_cuadros.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/totalviaaerea26_cuadros.xls"
       },
       {
         "nombre_archivo": "Turistas, permanencia promedio y gasto por pernoctación",
