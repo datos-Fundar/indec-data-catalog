@@ -12415,7 +12415,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_pc_fliar_3t25.xls"
       },
       {
-        "nombre_archivo": "Coeficiente de Gini del ingreso per cápita familiar de las personas.Total de aglomerados urbanos. Años 1996-2025",
+        "nombre_archivo": "Coeficiente de Gini del ingreso per cápita familiar de las personas. Total de aglomerados urbanos. Años 1996-2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_coeficiente_gini.xlsx"
       },
       {
@@ -12477,15 +12477,15 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_17.xls"
       },
       {
-        "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbano.Tercer trimestre 2018",
+        "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbano. Tercer trimestre 2018",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_18.xls"
       },
       {
-        "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbano.Tercer trimestre 2019",
+        "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbano. Tercer trimestre 2019",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_19.xls"
       },
       {
-        "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbanoTercer trimestre 2020-2021",
+        "nombre_archivo": "Mercado de trabajo: Principales indicadores (EPH), total urbano. Tercer trimestre 2020-2021",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_3t_2021.xls"
       },
       {
@@ -12750,15 +12750,19 @@
     "archivos": [
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complejos_exportadores_anexo_cuadros_27_08_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complejos_exportadores_anexo_cuadros_04_03_26.xls"
       },
       {
-        "nombre_archivo": "Exportaciones por complejos exportadores. Revisión 2018. Años 2021-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complexp_variacion_2021_2024.xls"
+        "nombre_archivo": "Exportaciones de bienes, por complejos exportadores. Serie histórica según revisión 2018. Años 2002-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complejos_exportadores_serie_2002_2025.xlsx"
       },
       {
-        "nombre_archivo": "Exportaciones por complejos exportadores, según estructura porcentual. Revisión 2018. Años 2021-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complexp_est_porcentual_2021_2024.xls"
+        "nombre_archivo": "Exportaciones de bienes, por complejos exportadores y grandes rubros. Serie histórica según revisión 2018. Años 2002-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complejos_exportadores_gr_2002_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Exportaciones por complejos exportadores según zonas económicas. Revisión 2018. Año 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complexp_zonas_economicas_2025.xls"
       },
       {
         "nombre_archivo": "Exportaciones por complejos exportadores según zonas económicas. Revisión 2018. Año 2024",
@@ -12801,8 +12805,8 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complexp_zonas_economicas_2015.xls"
       },
       {
-        "nombre_archivo": "Exportaciones por complejos exportadores. Años 1993-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complexp_variacion_1993_2024.xls"
+        "nombre_archivo": "Exportaciones por complejos exportadores. Años 1993-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complexp_variacion_1993_2025.xls"
       },
       {
         "nombre_archivo": "Exportaciones de los complejos algodoneros, por zonas económicas, según componentes. Años 2013-2017",
@@ -13078,7 +13082,7 @@
     "archivos": [
       {
         "nombre_archivo": "Indicador sintético de la actividad de la construcción, insumos para la construcción, puestos de trabajo registrados y permisos de edificación para el total de los municipios relevados",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_isac_2025.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_isac_2026.xls"
       },
       {
         "nombre_archivo": "Permisos de edificación por municipio desde el año 2021",
@@ -13616,7 +13620,7 @@
     "archivos": [
       {
         "nombre_archivo": "Índice de producción industrial manufacturero (IPI manufacturero). Nivel general, divisiones y subclases. Serie original, desestacionalizada y tendencia-ciclo, base 2004=100.",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipi_manufacturero_2025.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipi_manufacturero_2026.xls"
       }
     ]
   },
@@ -13761,7 +13765,7 @@
     "agrupamiento": "Índice de producción industrial minero",
     "archivos": [
       {
-        "nombre_archivo": "IPI minero: índices y variaciones del nivel general para la serie original, desestacionalizada y tendencia-ciclo, y por categorías, grupos, clases y subclases para la serie original. Años 2017-2025",
+        "nombre_archivo": "IPI minero: índices y variaciones del nivel general para la serie original, desestacionalizada y tendencia-ciclo, y por categorías, grupos, clases y subclases para la serie original. Años 2017-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipi_minero.xlsx"
       }
     ]
@@ -18040,7 +18044,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Arrivos y salidas de turistas, pernoctaciones y estadía promedio por destino principal y motivo del viaje, tipo de alojamiemto más utilizado y residencia habitual. Año 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Arribos y salidas de turistas, pernoctaciones y estadía promedio por destino principal y motivo del viaje, tipo de alojamiemto más utilizado y residencia habitual. Año 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_mensual_aeroparque_ezeiza_2026.xlsx"
       },
       {
