@@ -11502,7 +11502,7 @@
     "agrupamiento": "Canasta básica",
     "archivos": [
       {
-        "nombre_archivo": "Canasta básica alimentaria y canasta básica total. Resultados mensuales expresados en pesos por adulto equivalente y variaciones porcentuales. Abril de 2016 a enero de 2026",
+        "nombre_archivo": "Canasta básica alimentaria y canasta básica total. Resultados mensuales expresados en pesos por adulto equivalente y variaciones porcentuales. Abril de 2016 a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_cba_cbt.xls"
       }
     ]
@@ -12266,7 +12266,7 @@
     "agrupamiento": "Accesos a internet",
     "archivos": [
       {
-        "nombre_archivo": "Accesos a internet, residenciales y de organizaciones por tipo de conexión. Total del país, según provincia. Enero 2015 - septiembre 2025",
+        "nombre_archivo": "Accesos a internet, residenciales y de organizaciones por tipo de conexión. Total del país, según provincia. Enero 2015 - diciembre 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/accesos_internet.xls"
       }
     ]
@@ -12992,23 +12992,19 @@
     "archivos": [
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/opex_anexo_cuadros_03_09_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/opex_anexo_cuadros_10_03_26.xls"
       },
       {
-        "nombre_archivo": "Origen provincial de las exportaciones de bienes, por provincia y principales Grandes rubros, en millones de dólares. Años 1993-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_principales_grubros_1993_2024.xls"
+        "nombre_archivo": "Origen provincial de las exportaciones de bienes, por provincia y principales Grandes rubros, en millones de dólares. Años 1993-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_principales_grubros_1993_2025.xls"
       },
       {
-        "nombre_archivo": "Origen provincial de las exportaciones de bienes por regiones económicas y otros, según Grandes rubros, en millones de dólares. Años 1993-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_regiones_economicas_grubros_1993_2024.xls"
+        "nombre_archivo": "Origen provincial de las exportaciones de bienes por regiones económicas y otros, según Grandes rubros, en millones de dólares. Años 1993-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_regiones_economicas_grubros_1993_2025.xls"
       },
       {
-        "nombre_archivo": "Origen provincial de las exportaciones de bienes por regiones económicas y otros, en millones de dólares y variaciones porcentuales. Años 1993-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_regiones_economicas_provincias_1993_2024.xls"
-      },
-      {
-        "nombre_archivo": "Origen provincial de las exportaciones de bienes según complejos exportadores y principales zonas económicas, en millones de dólares. Años 2021-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_2021_2024.xls"
+        "nombre_archivo": "Origen provincial de las exportaciones de bienes por regiones económicas y otros, en millones de dólares y variaciones porcentuales. Años 1993-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_opex_regiones_economicas_provincias_1993_2025.xls"
       }
     ]
   },
@@ -13743,8 +13739,8 @@
     "agrupamiento": "Utilización de la capacidad instalada",
     "archivos": [
       {
-        "nombre_archivo": "Utilización de la capacidad instalada en la industria, nivel general y bloques sectoriales. Años 2016-2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_capacidad_02_26.xls"
+        "nombre_archivo": "Utilización de la capacidad instalada en la industria, nivel general y bloques sectoriales. Años 2016-2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_capacidad_03_26.xls"
       }
     ]
   },
@@ -13984,23 +13980,23 @@
     "agrupamiento": "Precios al consumidor (IPC)",
     "archivos": [
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, clasificación de grupos. Diciembre de 2016-enero de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_02_26.xls"
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, clasificación de grupos. Diciembre de 2016-febrero de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_03_26.xls"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, y clasificación de grupos. Diciembre de 2016-enero de 2026",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, y clasificación de grupos. Diciembre de 2016-febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_divisiones.csv"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-enero de 2026",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_aperturas.xls"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-enero de 2026",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_aperturas.csv"
       },
       {
-        "nombre_archivo": "Índice de precios al consumidor. Precios promedio de un conjunto de elementos de la canasta del IPC, según regiones (Junio de 2017-enero de 2026) y para el GBA (Abril de 2016-enero de 2026)",
+        "nombre_archivo": "Índice de precios al consumidor. Precios promedio de un conjunto de elementos de la canasta del IPC, según regiones (Junio de 2017-febrero de 2026) y para el GBA (Abril de 2016-febrero de 2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_precios_promedio.xls"
       },
       {
@@ -15237,7 +15233,7 @@
     "agrupamiento": "Servicios públicos",
     "archivos": [
       {
-        "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - noviembre de 2025",
+        "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - diciembre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_issp_2025.xls"
       }
     ]
@@ -18032,11 +18028,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_emisivo.xlsx"
       },
       {
-        "nombre_archivo": "Turismo emisivo. Visitantes, turistas y excursionistas,, por vías de acceso. Años 2022-2026",
+        "nombre_archivo": "Turismo emisivo. Visitantes, turistas y excursionistas, por vías de acceso. Años 2022-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_emisivo_total_vias.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo. Visitantes, turistas y excursionistas,, por vías de acceso. Años 2022-2026",
+        "nombre_archivo": "Turismo receptivo. Visitantes, turistas y excursionistas, por vías de acceso. Años 2022-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
