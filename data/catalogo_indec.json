@@ -11513,7 +11513,7 @@
     "agrupamiento": "Canasta de crianza",
     "archivos": [
       {
-        "nombre_archivo": "Canasta de crianza, por tramo de edad. Enero 2020-enero 2026",
+        "nombre_archivo": "Canasta de crianza, por tramo de edad. Enero 2020-febrero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_canasta_crianza.xlsx"
       }
     ]
@@ -12521,16 +12521,16 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_tnu_3t_2025.xls"
       },
       {
-        "nombre_archivo": "Mercado de trabajo. Tasas e indicadores socioeconómicos (EPH). Primer trimestre 2017 a tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tasas_indicadores_eph_12_25.xls"
+        "nombre_archivo": "Mercado de trabajo. Tasas e indicadores socioeconómicos (EPH). Primer trimestre 2017 a cuarto trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tasas_indicadores_eph_03_26.xls"
       },
       {
-        "nombre_archivo": "Mercado de trabajo. Principales tasas del mercado laboral (EPH). Segundo trimestre 2016 a tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_eph_informe_12_25.xls"
+        "nombre_archivo": "Mercado de trabajo. Principales tasas del mercado laboral (EPH). Segundo trimestre 2016 a cuarto trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_eph_informe_03_26.xls"
       },
       {
-        "nombre_archivo": "Estimaciones de los principales indicadores de mercado de trabajo y de sus repectivos coeficientes de variación e intervalos de confianza al 90%. Total 31 aglomerados urbanos. Tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_12_25.xlsx"
+        "nombre_archivo": "Estimaciones de los principales indicadores de mercado de trabajo y de sus repectivos coeficientes de variación e intervalos de confianza al 90%. Total 31 aglomerados urbanos. Cuarto trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_03_26.xlsx"
       },
       {
         "nombre_archivo": "Mercado de trabajo. Indicadores socioeconómicos (EPH). Primer trimestre de 2020",
@@ -12689,7 +12689,7 @@
     "agrupamiento": "Autoservicios mayoristas",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- diciembre 2025",
+        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- enero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_autoservicios_mayoristas.xlsx"
       },
       {
@@ -12704,8 +12704,8 @@
     "agrupamiento": "Centros de compras",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta nacional de centros de compras. Ventas, locales activos, área bruta locativa, salas cinematográficas, índice de ventas. Enero 2017- diciembre 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_02_26.xls"
+        "nombre_archivo": "Encuesta nacional de centros de compras. Ventas, locales activos, área bruta locativa, salas cinematográficas, índice de ventas. Enero 2017- enero 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_03_26.xls"
       },
       {
         "nombre_archivo": "Centros de compras. Ventas totales a precios corrientes y a precios constantes, por rubro y jurisdicción. Enero 2015 - agosto 2019",
@@ -12734,7 +12734,7 @@
     "agrupamiento": "Supermercados",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017-diciembre de 2025",
+        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017-enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_supermercados.xlsx"
       },
       {
@@ -12905,11 +12905,11 @@
     "archivos": [
       {
         "nombre_archivo": "Ver cuadros del informe técnico",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_cuadros_19_02_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_cuadros_19_03_26.xls"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_anexo_cuadros_19_02_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_anexo_cuadros_19_03_26.xls"
       },
       {
         "nombre_archivo": "Balanza comercial argentina por zonas económicas y principales países. Años 2020-2024",
@@ -12924,11 +12924,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_mercosur_20_24.xls"
       },
       {
-        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por continentes y países. Enero 2026 y enero 2025",
+        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por continentes y países. Enero-febrero 2026 y enero-febrero 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_continentes_paises_2025_2026.xls"
       },
       {
-        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por secciones y capítulos de la Nomenclatura Común del Mercosur. Enero 2026 y enero 2025",
+        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por secciones y capítulos de la Nomenclatura Común del Mercosur. Enero-febrero 2026 y enero-febrero 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_secciones_capitulos_ncm_2025_2026.xls"
       },
       {
@@ -12936,7 +12936,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_gr_80_24.xls"
       },
       {
-        "nombre_archivo": "Exportaciones mensuales, serie desestacionalizada. Enero 1996-enero 2026",
+        "nombre_archivo": "Exportaciones mensuales, serie desestacionalizada. Enero 1996-febrero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_desestacionalizada_1996_2026.xls"
       },
       {
@@ -12944,11 +12944,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_ncm_20_24.xls"
       },
       {
-        "nombre_archivo": "Exportación mensual por grandes rubros. Enero de 2026 y año 2025",
+        "nombre_archivo": "Exportación mensual por grandes rubros. Enero-febrero de 2026 y año 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_grandes_rubros_2025_2026.xls"
       },
       {
-        "nombre_archivo": "Exportaciones mensuales, tendencia-ciclo. Enero 1996-enero 2026",
+        "nombre_archivo": "Exportaciones mensuales, tendencia-ciclo. Enero 1996-febrero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_tendencia_ciclo_1996_2026.xls"
       },
       {
@@ -12960,15 +12960,15 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/imp_ncm_20_24.xls"
       },
       {
-        "nombre_archivo": "Importaciones mensuales, serie desestacionalizada. Enero 1996-enero 2026",
+        "nombre_archivo": "Importaciones mensuales, serie desestacionalizada. Enero 1996-febrero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_desestacionalizada_1996_2026.xls"
       },
       {
-        "nombre_archivo": "Importaciones mensuales, tendencia-ciclo. Enero 1996-enero 2026",
+        "nombre_archivo": "Importaciones mensuales, tendencia-ciclo. Enero 1996-febrero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_tendencia_ciclo_1996_2026.xls"
       },
       {
-        "nombre_archivo": "Importación mensual por uso económico. Enero de 2026 y año 2025",
+        "nombre_archivo": "Importación mensual por uso económico. Enero-febrero de 2026 y año 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_uso_economico_2025_2026.xls"
       },
       {
@@ -13223,15 +13223,15 @@
     "archivos": [
       {
         "nombre_archivo": "Series trimestrales de oferta y demanda globales. Años 2004-2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_oferta_demanda_12_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_oferta_demanda_03_26.xls"
       },
       {
         "nombre_archivo": "Series trimestrales desestacionalizadas de oferta y demanda globales. Años 2004-2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_oferta_demanda_desest_12_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_oferta_demanda_desest_03_26.xls"
       },
       {
         "nombre_archivo": "Series por sector de actividad económica: valor bruto de producción y valor agregado bruto. Años 2004-2025, por trimestre",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_VBP_VAB_12_25.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_VBP_VAB_03_26.xls"
       },
       {
         "nombre_archivo": "Economía nacional, resto del mundo y estructura porcentual con respecto al PIB. Años 2006-2024",
@@ -13886,27 +13886,27 @@
     "agrupamiento": "Costo de la construcción (ICC)",
     "archivos": [
       {
-        "nombre_archivo": "Índices y variaciones del nivel general y capítulos, noviembre de 2015 a enero de 2026",
+        "nombre_archivo": "Índices y variaciones del nivel general y capítulos, noviembre de 2015 a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/icc_variaciones_indices_2016.xls"
       },
       {
-        "nombre_archivo": "Serie de las variaciones del ICC, nivel general y capítulos, noviembre de 2015 a enero de 2026",
+        "nombre_archivo": "Serie de las variaciones del ICC, nivel general y capítulos, noviembre de 2015 a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_icc_variacion_general_capitulos.csv"
       },
       {
-        "nombre_archivo": "Serie del Índice del ICC, nivel general y capítulos, enero de 2022 a enero de 2026",
+        "nombre_archivo": "Serie del Índice del ICC, nivel general y capítulos, enero de 2022 a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_icc_general_capitulos.csv"
       },
       {
-        "nombre_archivo": "Índices y variaciones del índice por ítem de obra, noviembre de 2015 a enero de 2026",
+        "nombre_archivo": "Índices y variaciones del índice por ítem de obra, noviembre de 2015 a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/icc_variaciones_indices_item_2016.xls"
       },
       {
-        "nombre_archivo": "Serie de las variaciones del ICC, por ítem de obra, noviembre de 2015 a enero de 2026",
+        "nombre_archivo": "Serie de las variaciones del ICC, por ítem de obra, noviembre de 2015 a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_icc_variacion_item_obra.csv"
       },
       {
-        "nombre_archivo": "Serie del Índice del ICC, por ítem de obra, enero de 2022 a enero de 2026",
+        "nombre_archivo": "Serie del Índice del ICC, por ítem de obra, enero de 2022 a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_icc_item_obra.csv"
       },
       {
@@ -13914,7 +13914,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/metadatos_series_icc.txt"
       },
       {
-        "nombre_archivo": "Información para cada inciso del artículo 15 del Anexo Metodológico (ICC e IPIB), índices de los capítulos materiales, mano de obra, gastos generales, equipos y servicios para la construcción, a enero de 2026",
+        "nombre_archivo": "Información para cada inciso del artículo 15 del Anexo Metodológico (ICC e IPIB), índices de los capítulos materiales, mano de obra, gastos generales, equipos y servicios para la construcción, a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/op_icc_sipm_2016.xls"
       }
     ]
@@ -13929,12 +13929,12 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/op_icc_sipm_2016.xls"
       },
       {
-        "nombre_archivo": "Índice de precios internos básicos al por mayor (IPIB), mayor desagregación disponible. Diciembre 2015 - enero 2026",
+        "nombre_archivo": "Índice de precios internos básicos al por mayor (IPIB), mayor desagregación disponible. Diciembre 2015 - febrero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/op_sipm_dec634_2016.xls"
       },
       {
-        "nombre_archivo": "Datos adicionales para la redeterminación de precios. Actualizado a enero de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/datos_adicionales_sipm_02_26.xls"
+        "nombre_archivo": "Datos adicionales para la redeterminación de precios. Actualizado a febrero de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/datos_adicionales_sipm_03_26.xls"
       },
       {
         "nombre_archivo": "Índice del capítulo mano de obra",
@@ -14015,19 +14015,19 @@
     "agrupamiento": "Precios mayoristas (SIPM)",
     "archivos": [
       {
-        "nombre_archivo": "Índice de precios internos al por mayor, índice de precios internos básicos al por mayor e índice de precios básicos del productor. Diciembre de 2015-enero de 2026",
+        "nombre_archivo": "Índice de precios internos al por mayor, índice de precios internos básicos al por mayor e índice de precios básicos del productor. Diciembre de 2015-febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_sipm_dic2015.xls"
       },
       {
-        "nombre_archivo": "Series del Índice de precios internos al por mayor. Diciembre de 2015 a enero de 2026",
+        "nombre_archivo": "Series del Índice de precios internos al por mayor. Diciembre de 2015 a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_ipim.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de precios internos básicos al por mayor. Diciembre de 2015 a enero de 2026",
+        "nombre_archivo": "Series del Índice de precios internos básicos al por mayor. Diciembre de 2015 a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_ipib.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de precios básicos del productor. Diciembre de 2015 a enero de 2026",
+        "nombre_archivo": "Series del Índice de precios básicos del productor. Diciembre de 2015 a febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/indice_ipp.csv"
       },
       {
@@ -15307,7 +15307,7 @@
     "agrupamiento": "Industria manufacturera",
     "archivos": [
       {
-        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-enero de 2026",
+        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_etn_im.xlsx"
       }
     ]
