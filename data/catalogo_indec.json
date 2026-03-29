@@ -12552,20 +12552,20 @@
     "agrupamiento": "Salarios",
     "archivos": [
       {
-        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-diciembre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_02_26.xls"
+        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-enero de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_03_26.xls"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-diciembre de 2025",
+        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indice_salarios.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-diciembre de 2025",
+        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-enero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variacion_indice_salarios.csv"
       },
       {
         "nombre_archivo": "Coeficiente de variación salarial: Índice de salarios total registrado e Índice de salarios total, serie diaria. Números índice, base 31 de octubre de 2016=100",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/sh_cvs_diarios_2025.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/sh_cvs_diarios_2026.xls"
       },
       {
         "nombre_archivo": "Metadatos de las series del Índice de salarios",
@@ -13093,7 +13093,7 @@
     "archivos": [
       {
         "nombre_archivo": "Estadísticas integradas de balanza de pagos, posición de inversión internacional y deuda externa. Años 2006-2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cin_III_2025.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cin_IV_2025.xls"
       },
       {
         "nombre_archivo": "Estadísticas de balanza de pagos, en formato SDMX-ML. Años 2006-2025",
@@ -13184,11 +13184,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/Base_servicios_SDMX.zip"
       },
       {
-        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato .xlsx. Base de datos. Primer trimestre de 2016 a tercer trimestre de 2025",
+        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato .xlsx. Base de datos. Primer trimestre de 2016 a cuarto trimestre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_servicios_digitales.xlsx"
       },
       {
-        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato SDMX-ML. Base de datos. Primer trimestre de 2016 a tercer trimestre de 2025",
+        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato SDMX-ML. Base de datos. Primer trimestre de 2016 a cuarto trimestre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_servicios_digitales_SDMX.xml"
       },
       {
@@ -13311,11 +13311,11 @@
     "agrupamiento": "Estimador mensual de actividad (EMAE)",
     "archivos": [
       {
-        "nombre_archivo": "Estimador mensual de actividad económica, base 2004. Números índice (base 2004=100) y variaciones porcentuales. Años 2004-2025",
+        "nombre_archivo": "Estimador mensual de actividad económica, base 2004. Números índice (base 2004=100) y variaciones porcentuales. Años 2004-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_emae_mensual_base2004.xls"
       },
       {
-        "nombre_archivo": "Estimador mensual de actividad económica por sector de actividad. Números índice, base 2004=100 y variaciones porcentuales. Años 2004-2025",
+        "nombre_archivo": "Estimador mensual de actividad económica por sector de actividad. Números índice, base 2004=100 y variaciones porcentuales. Años 2004-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_emae_actividad_base2004.xls"
       }
     ]
@@ -13647,6 +13647,10 @@
     "subtema": "Industria manufacturera",
     "agrupamiento": "Productos Industriales",
     "archivos": [
+      {
+        "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Marzo de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_03_26.xls"
+      },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Diciembre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_12_25.xls"
@@ -18036,7 +18040,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016- enero 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-febrero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
@@ -19652,7 +19656,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_tur_totalpasos_receptivo_2.xls"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-enero 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-febrero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
