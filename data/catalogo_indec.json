@@ -11883,12 +11883,12 @@
     "agrupamiento": "Pobreza",
     "archivos": [
       {
-        "nombre_archivo": "Cuadros de pobreza e indigencia en 31 aglomerados urbanos. Segundo semestre de 2016 a primer semestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informe_pobreza_09_25.xls"
+        "nombre_archivo": "Cuadros de pobreza e indigencia en 31 aglomerados urbanos. Segundo semestre de 2016 a segundo semestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informe_pobreza_03_26.xls"
       },
       {
-        "nombre_archivo": "Estimaciones de las tasas de pobreza e indigencia en 31 aglomerados urbanos y según grupos de edad,y sus respectivos coeficientes de variación e intervalos de confianza al 90%. Primer semestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_pobreza_09_25.xlsx"
+        "nombre_archivo": "Estimaciones de las tasas de pobreza e indigencia en 31 aglomerados urbanos y según grupos de edad, y sus respectivos coeficientes de variación e intervalos de confianza al 90%. Segundo semestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_pobreza_03_26.xlsx"
       }
     ]
   },
@@ -13068,6 +13068,14 @@
       {
         "nombre_archivo": "Índices de valor, precio y cantidad, de las importaciones por uso económico, base 2004=100 desde 2004 en adelante",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_mensual_indices_impo_ue.xls"
+      },
+      {
+        "nombre_archivo": "Índices de valor, precios y cantidades de las exportaciones mensuales por grandes rubros y principales subrubros, desde 2004 en adelante",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exportaciones_indices_rubros.xlsx"
+      },
+      {
+        "nombre_archivo": "Índices de valor, precios y cantidades de las importaciones mensuales por usos económicos y principales desagregados, desde 2004 en adelante",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/importaciones_indices_uso_economico.xlsx"
       }
     ]
   },
@@ -13560,7 +13568,7 @@
     "agrupamiento": "Indicadores del sector energético",
     "archivos": [
       {
-        "nombre_archivo": "Indicador sintético de energía (1° trim. 2015-3° trim. 2025), Autogeneración y cogeneración de energía eléctrica (1° trim. 2018-3° trim. 2025) y Biocombustibles (4° trim 2009-3° trim. 2025)",
+        "nombre_archivo": "Indicador sintético de energía (1° trim. 2015-4° trim. 2025), Autogeneración y cogeneración de energía eléctrica (1° trim. 2018-4° trim. 2025) y Biocombustibles (4° trim 2009-4° trim. 2025)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_indicadores_energeticos.xls"
       },
       {
@@ -15090,7 +15098,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn_cuadro_2_3.xlsx"
       },
       {
-        "nombre_archivo": "serie de datos. Julio 2022-enero 2026",
+        "nombre_archivo": "serie de datos. Julio 2022-febrero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn.xlsx"
       },
       {
