@@ -12395,24 +12395,24 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2016.xls"
       },
       {
-        "nombre_archivo": "Población total según escala de ingreso individual. Total de aglomerados urbanos. Segundo trimestre de 2016 al tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_individual_3t25.xls"
+        "nombre_archivo": "Población total según escala de ingreso individual. Total de aglomerados urbanos. Segundo trimestre de 2016 al cuarto trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_individual_4t25.xls"
       },
       {
-        "nombre_archivo": "Población ocupada según escala de ingreso de la ocupación principal. Total de aglomerados urbanos. Segundo trimestre de 2016 al tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_ocupacion_ppal_3t25.xls"
+        "nombre_archivo": "Población ocupada según escala de ingreso de la ocupación principal. Total de aglomerados urbanos. Segundo trimestre de 2016 al cuarto trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_ocupacion_ppal_4t25.xls"
       },
       {
-        "nombre_archivo": "Hogares según escala de ingreso total familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_total_fliar_3t25.xls"
+        "nombre_archivo": "Hogares según escala de ingreso total familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al cuarto trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_total_fliar_4t25.xls"
       },
       {
-        "nombre_archivo": "Hogares según escala de ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_pc_fliar_3t25.xls"
+        "nombre_archivo": "Hogares según escala de ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al cuarto trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_pc_fliar_4t25.xls"
       },
       {
-        "nombre_archivo": "Población total según ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al tercer trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_pc_fliar_3t25.xls"
+        "nombre_archivo": "Población total según ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al cuarto trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_pc_fliar_4t25.xls"
       },
       {
         "nombre_archivo": "Coeficiente de Gini del ingreso per cápita familiar de las personas. Total de aglomerados urbanos. Años 1996-2025",
@@ -15245,8 +15245,8 @@
     "agrupamiento": "Servicios públicos",
     "archivos": [
       {
-        "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - diciembre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_issp_2025.xls"
+        "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - enero de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_issp_2026.xls"
       }
     ]
   },
