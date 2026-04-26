@@ -11524,12 +11524,12 @@
     "agrupamiento": "Condiciones de vida de los hogares",
     "archivos": [
       {
-        "nombre_archivo": "Indicadores de condiciones de vida. Hogares y personas. Total 31 aglomerados urbanos. Segundo semestre de 2016-primer semestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_indicadores_hogares_1_sem_2025.xls"
+        "nombre_archivo": "Indicadores de condiciones de vida. Hogares y personas. Total 31 aglomerados urbanos. Segundo semestre de 2016-segundo semestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_indicadores_hogares_2_sem_2025.xls"
       },
       {
-        "nombre_archivo": "Indicadores de condiciones de vida. Hogares y población. Coeficiente de variación e intervalos de confianza al 90%. Total 31 aglomerados urbanos. Segundo semestre de 2016-primer semestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_coeficientes_hogares_1_sem_2025.xls"
+        "nombre_archivo": "Indicadores de condiciones de vida. Hogares y población. Coeficiente de variación e intervalos de confianza al 90%. Total 31 aglomerados urbanos. Segundo semestre de 2016-segundo semestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_coeficientes_hogares_2_sem_2025.xls"
       }
     ]
   },
@@ -12689,7 +12689,7 @@
     "agrupamiento": "Autoservicios mayoristas",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- enero 2026",
+        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- febrero 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_autoservicios_mayoristas.xlsx"
       },
       {
@@ -12704,8 +12704,8 @@
     "agrupamiento": "Centros de compras",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta nacional de centros de compras. Ventas, locales activos, área bruta locativa, salas cinematográficas, índice de ventas. Enero 2017- enero 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_03_26.xls"
+        "nombre_archivo": "Encuesta nacional de centros de compras. Índices de ventas, ventas totales, locales activos, área bruta locativa y salas cinematográficas. Enero 2017- febrero 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_04_26.xls"
       },
       {
         "nombre_archivo": "Centros de compras. Ventas totales a precios corrientes y a precios constantes, por rubro y jurisdicción. Enero 2015 - agosto 2019",
@@ -12734,7 +12734,7 @@
     "agrupamiento": "Supermercados",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017-enero de 2026",
+        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017-febrero de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_supermercados.xlsx"
       },
       {
@@ -12905,11 +12905,11 @@
     "archivos": [
       {
         "nombre_archivo": "Ver cuadros del informe técnico",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_cuadros_19_03_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_cuadros_20_04_26.xls"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_anexo_cuadros_19_03_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_anexo_cuadros_20_04_26.xls"
       },
       {
         "nombre_archivo": "Balanza comercial argentina por zonas económicas y principales países. Años 2020-2024",
@@ -12924,11 +12924,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_mercosur_20_24.xls"
       },
       {
-        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por continentes y países. Enero-febrero 2026 y enero-febrero 2025",
+        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por continentes y países. Enero-marzo 2026 y enero-marzo 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_continentes_paises_2025_2026.xls"
       },
       {
-        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por secciones y capítulos de la Nomenclatura Común del Mercosur. Enero-febrero 2026 y enero-febrero 2025",
+        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por secciones y capítulos de la Nomenclatura Común del Mercosur. Enero-marzo 2026 y enero-marzo 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_secciones_capitulos_ncm_2025_2026.xls"
       },
       {
@@ -12936,7 +12936,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_gr_80_24.xls"
       },
       {
-        "nombre_archivo": "Exportaciones mensuales, serie desestacionalizada. Enero 1996-febrero 2026",
+        "nombre_archivo": "Exportaciones mensuales, serie desestacionalizada. Enero 1996-marzo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_desestacionalizada_1996_2026.xls"
       },
       {
@@ -12944,11 +12944,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_ncm_20_24.xls"
       },
       {
-        "nombre_archivo": "Exportación mensual por grandes rubros. Enero-febrero de 2026 y año 2025",
+        "nombre_archivo": "Exportación mensual por grandes rubros. Enero-marzo de 2026 y año 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_grandes_rubros_2025_2026.xls"
       },
       {
-        "nombre_archivo": "Exportaciones mensuales, tendencia-ciclo. Enero 1996-febrero 2026",
+        "nombre_archivo": "Exportaciones mensuales, tendencia-ciclo. Enero 1996-marzo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_tendencia_ciclo_1996_2026.xls"
       },
       {
@@ -12960,15 +12960,15 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/imp_ncm_20_24.xls"
       },
       {
-        "nombre_archivo": "Importaciones mensuales, serie desestacionalizada. Enero 1996-febrero 2026",
+        "nombre_archivo": "Importaciones mensuales, serie desestacionalizada. Enero 1996-marzo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_desestacionalizada_1996_2026.xls"
       },
       {
-        "nombre_archivo": "Importaciones mensuales, tendencia-ciclo. Enero 1996-febrero 2026",
+        "nombre_archivo": "Importaciones mensuales, tendencia-ciclo. Enero 1996-marzo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_tendencia_ciclo_1996_2026.xls"
       },
       {
-        "nombre_archivo": "Importación mensual por uso económico. Enero-febrero de 2026 y año 2025",
+        "nombre_archivo": "Importación mensual por uso económico. Enero-marzo de 2026 y año 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_uso_economico_2025_2026.xls"
       },
       {
@@ -15319,7 +15319,7 @@
     "agrupamiento": "Industria manufacturera",
     "archivos": [
       {
-        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-febrero de 2026",
+        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-marzo de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_etn_im.xlsx"
       }
     ]
@@ -18048,12 +18048,16 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-febrero 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-marzo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
         "nombre_archivo": "Turismo receptivo y emisivo. Arribos y salidas de turistas, pernoctaciones y estadía promedio por destino principal y motivo del viaje, tipo de alojamiemto más utilizado y residencia habitual. Año 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_mensual_aeroparque_ezeiza_2026.xlsx"
+      },
+      {
+        "nombre_archivo": "Turismo receptivo y emisivo: llegada y salida de turistas según motivo del viaje, tipo de alojamiento, estadía promedio, gasto, destino de mayor permanencia o país de residencia habitual. Año 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eti26_ezeyaerop_cuadros.xls"
       },
       {
         "nombre_archivo": "Turismo receptivo y emisivo: llegada y salida de turistas según motivo del viaje, tipo de alojamiento, estadía promedio, gasto, destino de mayor permanencia o país de residencia habitual. Año 2025",
@@ -18118,6 +18122,10 @@
       {
         "nombre_archivo": "Turismo receptivo y emisivo: salida y llegada de turistas, estadía promedio y gasto diario promedio. Año 2018",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eti18_cordoba_cuadros.xls"
+      },
+      {
+        "nombre_archivo": "Turismo emisivo y receptivo: salida y llegada de turistas, estadía promedio y gasto diario promedio, según motivo del viaje, tipo de alojamiento más frecuente y destino de mayor permanencia o país de residencia habitual. Año 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eti26_puerto_cuadros.xls"
       },
       {
         "nombre_archivo": "Turismo emisivo y receptivo: salida y llegada de turistas, estadía promedio y gasto diario promedio, según motivo del viaje, tipo de alojamiento más frecuente y destino de mayor permanencia o país de residencia habitual. Año 2025",
@@ -19664,7 +19672,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_tur_totalpasos_receptivo_2.xls"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-febrero 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-marzo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
@@ -19737,7 +19745,7 @@
       },
       {
         "nombre_archivo": "Turistas: salida y llegada, visitas y pernoctes, estadía y gasto diario promedio según tipo de alojamiento, región y país de origen y destino visitado, motivo y modalidad de organización del viaje",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eti25_serie_cuadros.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eti26_serie_cuadros.xls"
       }
     ]
   },
@@ -20085,6 +20093,21 @@
       {
         "nombre_archivo": "Tabla de conversión de radios censales 2001-2010",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/Tablas_conversion_radios_2001_2010.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Cuarto trimestre 2025.",
+    "archivos": [
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2025_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_4_Trim_2025_xls.zip"
       }
     ]
   },
