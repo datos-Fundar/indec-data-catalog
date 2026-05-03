@@ -13058,6 +13058,14 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_indicesexprubros_04.xls"
       },
       {
+        "nombre_archivo": "Índices de valor, precios y cantidades de las exportaciones trimestrales por grandes rubros y principales subrubros, desde 2004 en adelante",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exportaciones_indices_rubros_trimestral.xlsx"
+      },
+      {
+        "nombre_archivo": "Índices de valor, precios y cantidades de las importaciones trimestrales por usos económicos y principales desagregados",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/importaciones_indices_uso_economico_trimestral.xlsx"
+      },
+      {
         "nombre_archivo": "Índices de valor, precio y cantidad, de las exportaciones e importaciones, base 2004=100 desde 2004 en adelante",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_mensual_indices_comex.xls"
       },
@@ -15098,7 +15106,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn_cuadro_2_3.xlsx"
       },
       {
-        "nombre_archivo": "serie de datos. Julio 2022-febrero 2026",
+        "nombre_archivo": "serie de datos. Julio 2022-marzo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn.xlsx"
       },
       {
