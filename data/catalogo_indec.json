@@ -485,14 +485,6 @@
     "agrupamiento": "Censo 2022",
     "archivos": [
       {
-        "nombre_archivo": "Descargar bases para RedatamX",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/bases_censo2022_RedatamX.zip"
-      },
-      {
-        "nombre_archivo": "Descargar metadatos de las bases Redatam del Censo 2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/metadatos_censo2022_redatam.zip"
-      },
-      {
         "nombre_archivo": "Cuadro resumen. Total de población, población en viviendas particulares, población en viviendas colectivas y población en situación de calle, por jurisdicción y sexo registrado al nacer. Año 2022",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_tp_c_resumen.xlsx"
       },
@@ -10935,18 +10927,6 @@
       {
         "nombre_archivo": "Cuadro 19. Región Metropolitana Buenos Aires. Población de 14 años y más en viviendas particulares, por condición de actividad económica, según comuna y partido, entidad, localidad y zona rural. Año 2022",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_rmba_entidades_c19.xlsx"
-      },
-      {
-        "nombre_archivo": "bases del Censo 2022 para procesar con RedatamX",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/bases_censo2022_RedatamX.zip"
-      },
-      {
-        "nombre_archivo": "metadatos de las bases Redatam",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/metadatos_censo2022_redatam.zip"
-      },
-      {
-        "nombre_archivo": "Descargar las bases para Redatam X",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/bases_censo2022_RedatamX.zip"
       }
     ]
   },
@@ -22010,21 +21990,6 @@
       {
         "nombre_archivo": "Bases de datos",
         "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/bases_datos_egh1985.rar"
-      }
-    ]
-  },
-  {
-    "tema": "Bases de datos",
-    "subtema": "Bases de datos",
-    "agrupamiento": "Censo 2022 | Bases REDATAM 2001, 2010 y 2022",
-    "archivos": [
-      {
-        "nombre_archivo": "Descargar bases para RedatamX",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/bases_censo2022_RedatamX.zip"
-      },
-      {
-        "nombre_archivo": "Descargar metadatos de las bases Redatam del Censo 2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/metadatos_censo2022_redatam.zip"
       }
     ]
   },
