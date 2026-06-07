@@ -953,11 +953,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_tp_fecundidad_c24.xlsx"
       },
       {
-        "nombre_archivo": "Cuadro 1. Total del país. Total de viviendas y población según gobierno local. Año 2022 (Actualización: 08/07/2025, por cambios de delimitación solicitados por las DPE de las provincias de Jujuy, La Pampa, Santa Fe, Neuquén y Misiones.)",
+        "nombre_archivo": "Cuadro 1. Total del país. Total de viviendas y población según gobierno local. Año 2022 (actualizado al 03/06/2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_tp_gobierno_local_c1.xlsx"
       },
       {
-        "nombre_archivo": "Cuadro 1. Total del país. Total de viviendas y población según gobierno local. Año 2022 (Actualización: 08/07/2025, por cambios de delimitación solicitados por las DPE de la provincia de Jujuy, La Pampa, Santa Fe, Neuquén y Misiones.)",
+        "nombre_archivo": "Cuadro 1. Total del país. Total de viviendas y población según gobierno local. Año 2022 (actualizado al 03/06/2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_tp_gobierno_local_c1.csv"
       },
       {
@@ -3433,7 +3433,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_cordoba_fecundidad_c24_6.xlsx"
       },
       {
-        "nombre_archivo": "Cuadro 1.6. Provincia de Córdoba. Total de viviendas y población según gobierno local. Año 2022",
+        "nombre_archivo": "Cuadro 1.6. Provincia de Córdoba. Total de viviendas y población según gobierno local. Año 2022 (actualizado al 3/06/2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_cordoba_gobierno_local_c1.xlsx"
       },
       {
@@ -4257,7 +4257,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_entrerios_fecundidad_c24_8.xlsx"
       },
       {
-        "nombre_archivo": "Cuadro 1.8. Provincia de Entre Ríos. Total de viviendas y población según gobierno local. Año 2022",
+        "nombre_archivo": "Cuadro 1.8. Provincia de Entre Ríos. Total de viviendas y población según gobierno local. Año 2022 (actualizado al 3/06/2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_entrerios_gobierno_local_c1.xlsx"
       },
       {
@@ -5081,7 +5081,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_jujuy_fecundidad_c24_10.xlsx"
       },
       {
-        "nombre_archivo": "Cuadro 1.10. Provincia de Jujuy. Total de viviendas y población según gobierno local. Año 2022 (Actualización: 8/07/2025, por cambios de delimitación solicitados por la DPE de la provincia de Jujuy.)",
+        "nombre_archivo": "Cuadro 1.10. Provincia de Jujuy. Total de viviendas y población según gobierno local. Año 2022 (actualizado al 3/06/2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_jujuy_gobierno_local_c1.xlsx"
       },
       {
@@ -5493,7 +5493,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_lapampa_fecundidad_c24_11.xlsx"
       },
       {
-        "nombre_archivo": "Cuadro 1.11. Provincia de La Pampa. Total de viviendas y población según gobierno local. Año 2022 (Actualización: 8/07/2025, por cambios de delimitación solicitados por la DPE de la provincia de La Pampa.)",
+        "nombre_archivo": "Cuadro 1.11. Provincia de La Pampa. Total de viviendas y población según gobierno local. Año 2022 (actualizado al 3/06/2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_lapampa_gobierno_local_c1.xlsx"
       },
       {
@@ -7141,7 +7141,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_neuquen_fecundidad_c24_15.xlsx"
       },
       {
-        "nombre_archivo": "Cuadro 1.15. Provincia del Neuquén. Total de viviendas y población según gobierno local. Año 2022 (Actualización: 8/07/2025, por cambios de delimitación solicitados por la DPE de la provincia del Neuquén.)",
+        "nombre_archivo": "Cuadro 1.15. Provincia del Neuquén. Total de viviendas y población según gobierno local. Año 2022 (actualizado al 3/06/2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_neuquen_gobierno_local_c1.xlsx"
       },
       {
@@ -7553,7 +7553,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_rionegro_fecundidad_c24_16.xlsx"
       },
       {
-        "nombre_archivo": "Cuadro 1.16. Provincia de Río Negro. Total de viviendas y población según gobierno local. Año 2022",
+        "nombre_archivo": "Cuadro 1.16. Provincia de Río Negro. Total de viviendas y población según gobierno local. Año 2022 (actualizado al 3/06/2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_rionegro_gobierno_local_c1.xlsx"
       },
       {
@@ -9613,7 +9613,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_santafe_fecundidad_c24_21.xlsx"
       },
       {
-        "nombre_archivo": "Cuadro 1.21. Provincia de Santa Fe. Total de viviendas y población según gobierno local. Año 2022 (Actualización: 08/07/2025, por cambios de delimitación solicitados por la DPE de la provincia de Santa Fe.)",
+        "nombre_archivo": "Cuadro 1.21. Provincia de Santa Fe. Total de viviendas y población según gobierno local. Año 2022 (actualizado al 3/06/2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/c2022_santafe_gobierno_local_c1.xlsx"
       },
       {
@@ -11545,44 +11545,44 @@
     "agrupamiento": "Industrias culturales",
     "archivos": [
       {
-        "nombre_archivo": "Salas y pantallas de cine, espectadores y recaudación por origen de la película. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030801_2023.xlsx"
+        "nombre_archivo": "Salas y pantallas de cine, espectadores y recaudación por origen de la película. Total del país. Años 2013-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010801_2025.xlsx"
       },
       {
-        "nombre_archivo": "Salas y pantallas de cine, espectadores y recaudación, por jurisdicción. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030802_2023.xlsx"
+        "nombre_archivo": "Salas y pantallas de cine, espectadores y recaudación, por jurisdicción. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010802_2025.xlsx"
       },
       {
         "nombre_archivo": "Circulación neta de diarios. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030808_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010808_2025.xlsx"
       },
       {
-        "nombre_archivo": "Circulación bruta de revistas nacionales y extranjeras por género. Total del país. Años 2013-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030809_2023.xlsx"
+        "nombre_archivo": "Circulación bruta de revistas nacionales y extranjeras por género. Total del país. Años 2013-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010809_2025.xlsx"
       },
       {
         "nombre_archivo": "Circulación neta de diarios por jurisdicción y publicación. Total del país. Años 2016-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030810_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010810_2025.xlsx"
       },
       {
-        "nombre_archivo": "Ejemplares impresos y títulos registrados en la Cámara Argentina del Libro. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030803_2023.xlsx"
+        "nombre_archivo": "Ejemplares impresos y títulos registrados en la Cámara Argentina del Libro. Total del país. Años 2013-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010803_2025.xlsx"
       },
       {
-        "nombre_archivo": "Títulos por tirada declarada. Total del país. Años 2017- 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030804_2023.xlsx"
+        "nombre_archivo": "Títulos por tirada declarada. Total del país. Años 2017- 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010804_2025.xlsx"
       },
       {
-        "nombre_archivo": "Títulos por tipo de empresa o entidad editora. Total del país. Años 2017-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030805_2023.xlsx"
+        "nombre_archivo": "Títulos por tipo de empresa o entidad editora. Total del país. Años 2017-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010805_2025.xlsx"
       },
       {
-        "nombre_archivo": "Producción editorial por tipo de soporte. Total del país. Años 2017-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030806_2023.xlsx"
+        "nombre_archivo": "Producción editorial por tipo de soporte. Total del país. Años 2017-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010806_2025.xlsx"
       },
       {
-        "nombre_archivo": "Producción editorial por títulos editados y tirada, según género. Total del país. Años 2017-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030807_2023.xlsx"
+        "nombre_archivo": "Producción editorial por títulos editados y tirada, según género. Total del país. Años 2021-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010807_2025.xlsx"
       }
     ]
   },
@@ -11619,48 +11619,52 @@
     "agrupamiento": "Sistema educativo",
     "archivos": [
       {
-        "nombre_archivo": "Alumnos de educación común por nivel de enseñanza y sector de gestión, según jurisdicción. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030401_2023.xlsx"
+        "nombre_archivo": "Alumnos de educación común por nivel de enseñanza y sector de gestión, según jurisdicción. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010401_2025.xlsx"
       },
       {
-        "nombre_archivo": "Alumnos repitentes de educación común por nivel de enseñanza y sector de gestión, según jurisdicción. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030402_2023.xlsx"
+        "nombre_archivo": "Alumnos repitentes de educación común por nivel de enseñanza y sector de gestión, según jurisdicción. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010402_2025.xlsx"
       },
       {
-        "nombre_archivo": "Alumnos, nuevos inscriptos, reinscriptos y egresados de carreras de pregrado y grado, según instituciones universitarias de gestión estatal. Total del país. Año 2022 y egresados 2021",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030407_2023.xlsx"
+        "nombre_archivo": "Alumnos, nuevos inscriptos, reinscriptos y egresados de carreras de pregrado y grado, según instituciones universitarias de gestión estatal. Total del país. Año 2023 y egresados 2022",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010407_2025.xlsx"
       },
       {
-        "nombre_archivo": "Alumnos, nuevos inscriptos, reinscriptos y egresados de carreras de pregrado y grado, según instituciones universitarias de gestión privada. Total del país. Año 2022 y egresados 2021",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030408_2023.xlsx"
+        "nombre_archivo": "Alumnos, nuevos inscriptos, reinscriptos y egresados de carreras de pregrado y grado, según instituciones universitarias de gestión privada. Total del país. Año 2023 y egresados 2022",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010408_2025.xlsx"
       },
       {
-        "nombre_archivo": "Alumnos, nuevos inscriptos, reinscriptos y egresados de carreras de pregrado y grado en instituciones universitarias de gestión estatal, según jurisdicción. Total del país. Año 2022 y egresados 2021",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030409_2023.xlsx"
+        "nombre_archivo": "Alumnos, nuevos inscriptos, reinscriptos y egresados de carreras de pregrado y grado en instituciones universitarias de gestión estatal, según jurisdicción. Total del país. Año 2023 y egresados 2022",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010409_2025.xlsx"
       },
       {
-        "nombre_archivo": "Alumnos, nuevos inscriptos, reinscriptos y egresados de carreras de pregrado y grado en instituciones universitarias de gestión privada, según jurisdicción. Total del país. Año 2022 y egresados 2021",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030410_2023.xlsx"
+        "nombre_archivo": "Alumnos, nuevos inscriptos, reinscriptos y egresados de carreras de pregrado y grado en instituciones universitarias de gestión privada, según jurisdicción. Total del país. Año 2023 y egresados 2022",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010410_2025.xlsx"
       },
       {
-        "nombre_archivo": "Unidades de servicio de educación común por nivel de enseñanza y ciclo, según jurisdicción. Total del país. Años 2017-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030406_2023.xlsx"
+        "nombre_archivo": "Distribución de estudiantes de carreras universitarias de pregrado y grado, por rama de estudio, según sexo. Total del país. Años 2016-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010414_2025.xlsx"
       },
       {
-        "nombre_archivo": "Cargos docentes de educación común por nivel de enseñanza, según jurisdicción. Total del país. Años 2017-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030404_2023.xlsx"
+        "nombre_archivo": "Unidades de servicio de educación común por nivel de enseñanza y ciclo, según jurisdicción. Total del país. Años 2017-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010406_2025.xlsx"
       },
       {
-        "nombre_archivo": "Distribución porcentual de establecimientos y alumnos de educación común por sector de gestión, según jurisdicción. Total del país. Años 2017-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030403_2023.xlsx"
+        "nombre_archivo": "Cargos docentes de educación común por nivel de enseñanza, según jurisdicción. Total del país. Años 2017-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010404_2025.xlsx"
       },
       {
-        "nombre_archivo": "Cargos en universidades nacionales por escalafón, según institución. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030411_2023.xlsx"
+        "nombre_archivo": "Distribución porcentual de establecimientos y alumnos de educación común por sector de gestión, según jurisdicción. Total del país. Años 2017-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010403_2025.xlsx"
       },
       {
-        "nombre_archivo": "Horas cátedra de educación común por nivel de enseñanza, según jurisdicción. Total del país. Años 2017-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030405_2023.xlsx"
+        "nombre_archivo": "Cargos en universidades nacionales por escalafón, según institución. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010411_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Horas cátedra de educación común por nivel de enseñanza, según jurisdicción. Total del país. Años 2017-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010405_2025.xlsx"
       }
     ]
   },
@@ -12246,7 +12250,11 @@
     "agrupamiento": "Accesos a internet",
     "archivos": [
       {
-        "nombre_archivo": "Accesos a internet, residenciales y de organizaciones por tipo de conexión. Total del país, según provincia. Enero 2015 - diciembre 2025",
+        "nombre_archivo": "Accesos a internet por tipo de acceso y categoría, según jurisdicción. Enero 2022-marzo 2026 (panel de más de 140 informantes)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie22_accesos_internet.xlsx"
+      },
+      {
+        "nombre_archivo": "Accesos a internet, residenciales y de organizaciones por tipo de conexión. Total del país, según provincia. Enero 2015 - diciembre 2025 (panel de 119 informantes)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/accesos_internet.xls"
       }
     ]
@@ -12892,16 +12900,16 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_anexo_cuadros_20_05_26.xls"
       },
       {
-        "nombre_archivo": "Balanza comercial argentina por zonas económicas y principales países. Años 2020-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_zonas_paises_20_24.xls"
+        "nombre_archivo": "Balanza comercial argentina por zonas económicas y principales países. Años 2021-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_zonas_paises_21_25.xls"
       },
       {
-        "nombre_archivo": "Balanza comercial argentina por secciones de la Nomenclatura Común del Mercosur. Años 2020-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_secciones_20_24.xls"
+        "nombre_archivo": "Balanza comercial argentina por secciones de la Nomenclatura Común del Mercosur. Años 2021-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_secciones_21_25.xls"
       },
       {
-        "nombre_archivo": "Balanza comercial argentina con los países del Mercosur. Años 2020-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_mercosur_20_24.xls"
+        "nombre_archivo": "Balanza comercial argentina con los países del Mercosur. Años 2021-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_mercosur_21_25.xls"
       },
       {
         "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por continentes y países. Enero-abril 2026 y enero-abril 2025",
@@ -12912,16 +12920,16 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_secciones_capitulos_ncm_2025_2026.xls"
       },
       {
-        "nombre_archivo": "Exportación por grandes rubros. Años 1980-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_gr_80_24.xls"
+        "nombre_archivo": "Exportación por grandes rubros. Años 1980-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_gr_80_25.xls"
       },
       {
         "nombre_archivo": "Exportaciones mensuales, serie desestacionalizada. Enero 1996-abril 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_desestacionalizada_1996_2026.xls"
       },
       {
-        "nombre_archivo": "Exportación por principales capítulos de la Nomenclatura Común del Mercosur. Años 2020-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_ncm_20_24.xls"
+        "nombre_archivo": "Exportación por principales capítulos de la Nomenclatura Común del Mercosur. Años 2021-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_ncm_21_25.xls"
       },
       {
         "nombre_archivo": "Exportación mensual por grandes rubros. Enero-abril de 2026 y año 2025",
@@ -12932,12 +12940,12 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_tendencia_ciclo_1996_2026.xls"
       },
       {
-        "nombre_archivo": "Importación por uso económico. Años 1980-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/imp_uso_econ_80_24.xls"
+        "nombre_archivo": "Importación por uso económico. Años 1980-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/imp_uso_econ_80_25.xls"
       },
       {
-        "nombre_archivo": "Importación por principales capítulos de la Nomenclatura Común del Mercosur. Años 2020-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/imp_ncm_20_24.xls"
+        "nombre_archivo": "Importación por principales capítulos de la Nomenclatura Común del Mercosur. Años 2021-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/imp_ncm_21_25.xls"
       },
       {
         "nombre_archivo": "Importaciones mensuales, serie desestacionalizada. Enero 1996-abril 2026",
@@ -12956,8 +12964,8 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balanmensual.xls"
       },
       {
-        "nombre_archivo": "Balanza comercial argentina. Años 1910-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_1910_2024.xls"
+        "nombre_archivo": "Balanza comercial argentina. Años 1910-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_1910_2025.xls"
       },
       {
         "nombre_archivo": "Composición de las Zonas Económicas",
@@ -15008,71 +15016,83 @@
     "archivos": [
       {
         "nombre_archivo": "Superficie implantada de cereales por cultivo",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050101_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030101_2025.xlsx"
       },
       {
         "nombre_archivo": "Superficie cosechada de cereales por cultivo",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050102_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030102_2025.xlsx"
       },
       {
         "nombre_archivo": "Producción de cereales por cultivo",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050103_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030103_2025.xlsx"
       },
       {
         "nombre_archivo": "Superficie implantada de oleaginosas por cultivo",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050104_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030104_2025.xlsx"
       },
       {
         "nombre_archivo": "Superficie cosechada de oleaginosas por cultivo",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050105_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030105_2025.xlsx"
       },
       {
         "nombre_archivo": "Producción de oleaginosas por cultivo",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050106_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030106_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Superficie implantada de legumbres, por cultivo",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030107_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Superficie cosechada de legumbres, por cultivo",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030108_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Producción de legumbres, por cultivo",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030109_2025.xlsx"
       },
       {
         "nombre_archivo": "Faena, exportación y consumo de carne vacuna, porcina, ovina y aviar. Total del país",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050201_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030110_2025.xlsx"
       },
       {
-        "nombre_archivo": "Producción y consumo aparente de huevos. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050204_2023.xlsx"
+        "nombre_archivo": "Producción y consumo aparente de huevos. Total del país. Años 2013-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030113_2025.xlsx"
       },
       {
-        "nombre_archivo": "Producción de leche. Total del país. Años 2015-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050203_2023.xlsx"
+        "nombre_archivo": "Producción de leche. Total del país. Años 2015-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030112_2025.xlsx"
       },
       {
-        "nombre_archivo": "Faena de aves y otros animales. Total del país. Años 2013-2023 y primer trimestre de 2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050202_2023.xlsx"
+        "nombre_archivo": "Faena de aves y otros animales. Total del país. Años 2013-2024 y primer trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030111_2025.xlsx"
       },
       {
-        "nombre_archivo": "Pesca marítima de altura de peces y mariscos, por jurisdicción, según puerto. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050403_2023.xlsx"
+        "nombre_archivo": "Pesca marítima de altura de peces y mariscos, por jurisdicción, según puerto. Años 2013-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030119_2025.xlsx"
       },
       {
-        "nombre_archivo": "Pesca marítima por especie. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050404_2023.xlsx"
+        "nombre_archivo": "Pesca marítima por especie. Años 2013-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030120_2025.xlsx"
       },
       {
-        "nombre_archivo": "Producción por acuicultura, según especies. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050401_2023.xlsx"
+        "nombre_archivo": "Producción por acuicultura, según especies. Años 2013-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030117_2025.xlsx"
       },
       {
-        "nombre_archivo": "Producción por acuicultura, precios por kilogramo entero y valor de la producción, según especies. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050402_2023.xlsx"
+        "nombre_archivo": "Producción por acuicultura, precios por kilogramo entero y valor de la producción, según especies. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030118_2025.xlsx"
       },
       {
-        "nombre_archivo": "Extracción de productos forestales. Años 2012-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050301_2023.xlsx"
+        "nombre_archivo": "Extracción de productos forestales. Años 2012-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030114_2025.xlsx"
       },
       {
-        "nombre_archivo": "Producción industrial de origen forestal. Años 2012-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050302_2023.xlsx"
+        "nombre_archivo": "Producción industrial de origen forestal. Años 2012-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030115_2025.xlsx"
       },
       {
-        "nombre_archivo": "Exportación e importación de principales productos de origen forestal. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/050303_2023.xlsx"
+        "nombre_archivo": "Exportación e importación de principales productos de origen forestal. Años 2013-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/02030116_2025.xlsx"
       }
     ]
   },
