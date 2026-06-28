@@ -12383,27 +12383,27 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2016.xls"
       },
       {
-        "nombre_archivo": "Población total según escala de ingreso individual. Total de aglomerados urbanos. Segundo trimestre de 2016 al cuarto trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_individual_4t25.xls"
+        "nombre_archivo": "Población total según escala de ingreso individual. Total de aglomerados urbanos. Segundo trimestre de 2016 al primer trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_individual_1t26.xls"
       },
       {
-        "nombre_archivo": "Población ocupada según escala de ingreso de la ocupación principal. Total de aglomerados urbanos. Segundo trimestre de 2016 al cuarto trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_ocupacion_ppal_4t25.xls"
+        "nombre_archivo": "Población ocupada según escala de ingreso de la ocupación principal. Total de aglomerados urbanos. Segundo trimestre de 2016 al primer trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_ocupacion_ppal_1t26.xls"
       },
       {
-        "nombre_archivo": "Hogares según escala de ingreso total familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al cuarto trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_total_fliar_4t25.xls"
+        "nombre_archivo": "Hogares según escala de ingreso total familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al primer trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_total_fliar_1t26.xls"
       },
       {
-        "nombre_archivo": "Hogares según escala de ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al cuarto trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_pc_fliar_4t25.xls"
+        "nombre_archivo": "Hogares según escala de ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al primer trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_pc_fliar_1t26.xls"
       },
       {
-        "nombre_archivo": "Población total según ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al cuarto trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_pc_fliar_4t25.xls"
+        "nombre_archivo": "Población total según ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al primer trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_pc_fliar_1t26.xls"
       },
       {
-        "nombre_archivo": "Coeficiente de Gini del ingreso per cápita familiar de las personas. Total de aglomerados urbanos. Años 1996-2025",
+        "nombre_archivo": "Coeficiente de Gini del ingreso per cápita familiar de las personas. Total de aglomerados urbanos. Años 1996-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_coeficiente_gini.xlsx"
       },
       {
@@ -12509,16 +12509,16 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_tnu_3t_2025.xls"
       },
       {
-        "nombre_archivo": "Mercado de trabajo. Tasas e indicadores socioeconómicos (EPH). Primer trimestre 2017 a cuarto trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tasas_indicadores_eph_03_26.xls"
+        "nombre_archivo": "Mercado de trabajo. Tasas e indicadores socioeconómicos (EPH). Primer trimestre 2017 a primer trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_tasas_indicadores_eph_06_26.xls"
       },
       {
-        "nombre_archivo": "Mercado de trabajo. Principales tasas del mercado laboral (EPH). Segundo trimestre 2016 a cuarto trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_eph_informe_03_26.xls"
+        "nombre_archivo": "Mercado de trabajo. Principales tasas del mercado laboral (EPH). Segundo trimestre 2016 a primer trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_eph_informe_06_26.xls"
       },
       {
-        "nombre_archivo": "Estimaciones de los principales indicadores de mercado de trabajo y de sus repectivos coeficientes de variación e intervalos de confianza al 90%. Total 31 aglomerados urbanos. Cuarto trimestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_03_26.xlsx"
+        "nombre_archivo": "Estimaciones de los principales indicadores de mercado de trabajo y de sus repectivos coeficientes de variación e intervalos de confianza al 90%. Total 31 aglomerados urbanos. Primer trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_mdt_06_26.xlsx"
       },
       {
         "nombre_archivo": "Mercado de trabajo. Indicadores socioeconómicos (EPH). Primer trimestre de 2020",
@@ -12540,15 +12540,15 @@
     "agrupamiento": "Salarios",
     "archivos": [
       {
-        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-marzo de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_05_26.xls"
+        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-abril de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_06_26.xls"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-marzo de 2026",
+        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-abril de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indice_salarios.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-marzo de 2026",
+        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-abril de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variacion_indice_salarios.csv"
       },
       {
@@ -13096,19 +13096,19 @@
     "agrupamiento": "Balanza de pagos",
     "archivos": [
       {
-        "nombre_archivo": "Estadísticas integradas de balanza de pagos, posición de inversión internacional y deuda externa. Años 2006-2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cin_IV_2025.xls"
+        "nombre_archivo": "Estadísticas integradas de balanza de pagos, posición de inversión internacional y deuda externa. Años 2006-2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cin_I_2026.xls"
       },
       {
-        "nombre_archivo": "Estadísticas de balanza de pagos, en formato SDMX-ML. Años 2006-2025",
+        "nombre_archivo": "Estadísticas de balanza de pagos, en formato SDMX-ML. Años 2006-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/BOP.xml"
       },
       {
-        "nombre_archivo": "Estadísticas de Posición de Inversión Internacional, en formato SDMX-ML. Años 2006-2025",
+        "nombre_archivo": "Estadísticas de Posición de Inversión Internacional, en formato SDMX-ML. Años 2006-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/IIP.XML"
       },
       {
-        "nombre_archivo": "Estadísticas de deuda externa, en formato SDMX-ML. Años 2006-2025",
+        "nombre_archivo": "Estadísticas de deuda externa, en formato SDMX-ML. Años 2006-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/EXD.XML"
       },
       {
@@ -13164,11 +13164,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_transferencias_personales.csv"
       },
       {
-        "nombre_archivo": "país interlocutor, en formato .csv. Años 2015-2025",
+        "nombre_archivo": "país interlocutor, en formato .csv. Años 2015-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_transferencias_personales.csv"
       },
       {
-        "nombre_archivo": "Base de datos de la estimación de transferencias personales de la balanza de pagos por país interlocutor, en formto SDMX-ML. Años 2015-2025",
+        "nombre_archivo": "Base de datos de la estimación de transferencias personales de la balanza de pagos por país interlocutor, en formto SDMX-ML. Años 2015-2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/Base_transferencias_SDMX.xml"
       },
       {
@@ -13180,19 +13180,19 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/Base_servicios_internacionales_trim_pais.csv"
       },
       {
-        "nombre_archivo": "Base de datos de la estimación de servicios internacionales por la Clasificación Ampliada de Balance de Pagos de Servicios 2010 (CABPS) y país interlocutor para los años 2015-2024, en formato csv",
+        "nombre_archivo": "Base de datos de la estimación de servicios internacionales por la Clasificación Ampliada de Balance de Pagos de Servicios 2010 (CABPS) y país interlocutor para los años 2015-2025, en formato csv",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/Base_servicios_internacionales_pais_CABPS.csv"
       },
       {
-        "nombre_archivo": "Base de datos de la estimación de servicios internacionales por la Clasificación Ampliada de Balance de Pagos de Servicios 2010 (CABPS) y país interlocutor para los años 2015-2024, en formato SDMX-ML",
+        "nombre_archivo": "Base de datos de la estimación de servicios internacionales por la Clasificación Ampliada de Balance de Pagos de Servicios 2010 (CABPS) y país interlocutor para los años 2015-2025, en formato SDMX-ML",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/Base_servicios_SDMX.zip"
       },
       {
-        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato .xlsx. Base de datos. Primer trimestre de 2016 a cuarto trimestre de 2025",
+        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato .xlsx. Base de datos. Primer trimestre de 2016 a primer trimestre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_servicios_digitales.xlsx"
       },
       {
-        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato SDMX-ML. Base de datos. Primer trimestre de 2016 a cuarto trimestre de 2025",
+        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato SDMX-ML. Base de datos. Primer trimestre de 2016 a primer trimestre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_servicios_digitales_SDMX.xml"
       },
       {
@@ -13226,16 +13226,16 @@
     "agrupamiento": "Agregados macroeconómicos (PIB)",
     "archivos": [
       {
-        "nombre_archivo": "Series trimestrales de oferta y demanda globales. Años 2004-2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_oferta_demanda_03_26.xls"
+        "nombre_archivo": "Series trimestrales de oferta y demanda globales. Años 2004-2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_oferta_demanda_06_26.xls"
       },
       {
-        "nombre_archivo": "Series trimestrales desestacionalizadas de oferta y demanda globales. Años 2004-2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_oferta_demanda_desest_03_26.xls"
+        "nombre_archivo": "Series trimestrales desestacionalizadas de oferta y demanda globales. Años 2004-2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_oferta_demanda_desest_06_26.xls"
       },
       {
-        "nombre_archivo": "Series por sector de actividad económica: valor bruto de producción y valor agregado bruto. Años 2004-2025, por trimestre",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_VBP_VAB_03_26.xls"
+        "nombre_archivo": "Series por sector de actividad económica: valor bruto de producción y valor agregado bruto. Años 2004-2026, por trimestre",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_VBP_VAB_06_26.xls"
       },
       {
         "nombre_archivo": "Economía nacional, resto del mundo y estructura porcentual con respecto al PIB. Años 2006-2024",
@@ -13248,6 +13248,10 @@
     "subtema": "Cuentas nacionales",
     "agrupamiento": "Cuadros de oferta y utilización (COU)",
     "archivos": [
+      {
+        "nombre_archivo": "Ver cuadro de oferta y utilización 2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_cou_2023_06_26.xls"
+      },
       {
         "nombre_archivo": "Ver cuadro de oferta y utilización 2022",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_cou_2022_06_25.xls"
@@ -13627,7 +13631,7 @@
     "archivos": [
       {
         "nombre_archivo": "Industria farmacéutica. Facturación trimestral de producción nacional, reventa de importados y país de origen de la droga madre; por grupo anatómico de la clasificación ATC",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_industria_farmaceutica_2025.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_industria_farmaceutica_2026.xls"
       }
     ]
   },
@@ -13647,6 +13651,10 @@
     "subtema": "Industria manufacturera",
     "agrupamiento": "Productos Industriales",
     "archivos": [
+      {
+        "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Junio de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_06_26.xls"
+      },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Marzo de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_03_26.xls"
@@ -18052,7 +18060,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-abril 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-mayo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
@@ -19676,7 +19684,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_tur_totalpasos_receptivo_2.xls"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-abril 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-mayo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
