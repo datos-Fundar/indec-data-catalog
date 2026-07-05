@@ -11785,16 +11785,16 @@
     "agrupamiento": "Perspectiva de género",
     "archivos": [
       {
-        "nombre_archivo": "Índice de feminidad total y de la población de 65 años y más e índice de envejecimiento, por sexo, según jurisdicción. Total del país. Año 2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030901_2023.xlsx"
+        "nombre_archivo": "Índice de feminidad total y de la población de 65 años y más e índice de envejecimiento, según jurisdicción. Total del país. Año 2022",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/050101_2025.xlsx"
       },
       {
-        "nombre_archivo": "Tasa global de fecundidad, edad media de la fecundidad y contribución de la fecundidad adolescente, por jurisdicción. Total del país. Años 2010 y 2021",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030902_2023.xlsx"
+        "nombre_archivo": "Tasa global de fecundidad, edad media de la fecundidad y contribución de la fecundidad adolescente, por jurisdicción. Total del país. Años 2010, 2022 y 2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/050102_2025.xlsx"
       },
       {
-        "nombre_archivo": "Incidencia de la jefatura femenina por tipo de hogar y núcleo conyugal. Total 31 aglomerados urbanos. Segundo trimestre 2016-segundo trimestre 2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030903_2023.xlsx"
+        "nombre_archivo": "Incidencia de la jefatura femenina por tipo de hogar y núcleo conyugal. Total 31 aglomerados urbanos. Segundo trimestre 2016-primer trimestre 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/050103_2025.xlsx"
       },
       {
         "nombre_archivo": "Tasa de asistencia escolar de la población de 6 a 24 años, por sexo y grupo de edad. Total 31 aglomerados urbanos. Segundo trimestre de 2024",
@@ -11825,28 +11825,28 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030910_2023.xlsx"
       },
       {
-        "nombre_archivo": "Participación de la población de 14 años y más en la realización de las tareas del hogar, por sexo. Total 31 aglomerados urbanos. Segundo trimestre de 2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030911_2023.xlsx"
+        "nombre_archivo": "Participación de la población de 14 años y más en la realización de las tareas del hogar, por sexo. Total 31 aglomerados urbanos. Primer trimestre de 2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/050104_2025.xlsx"
       },
       {
         "nombre_archivo": "Porcentaje de participación y tiempo por participante (con y sin simultaneidad), por sexo, según grupo de actividad. Población de 14 años y más. Año 2021",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030912_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/050105_2025.xlsx"
       },
       {
         "nombre_archivo": "Tiempo social y tiempo por participante (con simultaneidad) en el trabajo total, en el trabajo en la ocupación y en el trabajo no remunerado, por sexo. Población de 14 años y más. Año 2021",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030913_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/050106_2025.xlsx"
       },
       {
-        "nombre_archivo": "Registros de casos de violencia por motivos de género, según tipo de violencia y jurisdicción de residencia de la persona en situación de violencia. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030914_2023.xlsx"
+        "nombre_archivo": "Registros de casos de violencia por motivos de género, según tipo de violencia y jurisdicción de residencia de la persona en situación de violencia. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/050107_2025.xlsx"
       },
       {
-        "nombre_archivo": "Registros de casos de violencia por motivos de género, según tipo de violencia y grupo etario de la persona en situación de violencia. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030915_2023.xlsx"
+        "nombre_archivo": "Registros de casos de violencia por motivos de género, según tipo de violencia y grupo etario de la persona en situación de violencia. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/050108_2025.xlsx"
       },
       {
-        "nombre_archivo": "Registros de casos de violencia por motivos de género, según tipo de violencia y nivel educativo de la persona en situación de violencia. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030916_2023.xlsx"
+        "nombre_archivo": "Registros de casos de violencia por motivos de género, según tipo de violencia y nivel educativo de la persona en situación de violencia. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/050109_2025.xlsx"
       }
     ]
   },
@@ -12007,92 +12007,92 @@
     "agrupamiento": "Indicadores de salud",
     "archivos": [
       {
-        "nombre_archivo": "Tasa de mortalidad por mil habitantes, según grupo de edad y sexo. Total del país. Años 2012-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030301_2023.xlsx"
+        "nombre_archivo": "Tasa de mortalidad por 1.000 habitantes, según grupo de edad y sexo. Total del país. Años 2012-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010501_2025.xlsx"
       },
       {
-        "nombre_archivo": "Defunciones, tasa de mortalidad general por 100.000 habitantes y distribución porcentual, según principales causas de muerte y sexo. Total del país. Años 2013-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030302_2023.xlsx"
+        "nombre_archivo": "Defunciones, tasa de mortalidad general por 100.000 habitantes y distribución porcentual, según principales causas de muerte y sexo. Total del país. Años 2013-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010502_2025.xlsx"
       },
       {
-        "nombre_archivo": "Tasa de mortalidad por sida y tuberculosis por sexo, según jurisdicción de residencia de los fallecidos. Total del país. Años 2012-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030304_2023.xlsx"
+        "nombre_archivo": "Tasa de mortalidad por sida y tuberculosis por sexo, según jurisdicción de residencia de los fallecidos. Total del país. Años 2012-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010504_2025.xlsx"
       },
       {
-        "nombre_archivo": "Defunciones por enfermedad de Chagas por sexo, según jurisdicción de residencia de los fallecidos. Total del país. Años 2008-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030305_2023.xlsx"
+        "nombre_archivo": "Defunciones por enfermedad de Chagas por sexo, según jurisdicción de residencia de los fallecidos. Total del país. Años 2008-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010505_2025.xlsx"
       },
       {
-        "nombre_archivo": "Tasa de mortalidad infantil por 1.000 nacidos vivos, según jurisdicción de residencia de la madre. Total del país. Años 2005-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030306_2023.xlsx"
+        "nombre_archivo": "Tasa de mortalidad infantil por 1.000 nacidos vivos, según jurisdicción de residencia de la madre. Total del país. Años 2005-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010506_2025.xlsx"
       },
       {
-        "nombre_archivo": "Tasa de mortalidad infantil neonatal por 1.000 nacidos vivos, según jurisdicción de residencia de la madre. Total del país. Años 2012-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030307_2023.xlsx"
+        "nombre_archivo": "Tasa de mortalidad infantil neonatal por 1.000 nacidos vivos, según jurisdicción de residencia de la madre. Total del país. Años 2012-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010507_2025.xlsx"
       },
       {
-        "nombre_archivo": "Tasa de mortalidad infantil posneonatal por 1.000 nacidos vivos, según jurisdicción de residencia de la madre. Total del país. Años 2009-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030308_2023.xlsx"
+        "nombre_archivo": "Tasa de mortalidad infantil posneonatal por 1.000 nacidos vivos, según jurisdicción de residencia de la madre. Total del país. Años 2009-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010508_2025.xlsx"
       },
       {
-        "nombre_archivo": "Porcentaje de defunciones y tasa de mortalidad neonatal por 1.000 nacidos vivos, según grupo de causas basadas en criterios de reducibilidad. Total del país. Año 2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030309_2023.xlsx"
+        "nombre_archivo": "Porcentaje de defunciones y tasa de mortalidad neonatal por 1.000 nacidos vivos, según grupo de causas basadas en criterios de reducibilidad. Total del país. Año 2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010509_2025.xlsx"
       },
       {
-        "nombre_archivo": "Porcentaje de defunciones y tasa de mortalidad posneonatal por 1.000 nacidos vivos, según grupo de causas basadas en criterios de reducibilidad. Total del país. Año 2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030310_2023.xlsx"
+        "nombre_archivo": "Porcentaje de defunciones y tasa de mortalidad posneonatal por 1.000 nacidos vivos, según grupo de causas basadas en criterios de reducibilidad. Total del país. Año 2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010510_2025.xlsx"
       },
       {
-        "nombre_archivo": "Tasa de mortalidad de 1 a 4 años por jurisdicción. Total del país. Años 2005-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030311_2023.xlsx"
+        "nombre_archivo": "Tasa de mortalidad de 1 a 4 años por jurisdicción. Total del país. Años 2005-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010511_2025.xlsx"
       },
       {
-        "nombre_archivo": "Defunciones y razón de mortalidad materna por 10.000 nacidos vivos, según jurisdicción. Total del país. Años 2006-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030312_2023.xlsx"
+        "nombre_archivo": "Defunciones y razón de mortalidad materna por 10.000 nacidos vivos, según jurisdicción. Total del país. Años 2006-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010512_2025.xlsx"
       },
       {
-        "nombre_archivo": "Defunciones maternas por causas de muerte, según grupos de edad de las fallecidas. Total del país. Años 2012-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030313_2023.xlsx"
+        "nombre_archivo": "Defunciones maternas por causas de muerte, según grupos de edad de las fallecidas. Total del país. Años 2012-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010513_2025.xlsx"
       },
       {
-        "nombre_archivo": "Defunciones de 0 a 24 años por causas externas, según sexo y grupo de edad. Total del país. Años 2015-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030303_2023.xlsx"
+        "nombre_archivo": "Defunciones de 0 a 24 años por causas externas, según sexo y grupo de edad. Total del país. Años 2015-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010503_2025.xlsx"
       },
       {
-        "nombre_archivo": "Nacidos vivos por indicadores seleccionados de natalidad, según jurisdicción. Total del país. Años 2006-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030314_2023.xlsx"
+        "nombre_archivo": "Nacidos vivos por indicadores seleccionados de natalidad, según jurisdicción. Total del país. Años 2006-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010514_2025.xlsx"
       },
       {
-        "nombre_archivo": "Nacidos vivos por edad y nivel de instrucción de las madres, según jurisdicción de residencia. Total del país. Años 2015-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030315_2023.xlsx"
+        "nombre_archivo": "Nacidos vivos por edad y nivel de instrucción de las madres, según jurisdicción de residencia. Total del país. Años 2015-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010515_2025.xlsx"
       },
       {
-        "nombre_archivo": "Población afectada por VIH por año de diagnóstico y sexo, según vías de transmisión. Total del país. Años 2012-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030319_2023.xlsx"
+        "nombre_archivo": "Población afectada por VIH por año de diagnóstico y sexo, según vías de transmisión. Total del país. Años 2012-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010519_2025.xlsx"
       },
       {
-        "nombre_archivo": "Casos de HIV por año de diagnóstico y sexo, según grupo de edad. Total del país. Años 2012-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030320_2023.xlsx"
+        "nombre_archivo": "Casos de HIV por año de diagnóstico y sexo, según grupo de edad. Total del país. Años 2012-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010520_2025.xlsx"
       },
       {
-        "nombre_archivo": "Diagnósticos acumulados de infección por VIH por región y provincia. Total del país. Años 2001-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030321_2023.xlsx"
+        "nombre_archivo": "Diagnósticos acumulados de infección por VIH por región y provincia. Total del país. Años 2001-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010521_2025.xlsx"
       },
       {
-        "nombre_archivo": "Casos notificados de eventos de notificación obligatoria seleccionados por enfermedad. Total del país. Años 2014-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030316_2023.xlsx"
+        "nombre_archivo": "Casos notificados de eventos de notificación obligatoria seleccionados por enfermedad. Total del país. Años 2014-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010516_2025.xlsx"
       },
       {
         "nombre_archivo": "Población total en viviendas particulares. Cobertura de salud según jurisdicción. Total del país. Año 2022",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/c2022_tp_salud_c1.xlsx"
       },
       {
-        "nombre_archivo": "Beneficiarios de obras sociales por naturaleza institucional. Total del país. Años 2003-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030317_2023.xlsx"
+        "nombre_archivo": "Beneficiarios de obras sociales por naturaleza institucional. Total del país. Años 2003-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010517_2025.xlsx"
       },
       {
-        "nombre_archivo": "Cantidad de obras sociales y beneficiarios según naturaleza institucional. Total del país. Años 2003-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030318_2023.xlsx"
+        "nombre_archivo": "Cantidad de obras sociales y beneficiarios según naturaleza institucional. Total del país. Años 2003-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/010518_2025.xlsx"
       }
     ]
   },
@@ -12192,40 +12192,40 @@
     "agrupamiento": "Seguridad pública",
     "archivos": [
       {
-        "nombre_archivo": "Población alojada en centros de detención por situación jurídica, capacidad real de alojamiento, índice de ocupación y establecimientos, según tipo de servicio penitenciario. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030601_2023.xlsx"
+        "nombre_archivo": "Población alojada en centros de detención por situación jurídica, capacidad real de alojamiento, índice de ocupación y establecimientos, según tipo de servicio penitenciario. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/040201_2025.xlsx"
       },
       {
-        "nombre_archivo": "Población alojada en centros de detención por tipo de establecimiento penitenciario, según situación jurídica. Total del país. Años 2013-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030602_2023.xlsx"
+        "nombre_archivo": "Población alojada en centros de detención por tipo de establecimiento penitenciario, según situación jurídica. Total del país. Años 2013-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/040202_2025.xlsx"
       },
       {
-        "nombre_archivo": "Población alojada en centros de detención por situación jurídica, sexo, edad, nacionalidad y nivel de instrucción, según servicio penitenciario. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030603_2023.xlsx"
+        "nombre_archivo": "Población alojada en centros de detención por situación jurídica, sexo, edad, nacionalidad y nivel de instrucción, según servicio penitenciario. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/040203_2025.xlsx"
       },
       {
-        "nombre_archivo": "Procesos penales por sentencias condenatorias y categoría de delitos. Total del país. Años 2009-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030604_2023.xlsx"
+        "nombre_archivo": "Procesos penales por sentencias condenatorias y categoría de delitos. Total del país. Años 2009-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/040204_2025.xlsx"
       },
       {
-        "nombre_archivo": "Sentencias condenatorias por sanción impuesta. Total del país. Años 2019-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030605_2023.xlsx"
+        "nombre_archivo": "Sentencias condenatorias por sanción impuesta. Total del país. Años 2019-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/040205_2025.xlsx"
       },
       {
         "nombre_archivo": "Evolución de las víctimas de homicidios dolosos y tasa cada 100 mil habitantes. Total del país. Años 2014-2023",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030606_2023.xlsx"
       },
       {
-        "nombre_archivo": "Evolución de los robos y robos agravados por lesiones o muertes, tasa cada 100 mil habitantes. Total del país. Años 2014-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030607_2023.xlsx"
+        "nombre_archivo": "Evolución de los robos y robos agravados por lesiones o muertes, tasa cada 100 mil habitantes. Total del país. Años 2014-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/040206_2025.xlsx"
       },
       {
-        "nombre_archivo": "Evolución de víctimas de homicidios dolosos por jurisdicción y tasa cada 100 mil habitantes. Total del país. Años 2014-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030608_2023.xlsx"
+        "nombre_archivo": "Evolución de víctimas de homicidios dolosos por jurisdicción y tasa cada 100 mil habitantes. Total del país. Años 2014-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/040207_2025.xlsx"
       },
       {
-        "nombre_archivo": "Evolución de víctimas de lesiones dolosas por jurisdicción y tasa cada 100 mil habitantes. Total del país. Años 2014-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/030609_2023.xlsx"
+        "nombre_archivo": "Evolución de víctimas de lesiones dolosas por jurisdicción y tasa cada 100 mil habitantes. Total del país. Años 2014-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/040208_2025.xlsx"
       }
     ]
   },
@@ -12525,7 +12525,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_indicadores_eph_06_20.xls"
       },
       {
-        "nombre_archivo": "Indicadores de informalidad laboral. Cuarto trimestre de 2024 a cuarto trimestre de 2025",
+        "nombre_archivo": "Indicadores de informalidad laboral. Cuarto trimestre de 2023 a cuarto trimestre de 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informalidad_laboral_eph_04_26.xlsx"
       },
       {
@@ -13568,7 +13568,7 @@
     "agrupamiento": "Indicadores del sector energético",
     "archivos": [
       {
-        "nombre_archivo": "Indicador sintético de energía (1° trim. 2015-4° trim. 2025), Autogeneración y cogeneración de energía eléctrica (1° trim. 2018-4° trim. 2025) y Biocombustibles (4° trim 2009-4° trim. 2025)",
+        "nombre_archivo": "Indicador sintético de energía (1° trim. 2015-1° trim. 2026), Autogeneración y cogeneración de energía eléctrica (1° trim. 2018-1° trim. 2026) y Biocombustibles (4° trim 2009-1° trim. 2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_indicadores_energeticos.xls"
       },
       {
@@ -15110,7 +15110,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn_cuadro_2_3.xlsx"
       },
       {
-        "nombre_archivo": "serie de datos. Julio 2022-abril 2026",
+        "nombre_archivo": "serie de datos. Julio 2022-mayo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn.xlsx"
       },
       {
@@ -17902,7 +17902,7 @@
       },
       {
         "nombre_archivo": "Año 2010",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eoh_2010_RioGallegos.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/eoh_2010_RíoGallegos.xls"
       },
       {
         "nombre_archivo": "Año 2009",
