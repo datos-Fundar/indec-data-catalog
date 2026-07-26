@@ -12540,15 +12540,15 @@
     "agrupamiento": "Salarios",
     "archivos": [
       {
-        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-abril de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_06_26.xls"
+        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-mayo de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_07_26.xls"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-abril de 2026",
+        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-mayo de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indice_salarios.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-abril de 2026",
+        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-mayo de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variacion_indice_salarios.csv"
       },
       {
@@ -12677,7 +12677,7 @@
     "agrupamiento": "Autoservicios mayoristas",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- abril 2026",
+        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- mayo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_autoservicios_mayoristas.xlsx"
       },
       {
@@ -12692,8 +12692,8 @@
     "agrupamiento": "Centros de compras",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta nacional de centros de compras. Índices de ventas, ventas totales, locales activos, área bruta locativa y salas cinematográficas. Enero 2017- abril 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_06_26.xls"
+        "nombre_archivo": "Encuesta nacional de centros de compras. Índices de ventas, ventas totales, locales activos, área bruta locativa y salas cinematográficas. Enero 2017- mayo 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_07_26.xls"
       },
       {
         "nombre_archivo": "Centros de compras. Ventas totales a precios corrientes y a precios constantes, por rubro y jurisdicción. Enero 2015 - agosto 2019",
@@ -12722,7 +12722,7 @@
     "agrupamiento": "Supermercados",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017-abril de 2026",
+        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017- mayo 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_supermercados.xlsx"
       },
       {
@@ -12893,11 +12893,11 @@
     "archivos": [
       {
         "nombre_archivo": "Ver cuadros del informe técnico",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_cuadros_18_06_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_cuadros_20_07_26.xls"
       },
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_anexo_cuadros_18_06_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/ica_anexo_cuadros_20_07_26.xls"
       },
       {
         "nombre_archivo": "Balanza comercial argentina por zonas económicas y principales países. Años 2021-2025",
@@ -12912,11 +12912,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_mercosur_21_25.xls"
       },
       {
-        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por continentes y países. Enero-mayo 2026 y enero-mayo 2025",
+        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por continentes y países. Enero-junio 2026 y enero-junio 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_continentes_paises_2025_2026.xls"
       },
       {
-        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por secciones y capítulos de la Nomenclatura Común del Mercosur. Enero-mayo 2026 y enero-mayo 2025",
+        "nombre_archivo": "Exportación, importación y saldo de la balanza comercial argentina por secciones y capítulos de la Nomenclatura Común del Mercosur. Enero-junio 2026 y enero-junio 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/balan_secciones_capitulos_ncm_2025_2026.xls"
       },
       {
@@ -12924,7 +12924,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_gr_80_25.xls"
       },
       {
-        "nombre_archivo": "Exportaciones mensuales, serie desestacionalizada. Enero 1996-mayo 2026",
+        "nombre_archivo": "Exportaciones mensuales, serie desestacionalizada. Enero 1996-junio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_desestacionalizada_1996_2026.xls"
       },
       {
@@ -12932,11 +12932,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/exp_ncm_21_25.xls"
       },
       {
-        "nombre_archivo": "Exportación mensual por grandes rubros. Enero-mayo de 2026 y año 2025",
+        "nombre_archivo": "Exportación mensual por grandes rubros. Enero-junio de 2026 y año 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_grandes_rubros_2025_2026.xls"
       },
       {
-        "nombre_archivo": "Exportaciones mensuales, tendencia-ciclo. Enero 1996-mayo 2026",
+        "nombre_archivo": "Exportaciones mensuales, tendencia-ciclo. Enero 1996-junio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/expo_tendencia_ciclo_1996_2026.xls"
       },
       {
@@ -12948,15 +12948,15 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/imp_ncm_21_25.xls"
       },
       {
-        "nombre_archivo": "Importaciones mensuales, serie desestacionalizada. Enero 1996-mayo 2026",
+        "nombre_archivo": "Importaciones mensuales, serie desestacionalizada. Enero 1996-junio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_desestacionalizada_1996_2026.xls"
       },
       {
-        "nombre_archivo": "Importaciones mensuales, tendencia-ciclo. Enero 1996-mayo 2026",
+        "nombre_archivo": "Importaciones mensuales, tendencia-ciclo. Enero 1996-junio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_tendencia_ciclo_1996_2026.xls"
       },
       {
-        "nombre_archivo": "Importación mensual por uso económico. Enero-mayo de 2026 y año 2025",
+        "nombre_archivo": "Importación mensual por uso económico. Enero-junio de 2026 y año 2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/impo_uso_economico_2025_2026.xls"
       },
       {
@@ -15246,7 +15246,7 @@
     "agrupamiento": "Índices de patentamientos",
     "archivos": [
       {
-        "nombre_archivo": "Índices de patentamientos por categoría, provincia y procedencia. Enero de 2014 - marzo de 2026",
+        "nombre_archivo": "Índices de patentamientos por categoría, provincia y procedencia. Enero de 2014 - junio de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_indices_patentamientos.xls"
       }
     ]
@@ -15331,7 +15331,7 @@
     "agrupamiento": "Industria manufacturera",
     "archivos": [
       {
-        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-mayo de 2026",
+        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-junio de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_etn_im.xlsx"
       }
     ]
