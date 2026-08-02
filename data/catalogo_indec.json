@@ -15110,7 +15110,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn_cuadro_2_3.xlsx"
       },
       {
-        "nombre_archivo": "serie de datos. Julio 2022-mayo 2026",
+        "nombre_archivo": "serie de datos. Julio 2022-junio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn.xlsx"
       },
       {
@@ -18060,7 +18060,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-mayo 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-junio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
@@ -19684,7 +19684,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_tur_totalpasos_receptivo_2.xls"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-mayo 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-junio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
@@ -19955,10 +19955,6 @@
     "agrupamiento": "1.Jurisdicción",
     "archivos": [
       {
-        "nombre_archivo": "Capa SIG de jurisdicción, en formato shape, correspondiente al Censo 2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/capa_jurisdicciones.zip"
-      },
-      {
         "nombre_archivo": "listado de códigos y nombres de jurisdicciones",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/c2022_codigos_jurisdicciones.xlsx"
       },
@@ -19977,10 +19973,6 @@
     "subtema": "Unidades geoestadísticas",
     "agrupamiento": "2.Departamento",
     "archivos": [
-      {
-        "nombre_archivo": "Descargar capa SIG de departamento.",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/capa_departamentos_indec.zip"
-      },
       {
         "nombre_archivo": "Descargar listado de nombres y códigos de departamentos",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/c2022_codigos_departamentos.xlsx"
@@ -20005,10 +19997,6 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/c2022_codigos_gobiernos_locales.xlsx"
       },
       {
-        "nombre_archivo": "Descargar capa SIG de gobiernos locales",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/capa_gobiernos_locales.zip"
-      },
-      {
         "nombre_archivo": "Descargar el listado de nombres y códigos de gobiernos locales",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/c2022_codigos_gobiernos_locales.xlsx"
       }
@@ -20020,10 +20008,6 @@
     "agrupamiento": "4.Aglomerado",
     "archivos": [
       {
-        "nombre_archivo": "Descargar la Capa SIG de aglomerado, en formato shape",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/capa_aglomerados.zip"
-      },
-      {
         "nombre_archivo": "Descargar el listado de nombres y códigos de aglomerados",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/c2022_codigos_aglomerados.xlsx"
       }
@@ -20034,10 +20018,6 @@
     "subtema": "Unidades geoestadísticas",
     "agrupamiento": "5.Localidad censal",
     "archivos": [
-      {
-        "nombre_archivo": "Descargar capa SIG correspondiente a las localidades censales de la República Argentina. Actualización: 22/10/2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/capa_localidades_censales.zip"
-      },
       {
         "nombre_archivo": "Descargar listado de nombres y códigos de las localidades censales",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/c2022_codigos_localidades.xlsx"
@@ -20066,34 +20046,8 @@
   {
     "tema": "Geoestadística",
     "subtema": "Unidades geoestadísticas",
-    "agrupamiento": "7. Vías de circulación",
-    "archivos": [
-      {
-        "nombre_archivo": "Descargar capa SIG de vías de circulación",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/capa_vias_de_circulacion.zip"
-      }
-    ]
-  },
-  {
-    "tema": "Geoestadística",
-    "subtema": "Unidades geoestadísticas",
-    "agrupamiento": "8. Fracción censal",
-    "archivos": [
-      {
-        "nombre_archivo": "Descargar capa SIG de fracciones censales de la República Argentina.",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/capa_fracciones_censales.zip"
-      }
-    ]
-  },
-  {
-    "tema": "Geoestadística",
-    "subtema": "Unidades geoestadísticas",
     "agrupamiento": "9. Radio censal",
     "archivos": [
-      {
-        "nombre_archivo": "Descargar capa SIG de radios censales. Actualización: 22/10/2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/capa_radios_censales.zip"
-      },
       {
         "nombre_archivo": "Descargar capas SIG del Censo 2010 de cada una de las jurisidicciones por radios censales",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/capas_2010_radios_censales.zip"
