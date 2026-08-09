@@ -19829,23 +19829,23 @@
     "archivos": [
       {
         "nombre_archivo": "Superficie total del país",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010101_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030101_2025.xlsx"
       },
       {
         "nombre_archivo": "Puntos extremos de la parte continental americana",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010102_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030102_2025.xlsx"
       },
       {
         "nombre_archivo": "Extensión de la parte continental americana",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010103_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030103_2025.xlsx"
       },
       {
         "nombre_archivo": "Longitud de fronteras",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010104_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030104_2025.xlsx"
       },
       {
         "nombre_archivo": "Longitud de costas argentinas",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010105_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030105_2025.xlsx"
       },
       {
         "nombre_archivo": "Distribución de faros en el territorio nacional. Total del país. Año 2023",
@@ -19853,67 +19853,111 @@
       },
       {
         "nombre_archivo": "Montañas más elevadas",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010106_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030106_2025.xlsx"
       },
       {
         "nombre_archivo": "Volcanes activos",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010107_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030107_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Cantidad y superficie de glaciares andinos en 2018, por tipo, según provincia y región. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030119_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Cantidad y superficie de glaciares de la región Andes desérticos, por tipo, según provincia. año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030120_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Superficie de glaciares andinos total y en áreas naturales protegidas, por provincia. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030121_2025.xlsx"
       },
       {
         "nombre_archivo": "Depresiones absolutas del país por provincia",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010108_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030108_2025.xlsx"
       },
       {
-        "nombre_archivo": "Principales islas",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010109_2023.xlsx"
+        "nombre_archivo": "Islas marítimas de mayor superficie",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030109_2025.xlsx"
       },
       {
         "nombre_archivo": "Superficie de las principales cuencas hidrográficas, por sistema hídrico y jurisdicción",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010111_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030111_2025.xlsx"
       },
       {
-        "nombre_archivo": "Longitud y caudal medio anual de los principales ríos en territorio argentino",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010112_2023.xlsx"
+        "nombre_archivo": "Longitud y características del caudal de los principales ríos en territorio argentino",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030112_2025.xlsx"
       },
       {
         "nombre_archivo": "Lagos principales ubicados íntegramente en territorio argentino",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010110_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030110_2025.xlsx"
       },
       {
-        "nombre_archivo": "Precipitaciones anuales por estación meteorológica. Años 2010-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010201_2023.xlsx"
+        "nombre_archivo": "Precipitaciones anuales por estación meteorológica. Años 2010-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030113_2025.xlsx"
       },
       {
-        "nombre_archivo": "Precipitaciones mensuales por estación meteorológica. Años 2010-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010202_2023.xlsx"
+        "nombre_archivo": "Precipitaciones mensuales por estación meteorológica. Años 2010-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030114_2025.xlsx"
       },
       {
-        "nombre_archivo": "Temperaturas medias anuales por estación meteorológica. Años 2010-2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010203_2023.xlsx"
+        "nombre_archivo": "Temperaturas medias anuales por estación meteorológica. Años 2010-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030115_2025.xlsx"
       },
       {
         "nombre_archivo": "Temperaturas medias mensuales por estación meteorológica. Años 2010-2023",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/010204_2023.xlsx"
       },
       {
-        "nombre_archivo": "Áreas protegidas por la Administración de Parques Nacionales, según ecorregión, año de creación y superficie. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/110205_2023.xlsx"
+        "nombre_archivo": "Áreas protegidas por la Administración de Parques Nacionales, según ecorregión, año de creación y superficie. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030129_2025.xlsx"
       },
       {
-        "nombre_archivo": "Superficie de bosque nativo por tipo de región forestal, según provincia. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/110101_2023.xlsx"
+        "nombre_archivo": "Representatividad de las áreas nacionales protegidas a cargo de la Administración de Parques Nacionales, según ecorregión. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030130_2025.xlsx"
       },
       {
-        "nombre_archivo": "Superficie de bosque nativo, por categoría de conservación declarada, según provincia. Total del país. Año 2023",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/110105_2023.xlsx"
+        "nombre_archivo": "Superficie de bosque nativo por tipo de región forestal, según provincia. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030117_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Superficie de bosque nativo declarada, por categoría de conservación declarada, según provincia. Total del país. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030122_2025.xlsx"
       },
       {
         "nombre_archivo": "Superficie de bosque nativo, por tipo de plan de conservación, plan de manejo y planes de conservación y manejo vigentes para cada año. Total del país. Años 2010-2022",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/110107_2023.xlsx"
       },
       {
+        "nombre_archivo": "Cantidad y superficie de las áreas protegidas del SIFAP, por jurisdicción. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030125_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Evolución de la superficie de las áreas protegidas del SIFAP. Años 1990-2022",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030126_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Áreas protegidas costero-marinas y áreas marinas protegidas (estrictamente oceánicas) del SiFAP, según provincia y superficie. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030127_2025.xlsx"
+      },
+      {
         "nombre_archivo": "Visitas a áreas protegidas por la Administración de Parques Nacionales y variación interanual por región. Total del país. Años 2008-2023",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/110207_2023.xlsx"
+      },
+      {
+        "nombre_archivo": "Pérdida de bosque nativo, por provincia. Años 2007-2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030118_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Pérdida de bosque nativo, por categoría de conservación declarada, según provincia. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030123_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Sitios Ramsar de la República Argentina, por jurisdicción, superficie y año de designación. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030128_2025.xlsx"
+      },
+      {
+        "nombre_archivo": "Sitios de Reservas de Biosfera de la Argentina, por jurisdicción, superficie y año de designación. Año 2024",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/030131_2025.xlsx"
       },
       {
         "nombre_archivo": "Superficie y cantidad de departamentos por jurisdicción. Total del país. Año 2023",
@@ -20059,6 +20103,21 @@
       {
         "nombre_archivo": "Tabla de conversión de radios censales 2001-2010",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/Tablas_conversion_radios_2001_2010.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Primer trimestre 2026.",
+    "archivos": [
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2026_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_1_Trim_2026_xls.zip"
       }
     ]
   },
