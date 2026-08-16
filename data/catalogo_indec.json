@@ -2,6 +2,125 @@
   {
     "tema": "Población",
     "subtema": "Censos",
+    "agrupamiento": "Censo 1960",
+    "archivos": [
+      {
+        "nombre_archivo": "Total del país",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_totalpais.zip"
+      },
+      {
+        "nombre_archivo": "Buenos Aires",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_buenosaires.zip"
+      },
+      {
+        "nombre_archivo": "Capital Federal",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_capitalfederal.zip"
+      },
+      {
+        "nombre_archivo": "Catamarca",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_catamarca.zip"
+      },
+      {
+        "nombre_archivo": "Chaco",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_chaco.zip"
+      },
+      {
+        "nombre_archivo": "Chubut",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_chubut.zip"
+      },
+      {
+        "nombre_archivo": "Córdoba",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_cordoba.zip"
+      },
+      {
+        "nombre_archivo": "Corrientes",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_corrientes.zip"
+      },
+      {
+        "nombre_archivo": "Entre Ríos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_entrerios.zip"
+      },
+      {
+        "nombre_archivo": "Formosa",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_formosa.zip"
+      },
+      {
+        "nombre_archivo": "Jujuy",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_jujuy.zip"
+      },
+      {
+        "nombre_archivo": "La Pampa",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_lapampa.zip"
+      },
+      {
+        "nombre_archivo": "La Rioja",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_larioja.zip"
+      },
+      {
+        "nombre_archivo": "Mendoza",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_mendoza.zip"
+      },
+      {
+        "nombre_archivo": "Misiones",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_misiones.zip"
+      },
+      {
+        "nombre_archivo": "Neuquén",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_neuquen.zip"
+      },
+      {
+        "nombre_archivo": "Río Negro",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_rionegro.zip"
+      },
+      {
+        "nombre_archivo": "Salta",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_salta.zip"
+      },
+      {
+        "nombre_archivo": "San Juan",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_sanjuan.zip"
+      },
+      {
+        "nombre_archivo": "San Luis",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_sanluis.zip"
+      },
+      {
+        "nombre_archivo": "Santa Cruz",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_santacruz.zip"
+      },
+      {
+        "nombre_archivo": "Santa Fe",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_santafe.zip"
+      },
+      {
+        "nombre_archivo": "Santiago del Estero",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_santiago.zip"
+      },
+      {
+        "nombre_archivo": "Tierra del Fuego",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_tierradelfuego.zip"
+      },
+      {
+        "nombre_archivo": "Tucumán",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/pv_60_tucuman.zip"
+      },
+      {
+        "nombre_archivo": "Población en localidades y zonas",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/p_60_localidades.zip"
+      },
+      {
+        "nombre_archivo": "Ver el índice de cuadros de vivienda del Censo 1960",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/indice_cuadros_vivienda_censo_1960.xls"
+      },
+      {
+        "nombre_archivo": "Ver el índice de cuados de población del Censo 1960",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/indice_cuadros_poblacion_censo_1960.xls"
+      }
+    ]
+  },
+  {
+    "tema": "Población",
+    "subtema": "Censos",
     "agrupamiento": "Censo 1970",
     "archivos": [
       {
@@ -11482,7 +11601,7 @@
     "agrupamiento": "Canasta básica",
     "archivos": [
       {
-        "nombre_archivo": "Canasta básica alimentaria y canasta básica total. Resultados mensuales expresados en pesos por adulto equivalente y variaciones porcentuales. Abril de 2016 a junio de 2026",
+        "nombre_archivo": "Canasta básica alimentaria y canasta básica total. Resultados mensuales expresados en pesos por adulto equivalente y variaciones porcentuales. Abril de 2016 a julio de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_cba_cbt.xls"
       }
     ]
@@ -11534,7 +11653,7 @@
     "agrupamiento": "Cuenta satélite de cultura",
     "archivos": [
       {
-        "nombre_archivo": "Series históricas de la cuenta satélite de cultura. Años 2004-2024",
+        "nombre_archivo": "Series históricas de la cuenta satélite de cultura. Años 2004-2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/sh_csc.xls"
       }
     ]
@@ -13308,7 +13427,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cst_indicadores_2004_2016_2022.xlsx"
       },
       {
-        "nombre_archivo": "Series históricas de la cuenta satélite de cultura. Años 2004-2024",
+        "nombre_archivo": "Series históricas de la cuenta satélite de cultura. Años 2004-2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/sh_csc.xls"
       }
     ]
@@ -13752,7 +13871,7 @@
     "archivos": [
       {
         "nombre_archivo": "Utilización de la capacidad instalada en la industria, nivel general y bloques sectoriales. Años 2016-2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_capacidad_07_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_capacidad_08_26.xls"
       }
     ]
   },
@@ -13992,23 +14111,23 @@
     "agrupamiento": "Precios al consumidor (IPC)",
     "archivos": [
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, clasificación de grupos. Diciembre de 2016-junio de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_07_26.xls"
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, clasificación de grupos. Diciembre de 2016-julio de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_08_26.xls"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, y clasificación de grupos. Diciembre de 2016-junio de 2026",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, y clasificación de grupos. Diciembre de 2016-julio de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_divisiones.csv"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-junio de 2026",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-julio de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_aperturas.xls"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-junio de 2026",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-julio de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_aperturas.csv"
       },
       {
-        "nombre_archivo": "Índice de precios al consumidor. Precios promedio de un conjunto de elementos de la canasta del IPC, según regiones (Junio de 2017-junio de 2026) y para el GBA (Abril de 2016-junio de 2026)",
+        "nombre_archivo": "Índice de precios al consumidor. Precios promedio de un conjunto de elementos de la canasta del IPC, según regiones (Junio de 2017-julio de 2026) y para el GBA (Abril de 2016-julio de 2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_precios_promedio.xls"
       },
       {
@@ -15257,7 +15376,7 @@
     "agrupamiento": "Servicios públicos",
     "archivos": [
       {
-        "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - abril de 2026",
+        "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - mayo de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_issp_2026.xls"
       }
     ]
