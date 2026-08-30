@@ -12861,7 +12861,7 @@
     "archivos": [
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complejos_exportadores_anexo_cuadros_04_03_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/complejos_exportadores_anexo_cuadros_26_08_26.xls"
       },
       {
         "nombre_archivo": "Exportaciones de bienes, por complejos exportadores. Serie histórica según revisión 2018. Años 2002-2025",
@@ -13361,8 +13361,8 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_VBP_VAB_06_26.xls"
       },
       {
-        "nombre_archivo": "Economía nacional, resto del mundo y estructura porcentual con respecto al PIB. Años 2006-2024",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ingreso_ahorro_nac_08_25.xls"
+        "nombre_archivo": "Economía nacional, resto del mundo y estructura porcentual con respecto al PIB. Años 2006-2025",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ingreso_ahorro_nac_08_26.xls"
       }
     ]
   },
@@ -13461,7 +13461,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_cgi_07_26.xls"
       },
       {
-        "nombre_archivo": "Remuneración al trabajo asalariado, ingreso mixto e insumo de mano de obra, por sexo y tramos de edad. Años 2016-2024",
+        "nombre_archivo": "Remuneración al trabajo asalariado, ingreso mixto e insumo de mano de obra, por sexo y tramos de edad. Años 2016-2025",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_cgi_sexo_edad.xlsx"
       },
       {
@@ -18183,7 +18183,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-junio 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-julio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
@@ -19807,7 +19807,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_tur_totalpasos_receptivo_2.xls"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-junio 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-julio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
@@ -19905,8 +19905,8 @@
     "agrupamiento": "Cuenta de energía",
     "archivos": [
       {
-        "nombre_archivo": "cuadros de la Cuenta de energía. Años 2018-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/territorio/cuadros_cuenta_energia_08_25.xlsx"
+        "nombre_archivo": "cuadros de la Cuenta de energía. Años 2018-2023",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/cuadros_cuenta_energia.xlsx"
       },
       {
         "nombre_archivo": "cuadros de la Cuenta de recursos energéticos. Años 2018-2024",
