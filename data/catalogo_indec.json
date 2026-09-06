@@ -12373,7 +12373,7 @@
     "agrupamiento": "Accesos a internet",
     "archivos": [
       {
-        "nombre_archivo": "Accesos a internet por tipo de acceso y categoría, según jurisdicción. Enero 2022-marzo 2026 (panel de más de 140 informantes)",
+        "nombre_archivo": "Accesos a internet por tipo de acceso y categoría, según jurisdicción. Enero 2022-junio 2026 (panel de más de 140 informantes)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie22_accesos_internet.xlsx"
       },
       {
@@ -13103,7 +13103,7 @@
     "archivos": [
       {
         "nombre_archivo": "Ver anexo de cuadros",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/opex_anexo_cuadros_10_03_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/opex_anexo_cuadros_02_09_26.xls"
       },
       {
         "nombre_archivo": "Origen provincial de las exportaciones de bienes, por provincia y principales Grandes rubros, en millones de dólares. Años 1993-2025",
@@ -15233,7 +15233,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn_cuadro_2_3.xlsx"
       },
       {
-        "nombre_archivo": "serie de datos. Julio 2022-junio 2026",
+        "nombre_archivo": "serie de datos. Julio 2022-julio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn.xlsx"
       },
       {
