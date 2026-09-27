@@ -11990,12 +11990,12 @@
     "agrupamiento": "Pobreza",
     "archivos": [
       {
-        "nombre_archivo": "Cuadros de pobreza e indigencia en 31 aglomerados urbanos. Segundo semestre de 2016 a segundo semestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informe_pobreza_03_26.xls"
+        "nombre_archivo": "Cuadros de pobreza e indigencia en 31 aglomerados urbanos. Segundo semestre de 2016 a primer semestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informe_pobreza_09_26.xls"
       },
       {
-        "nombre_archivo": "Estimaciones de las tasas de pobreza e indigencia en 31 aglomerados urbanos y según grupos de edad, y sus respectivos coeficientes de variación e intervalos de confianza al 90%. Segundo semestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_pobreza_03_26.xlsx"
+        "nombre_archivo": "Estimaciones de las tasas de pobreza e indigencia en 31 aglomerados urbanos y según grupos de edad, y sus respectivos coeficientes de variación e intervalos de confianza al 90%. Primer semestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/coeficientes_variacion_pobreza_09_26.xlsx"
       }
     ]
   },
@@ -12663,15 +12663,15 @@
     "agrupamiento": "Salarios",
     "archivos": [
       {
-        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-junio de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_08_26.xls"
+        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-julio de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_09_26.xls"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-junio de 2026",
+        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-julio de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indice_salarios.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-junio de 2026",
+        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-julio de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variacion_indice_salarios.csv"
       },
       {
@@ -12800,7 +12800,7 @@
     "agrupamiento": "Autoservicios mayoristas",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- junio 2026",
+        "nombre_archivo": "Encuesta de autoservicios mayoristas. Ventas totales a precios constantes y a precios corrientes. Enero 2017- julio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_autoservicios_mayoristas.xlsx"
       },
       {
@@ -12815,8 +12815,8 @@
     "agrupamiento": "Centros de compras",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta nacional de centros de compras. Índices de ventas, ventas totales, locales activos, área bruta locativa y salas cinematográficas. Enero 2017- junio 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_08_26.xls"
+        "nombre_archivo": "Encuesta nacional de centros de compras. Índices de ventas, ventas totales, locales activos, área bruta locativa y salas cinematográficas. Enero 2017- julio 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_compras_09_26.xls"
       },
       {
         "nombre_archivo": "Centros de compras. Ventas totales a precios corrientes y a precios constantes, por rubro y jurisdicción. Enero 2015 - agosto 2019",
@@ -12845,7 +12845,7 @@
     "agrupamiento": "Supermercados",
     "archivos": [
       {
-        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017- junio 2026",
+        "nombre_archivo": "Encuesta de supermercados. Ventas totales a precios constantes y a precios corrientes. Enero 2017- julio 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_supermercados.xlsx"
       },
       {
@@ -15454,7 +15454,7 @@
     "agrupamiento": "Industria manufacturera",
     "archivos": [
       {
-        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-julio de 2026",
+        "nombre_archivo": "Indicadores de la Encuesta de tendencia de negocios de la industria manufacturera: indicador de confianza empresarial, evaluación empresarial de la situación actual y expectativas de la situación futura. Enero de 2025-agosto de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_etn_im.xlsx"
       }
     ]
@@ -18183,7 +18183,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-julio 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-agosto 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
@@ -19807,7 +19807,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_tur_totalpasos_receptivo_2.xls"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-julio 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-agosto 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
