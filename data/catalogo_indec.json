@@ -11225,6 +11225,17 @@
   {
     "tema": "Población",
     "subtema": "Grupos poblacionales",
+    "agrupamiento": "Personas mayores",
+    "archivos": [
+      {
+        "nombre_archivo": "cuadros estadísticos",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_personas_mayores_2026.xlsx"
+      }
+    ]
+  },
+  {
+    "tema": "Población",
+    "subtema": "Grupos poblacionales",
     "agrupamiento": "Población afrodescendiente",
     "archivos": [
       {
@@ -12506,24 +12517,24 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indicadores_eph_total_urbano_ingresos_3t_2016.xls"
       },
       {
-        "nombre_archivo": "Población total según escala de ingreso individual. Total de aglomerados urbanos. Segundo trimestre de 2016 al primer trimestre de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_individual_1t26.xls"
+        "nombre_archivo": "Población total según escala de ingreso individual. Total de aglomerados urbanos. Segundo trimestre de 2016 al segundo trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_individual_2t26.xls"
       },
       {
-        "nombre_archivo": "Población ocupada según escala de ingreso de la ocupación principal. Total de aglomerados urbanos. Segundo trimestre de 2016 al primer trimestre de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_ocupacion_ppal_1t26.xls"
+        "nombre_archivo": "Población ocupada según escala de ingreso de la ocupación principal. Total de aglomerados urbanos. Segundo trimestre de 2016 al segundo trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_ocupacion_ppal_2t26.xls"
       },
       {
-        "nombre_archivo": "Hogares según escala de ingreso total familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al primer trimestre de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_total_fliar_1t26.xls"
+        "nombre_archivo": "Hogares según escala de ingreso total familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al segundo trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_total_fliar_2t26.xls"
       },
       {
-        "nombre_archivo": "Hogares según escala de ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al primer trimestre de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_pc_fliar_1t26.xls"
+        "nombre_archivo": "Hogares según escala de ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al segundo trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/hog_ingreso_pc_fliar_2t26.xls"
       },
       {
-        "nombre_archivo": "Población total según ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al primer trimestre de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_pc_fliar_1t26.xls"
+        "nombre_archivo": "Población total según ingreso per cápita familiar. Total de aglomerados urbanos. Segundo trimestre de 2016 al segundo trimestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/pob_ingreso_pc_fliar_2t26.xls"
       },
       {
         "nombre_archivo": "Coeficiente de Gini del ingreso per cápita familiar de las personas. Total de aglomerados urbanos. Años 1996-2026",
@@ -13220,7 +13231,7 @@
     "archivos": [
       {
         "nombre_archivo": "Estadísticas integradas de balanza de pagos, posición de inversión internacional y deuda externa. Años 2006-2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cin_I_2026.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cin_II_2026.xls"
       },
       {
         "nombre_archivo": "Estadísticas de balanza de pagos, en formato SDMX-ML. Años 2006-2026",
@@ -13311,11 +13322,11 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/Base_servicios_SDMX.zip"
       },
       {
-        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato .xlsx. Base de datos. Primer trimestre de 2016 a primer trimestre de 2026",
+        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato .xlsx. Base de datos. Primer trimestre de 2016 a segundo trimestre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_servicios_digitales.xlsx"
       },
       {
-        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato SDMX-ML. Base de datos. Primer trimestre de 2016 a primer trimestre de 2026",
+        "nombre_archivo": "Estimación de la importación de servicios digitales en la balanza de pagos de la Argentina por país, en formato SDMX-ML. Base de datos. Primer trimestre de 2016 a segundo trimestre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_servicios_digitales_SDMX.xml"
       },
       {
@@ -13483,6 +13494,41 @@
       {
         "nombre_archivo": "Puestos de trabajo asalariado registrados. Números índice, base 2004=100, y variaciones porcentuales. Serie original y serie desestacionalizada",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_erl_5_2016.xls"
+      }
+    ]
+  },
+  {
+    "tema": "Economía",
+    "subtema": "Cuentas nacionales",
+    "agrupamiento": "Productividad y stock de capital",
+    "archivos": [
+      {
+        "nombre_archivo": "serie histórica de stock de capital (2004-2025): activos fijos, productividad total de los factores (2016-2025) y fuentes del crecimiento de productividad laboral (2016-2025)",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_productividad_stock_capital_10_26.xlsx"
+      },
+      {
+        "nombre_archivo": "Stock de capital a precios de 1993. Años 1990-2006",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/stock_constantes_scn93.xls"
+      },
+      {
+        "nombre_archivo": "Tasa de variación del stock de capital a precios de 1993. Años 1990-2006",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/stock_volfisico_scn93.xls"
+      },
+      {
+        "nombre_archivo": "Stock de capital a precios corrientes. Años 1990-2006",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/stock_corrientes_scn93.xls"
+      },
+      {
+        "nombre_archivo": "Estructura del stock de capital a precios corrientes. Años 1990-2006",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/stock_estruccorrientes_scn93.xls"
+      },
+      {
+        "nombre_archivo": "Stock de capital año base 1993",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/base_detallada_scn93.xls"
+      },
+      {
+        "nombre_archivo": "Fuentes de información",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/fuentes_scn93.xls"
       }
     ]
   },
@@ -13691,7 +13737,7 @@
     "agrupamiento": "Indicadores del sector energético",
     "archivos": [
       {
-        "nombre_archivo": "Indicador sintético de energía (1° trim. 2015-1° trim. 2026), Autogeneración y cogeneración de energía eléctrica (1° trim. 2018-1° trim. 2026) y Biocombustibles (4° trim 2009-1° trim. 2026)",
+        "nombre_archivo": "Indicador sintético de energía (1° trim. 2015-2° trim. 2026), Autogeneración y cogeneración de energía eléctrica (1° trim. 2018-2° trim. 2026) y Biocombustibles (4° trim 2009-2° trim. 2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_indicadores_energeticos.xls"
       },
       {
@@ -13774,6 +13820,10 @@
     "subtema": "Industria manufacturera",
     "agrupamiento": "Productos Industriales",
     "archivos": [
+      {
+        "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Septiembre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_09_26.xls"
+      },
       {
         "nombre_archivo": "Estadísticas de Productos Industriales, en formato xls. Junio de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_epi_06_26.xls"
@@ -15233,7 +15283,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn_cuadro_2_3.xlsx"
       },
       {
-        "nombre_archivo": "serie de datos. Julio 2022-julio 2026",
+        "nombre_archivo": "serie de datos. Julio 2022-agosto 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn.xlsx"
       },
       {
