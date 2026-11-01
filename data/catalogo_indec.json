@@ -11060,7 +11060,7 @@
     "archivos": [
       {
         "nombre_archivo": "Población, por sexo e índice de masculinidad, edad mediana y densidad de población, según jurisdicción. Año 2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/020103_2023.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/010103_2025.xlsx"
       },
       {
         "nombre_archivo": "Total de población, población en viviendas particulares, población en viviendas colectivas y población en situación de calle, por jurisdicción y sexo registrado al nacer. Año 2022",
@@ -11108,7 +11108,7 @@
       },
       {
         "nombre_archivo": "Evolución de la población total, según censos nacionales de población. Total del país. Censos 1869-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/020101_2022.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/010101_2025.xlsx"
       },
       {
         "nombre_archivo": "Volumen y crecimiento de la población argentina. Total del país. Censos 1895 - 2010",
@@ -11116,11 +11116,11 @@
       },
       {
         "nombre_archivo": "Estructura de la población total, nativa y no nativa, por grandes grupos de edad. Total del país. Censos nacionales de población 1895-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/020104_2022.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/010104_2025.xlsx"
       },
       {
         "nombre_archivo": "Índice de masculinidad, por origen de la población. Total del país. Censos nacionales de población 1895-2022",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/020102_2022.xlsx"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/poblacion/010102_2025.xlsx"
       }
     ]
   },
@@ -15283,7 +15283,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn_cuadro_2_3.xlsx"
       },
       {
-        "nombre_archivo": "serie de datos. Julio 2022-agosto 2026",
+        "nombre_archivo": "serie de datos. Julio 2022-septiembre 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_dotacion_apn.xlsx"
       },
       {
@@ -18233,7 +18233,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_turismo_receptivo_total_vias.xlsx"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-agosto 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-septiembre 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
@@ -19857,7 +19857,7 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_tur_totalpasos_receptivo_2.xls"
       },
       {
-        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-agosto 2026",
+        "nombre_archivo": "Turismo receptivo y emisivo. Series original, desestacionalizada y tendencia- ciclo. Vía aérea internacional. Enero 2016-septiembre 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/series_eti_via_aerea.xlsx"
       },
       {
