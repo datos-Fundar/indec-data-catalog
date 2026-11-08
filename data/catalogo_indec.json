@@ -11638,12 +11638,12 @@
     "agrupamiento": "Condiciones de vida de los hogares",
     "archivos": [
       {
-        "nombre_archivo": "Indicadores de condiciones de vida. Hogares y personas. Total 31 aglomerados urbanos. Segundo semestre de 2016-segundo semestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_indicadores_hogares_2_sem_2025.xls"
+        "nombre_archivo": "Indicadores de condiciones de vida. Hogares y personas. Total 31 aglomerados urbanos. Segundo semestre de 2016-primer semestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_indicadores_hogares_1_sem_2026.xls"
       },
       {
-        "nombre_archivo": "Indicadores de condiciones de vida. Hogares y población. Coeficiente de variación e intervalos de confianza al 90%. Total 31 aglomerados urbanos. Segundo semestre de 2016-segundo semestre de 2025",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_coeficientes_hogares_2_sem_2025.xls"
+        "nombre_archivo": "Indicadores de condiciones de vida. Hogares y población. Coeficiente de variación e intervalos de confianza al 90%. Total 31 aglomerados urbanos. Segundo semestre de 2016-primer semestre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/eph_coeficientes_hogares_1_sem_2026.xls"
       }
     ]
   },
@@ -20272,6 +20272,21 @@
       {
         "nombre_archivo": "Tabla de conversión de radios censales 2001-2010",
         "url": "https://www.indec.gob.ar/ftp/cuadros/geoestadistica/Tablas_conversion_radios_2001_2010.zip"
+      }
+    ]
+  },
+  {
+    "tema": "Bases de datos",
+    "subtema": "Encuesta Permanente de Hogares (EPH)",
+    "agrupamiento": "Base individual y hogar. Total aglomerados EPH y por aglomerado; total interior; y aglomerados de más y menos de 500.000 habitantes.Segundo trimestre 2026.",
+    "archivos": [
+      {
+        "nombre_archivo": "Formato txt",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2026_txt.zip"
+      },
+      {
+        "nombre_archivo": "Formato xls",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2026_xls.zip"
       }
     ]
   },
