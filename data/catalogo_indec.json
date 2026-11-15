@@ -11616,7 +11616,7 @@
     "agrupamiento": "Canasta básica",
     "archivos": [
       {
-        "nombre_archivo": "Canasta básica alimentaria y canasta básica total. Resultados mensuales expresados en pesos por adulto equivalente y variaciones porcentuales. Abril de 2016 a septiembre de 2026",
+        "nombre_archivo": "Canasta básica alimentaria y canasta básica total. Resultados mensuales expresados en pesos por adulto equivalente y variaciones porcentuales. Abril de 2016 a octubre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/serie_cba_cbt.xls"
       }
     ]
@@ -12674,15 +12674,15 @@
     "agrupamiento": "Salarios",
     "archivos": [
       {
-        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-agosto de 2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_10_26.xls"
+        "nombre_archivo": "Índice de salarios. Números índices y variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-septiembre de 2026",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variaciones_salarios_11_26.xls"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-agosto de 2026",
+        "nombre_archivo": "Series del Índice de salarios. Números índice. Octubre de 2015-septiembre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/indice_salarios.csv"
       },
       {
-        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-agosto de 2026",
+        "nombre_archivo": "Series del Índice de salarios. Variaciones porcentuales respecto del período anterior y acumuladas, por sector. Octubre de 2015-septiembre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/sociedad/variacion_indice_salarios.csv"
       },
       {
@@ -13925,7 +13925,7 @@
     "archivos": [
       {
         "nombre_archivo": "Utilización de la capacidad instalada en la industria, nivel general y bloques sectoriales. Años 2016-2026",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_capacidad_10_26.xls"
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_capacidad_11_26.xls"
       }
     ]
   },
@@ -14165,23 +14165,23 @@
     "agrupamiento": "Precios al consumidor (IPC)",
     "archivos": [
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, clasificación de grupos. Diciembre de 2016-septiembre de 2026",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, clasificación de grupos. Diciembre de 2016-octubre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_divisiones.xls"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, y clasificación de grupos. Diciembre de 2016-septiembre de 2026",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según divisiones de la canasta, bienes y servicios, y clasificación de grupos. Diciembre de 2016-octubre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_divisiones.csv"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-septiembre de 2026",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-octubre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_aperturas.xls"
       },
       {
-        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-septiembre de 2026",
+        "nombre_archivo": "Índices y variaciones porcentuales mensuales e interanuales según principales aperturas de la canasta. Diciembre de 2016-octubre de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_aperturas.csv"
       },
       {
-        "nombre_archivo": "Índice de precios al consumidor. Precios promedio de un conjunto de elementos de la canasta del IPC, según regiones (Junio de 2017-septiembre de 2026) y para el GBA (Abril de 2016-septiembre de 2026)",
+        "nombre_archivo": "Índice de precios al consumidor. Precios promedio de un conjunto de elementos de la canasta del IPC, según regiones (Junio de 2017-octubre de 2026) y para el GBA (Abril de 2016-octubre de 2026)",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_ipc_precios_promedio.xls"
       },
       {
@@ -15078,23 +15078,31 @@
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/CNA18_C_8_2.xlsx"
       },
       {
-        "nombre_archivo": "Resultados preliminares del CNA 2018",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/CNA2018_resultados_preliminares.xls"
+        "nombre_archivo": "Resultados preliminares del CNA 2018, cuadros estadísticos",
+        "url": "http://preprdcarga.indec.gob.ar/ftp/cuadros/economia/CNA2018_resultados_preliminares.xls"
       },
       {
         "nombre_archivo": "Censo Nacional Agropecuario 2008. Cuadros estadísticos por provincia y partido o departamento",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_CNA2008.zip"
+        "url": "http://preprdcarga.indec.gob.ar/ftp/cuadros/economia/cuadros_CNA2008.zip"
+      },
+      {
+        "nombre_archivo": "Cuestionarios del Censo Nacional Agropecuario 2008",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cna2008_cuestionarios.zip"
       },
       {
         "nombre_archivo": "Censo Nacional Agropecuario 2002.Cuadros estadísticos para el total del país y por provincia",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_CNA2002.zip"
       },
       {
-        "nombre_archivo": "Censo Nacional Agropecuario 1988. Resultados básicos",
-        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/a060101.xls"
+        "nombre_archivo": "Cuestionarios del Censo Nacional Agropecuario 2002",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cna2002_cuestionarios.zip"
       },
       {
-        "nombre_archivo": "",
+        "nombre_archivo": "Aspectos metodológicos del Censo Nacional Agropecuario 2002: introducción, definiciones, glosario y decreto censal",
+        "url": "https://www.indec.gob.ar/ftp/cuadros/economia/cna2002_aspectos_metodologicos.zip"
+      },
+      {
+        "nombre_archivo": "Censo Nacional Agropecuario 1988. Resultados básicos",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/a060101.xls"
       },
       {
@@ -15430,7 +15438,7 @@
     "agrupamiento": "Servicios públicos",
     "archivos": [
       {
-        "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - julio de 2026",
+        "nombre_archivo": "Indicador sintético de servicios públicos:serie original, desestacionalizada y tendencia ciclo, base 2004=100. Números índices y variaciones porcentuales, para el nivel general y por sector de actividad económica (electricidad, gas y agua; recolección de residuos; transporte de pasajeros; transporte de carga; peajes; correo postal; telefonía). Enero de 2012 - agosto de 2026",
         "url": "https://www.indec.gob.ar/ftp/cuadros/economia/sh_issp_2026.xls"
       }
     ]
